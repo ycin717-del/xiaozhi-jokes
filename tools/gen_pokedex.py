@@ -465,3 +465,11 @@ with open(os.path.join(OUT, 'pinyin_chars.txt'), 'w', encoding='utf-8') as f:
 print('pinyin keys', len(py_lines), 'bytes', os.path.getsize(os.path.join(OUT, 'pinyin.txt')),
       'char table bytes', os.path.getsize(os.path.join(OUT, 'pinyin_chars.txt')),
       'syllables', len(by_syllable))
+
+# ---------- names.txt: number, name and type ids for the on-device browser ----------
+with open(os.path.join(OUT, 'names.txt'), 'w', encoding='utf-8') as f:
+    for sid in sorted(species):
+        pid = int(default_pokemon[sid]['id'])
+        types = ','.join(str(t) for _, t in sorted(ptypes[pid]))
+        f.write(f"{sid}\t{sp_zh[sid]}\t{types}\n")
+print('names.txt bytes', os.path.getsize(os.path.join(OUT, 'names.txt')))
