@@ -395,3 +395,65 @@ with open(os.path.join(OUT, 'index.txt'), 'w', encoding='utf-8') as f:
 print('species', len(species), 'moves', len(os.listdir(os.path.join(OUT, 'm'))),
       'abilities', len(os.listdir(os.path.join(OUT, 'a'))), 'index keys', len(index),
       'index bytes', os.path.getsize(os.path.join(OUT, 'index.txt')))
+
+# ---------- pronunciation index (for speech-recognition homophones) ----------
+# pinyin.txt:        "<syllables separated by spaces><TAB>ref" (up to two readings per
+#                    polyphonic character, at most 4 variants per name)
+# pinyin_chars.txt:  "<syllable><TAB><every CJK character whose default reading it is>"
+# Pinyin is used only as an internal key for sound matching; it is never shown or spoken.
+import itertools  # noqa: E402
+
+from pypinyin import Style, lazy_pinyin, pinyin  # noqa: E402
+
+
+def is_cjk(c):
+    return 0x3400 <= ord(c) <= 0x9FFF or 0xF900 <= ord(c) <= 0xFAFF
+
+
+display = {}
+for sid in species:
+    display[f'p/{sid}'] = sp_zh[sid]
+for mid in mv_zh:
+    display[f'm/{mid}'] = mv_zh[mid]
+for aid in ab_zh:
+    display[f'a/{aid}'] = ab_zh[aid]
+for t in range(1, NUM_TYPES + 1):
+    display[f't/{t}'] = type_zh[t]
+
+py_lines = set()
+for name_tables, prefix in ((((sp_zh, sp_hans)), 'p'), ((mv_zh, mv_hans), 'm'),
+                            ((ab_zh, ab_hans), 'a'), ((type_zh, type_hans), 't')):
+    for table in name_tables:
+        for ident, name in table.items():
+            ref = f'{prefix}/{ident}'
+            if ref not in display or ident >= 10000:
+                continue
+            chars = [c for c in norm(name) if is_cjk(c)]
+            if len(chars) < 1 or len(chars) != len(norm(name)):
+                continue  # Names with letters or digits are matched by text only
+            word = ''.join(chars)
+            # The device converts each character with its default reading, so that combination
+            # comes first; the phrase reading and other readings of polyphonic characters follow.
+            combos = [tuple(lazy_pinyin(c, errors='ignore')[0] for c in chars),
+                      tuple(lazy_pinyin(word, errors='ignore'))]
+            per_char = [pinyin(c, style=Style.NORMAL, heteronym=True, errors='ignore')[0][:2]
+                        for c in chars]
+            combos += list(itertools.islice(itertools.product(*per_char), 4))
+            for combo in dict.fromkeys(c for c in combos if len(c) == len(chars)):
+                py_lines.add(f"{' '.join(combo)}\t{ref}")
+
+with open(os.path.join(OUT, 'pinyin.txt'), 'w', encoding='utf-8') as f:
+    f.write('\n'.join(sorted(py_lines)) + '\n')
+
+by_syllable = collections.defaultdict(list)
+for code in range(0x4E00, 0xA000):
+    c = chr(code)
+    s = lazy_pinyin(c, style=Style.NORMAL, errors='ignore')
+    if s and s[0].isascii() and s[0].isalpha():
+        by_syllable[s[0]].append(c)
+with open(os.path.join(OUT, 'pinyin_chars.txt'), 'w', encoding='utf-8') as f:
+    for syl in sorted(by_syllable):
+        f.write(f"{syl}\t{''.join(by_syllable[syl])}\n")
+print('pinyin keys', len(py_lines), 'bytes', os.path.getsize(os.path.join(OUT, 'pinyin.txt')),
+      'char table bytes', os.path.getsize(os.path.join(OUT, 'pinyin_chars.txt')),
+      'syllables', len(by_syllable))

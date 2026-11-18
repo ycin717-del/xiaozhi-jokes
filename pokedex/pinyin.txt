@@ -1,0 +1,5950 @@
+a bai guai	p/24
+a bai she	p/23
+a bai yi	p/23
+a bo guai	p/24
+a bo she	p/23
+a bo suo lu	p/359
+a bo suo lv	p/359
+a bo xun lu	p/359
+a bo xun lv	p/359
+a bo yi	p/23
+a er zhou shi	p/493
+a er zhou si	p/493
+a li duo shi	p/168
+a li duo si	p/168
+a mi zhou shi	p/493
+a mi zhou si	p/493
+ai chi dun	p/915
+ai chi tun	p/915
+ai guan shi	p/876
+ai lu lei duo	p/475
+ai luo lei duo	p/475
+ai mu li duo	p/481
+ai qi dun	p/915
+ai qi tun	p/915
+ai xia qiu gu	p/590
+ai xin yi zhang	m/531
+ai xin yin zhang	m/531
+ai xin yu	p/370
+ai ya qiu gu	p/590
+an hei bao po	m/539
+an hei bo po	m/539
+an hei dong	m/464
+an hei qi chang	a/186
+an hei qi shang	a/186
+an hei tong	m/464
+an hei xi chang	a/186
+an hei xi shang	a/186
+an jin	a/72
+an jing	a/72
+an mian jiang ji	m/817
+an mian qiang ji	m/817
+an ming jiang ji	m/817
+an ming jiang xi	m/817
+an ming qiang ji	m/817
+an ming qiang xi	m/817
+an piao chong	p/166
+an piao hui	p/166
+an piao zhong	p/166
+an qing bu ding	a/59
+an qing fou ding	a/59
+an sao pi fu	a/87
+an wei xie	p/451
+an xi yao hai	m/400
+an xi yao he	m/400
+an yi xie	p/451
+an ying qian xi	m/467
+an ying qiu	m/247
+an ying quan	m/325
+an ying tou dao	m/712
+an ying zhao	m/421
+an ying zhi gu	m/708
+an ying zhi guang	m/714
+an ying zhu gu	m/708
+an ying zhu guang	m/714
+an ying zhua	m/421
+an zao pi fu	a/87
+ao gu yan	p/276
+ao jiao fu	p/943
+ao li niu	p/929
+ao li wa	p/930
+ao zhang	m/681
+ba bu du bo	p/923
+ba bu du fa	p/923
+ba bu tu bo	p/923
+ba bu tu fa	p/923
+ba da die	p/12
+ba da tie	p/12
+ba dai die	p/12
+ba dai tie	p/12
+ba dao xiong mao	p/675
+ba dao xiong miao	p/675
+ba dou	m/509
+ba piao chong	p/165
+ba piao hui	p/165
+ba piao zhong	p/165
+ba shou mao	p/509
+ba shou miao	p/509
+ba tou	m/509
+ba wang hua	p/45
+ba yu hua	p/45
+ba zhao wu shi	p/853
+ba zhua wu shi	p/853
+bai bian guai	p/132
+bai hai shi	p/87
+bai he gen gui gui	p/548
+bai he gen gui wa	p/548
+bai he gen wa gui	p/548
+bai he gen wa wa	p/548
+bai ju wu gong	p/543
+bai ju wu zhong	p/543
+bai lou qiu gu	p/591
+bai lu qiu gu	p/591
+bai meng	m/54
+bai peng peng	p/830
+bai se yan meng	a/73
+bai se yan wu	a/73
+bai se yin wu	a/73
+bai shai yan meng	a/73
+bai shai yan wu	a/73
+bai shai yin wu	a/73
+bai wan dun chong die	m/25
+bai wan dun chong quan	m/5
+bai wan dun chong ti	m/25
+bai wan dun zhong die	m/25
+bai wan dun zhong quan	m/5
+bai wan dun zhong ti	m/25
+bai wan tun chong quan	m/5
+bai wan tun zhong quan	m/5
+bai wu	m/54
+bai zu wu gong	p/543
+bai zu wu zhong	p/543
+ban ban ma	p/522
+ban ji la shi	p/248
+ban ji la si	p/248
+ban yan	a/276
+ban yan	m/272
+ban yun xiao jiang	p/532
+bang chu	m/270
+bang jin	m/20
+bang zhu	m/270
+bao bao bao long	p/696
+bao bao bao mang	p/696
+bao bao chong	p/541
+bao bao ding	p/174
+bao bao jian	p/541
+bao bao pu long	p/696
+bao bao pu mang	p/696
+bao bao shou	p/79
+bao bao zheng	p/174
+bao bei long	p/371
+bao bei mang	p/371
+bao chou	m/514
+bao dai shou	p/79
+bao dan hai xing	p/121
+bao en	m/216
+bao fei long	p/373
+bao fei mang	p/373
+bao feng	m/542
+bao feng xue	m/59
+bao fu	m/279
+bao hu se	m/293
+bao hu shai	m/293
+bao huo e	p/909
+bao huo tuo	p/322
+bao ji wen	p/794
+bao ke shou	p/80
+bao le you e	a/258
+bao li long	p/130
+bao li mang	p/130
+bao liao you e	a/258
+bao lie quan	m/223
+bao meng qiu	m/296
+bao meng zha lie	m/802
+bao meng zhi cao zhe	a/228
+bao meng zhi zao zhe	a/228
+bao mu chong	p/542
+bao mu hui	p/542
+bao mu man bei	p/594
+bao mu man bo	p/594
+bao mu zhong	p/542
+bao pao chong	p/541
+bao pao jian	p/541
+bao qiao shou	p/80
+bao qiu	m/514
+bao shi gui	p/834
+bao shi hai xing	p/121
+bao shi jun	p/834
+bao shi qiu	p/834
+bao wu chang de	m/581
+bao wu chang di	m/581
+bao wu chong	p/542
+bao wu man bei	p/594
+bao wu man bo	p/594
+bao wu qiu	m/296
+bao wu shang de	m/581
+bao wu shang di	m/581
+bao wu zha lie	m/802
+bao wu zhi cao zhe	a/228
+bao wu zhi zao zhe	a/228
+bao wu zhong	p/542
+bao xiang hou	p/513
+bao xiang yuan	p/514
+bao xue wang	p/460
+bao xue yu	p/460
+bao yan gui shou	p/776
+bao yan jun shou	p/776
+bao yan qiu shou	p/776
+bao yin bei	m/586
+bao yin bo	m/586
+bao yin guai	p/295
+bao zha lie yan	m/307
+bao zha tou shui niu	p/626
+bao zha tou tu ji	m/543
+bao zha tou tu xi	m/543
+bao zi	a/27
+bei bei	p/16
+bei bei wu qi	m/801
+bei bo	p/16
+bei chui	m/359
+bei dang shui	p/1009
+bei dao dan	m/396
+bei dao fang hu	a/314
+bei dao tan	m/396
+bei dong chong	m/834
+bei er kai ni en	p/721
+bei huang zi	p/394
+bei jia man	p/393
+bei ke bi	p/175
+bei ke ga ji	m/128
+bei ke ji gu	p/176
+bei ke ji ku	p/176
+bei ke ji shi	p/468
+bei ke ji si	p/468
+bei ke jia ji	m/128
+bei ke jia xi	m/128
+bei ke pi	p/175
+bei ke ren	m/534
+bei ke xie ji	m/128
+bei ke xie xi	m/128
+bei mi kai ni en	p/721
+bei pu hai dun	p/963
+bei pu hai tun	p/963
+bei qiao ga ji	m/128
+bei qiao jia ji	m/128
+bei qiao ren	m/534
+bei shi ge duo la	p/306
+bei shi ke duo la	p/306
+bei shui yi zhan	m/748
+bei wang zi	p/394
+ben zhuo	a/103
+bi bei wu qi	m/801
+bi bi diao	p/17
+bi bi niao	p/17
+bi chui	m/359
+bi guan	m/842
+bi jian qian chong tao	m/845
+bi jian qian zhong tao	m/845
+bi ke di ni	p/494
+bi ke ti ni	p/494
+bi lei zhen	a/31
+bi li ji weng	p/640
+bi mi zhi li	m/290
+bi mi zhu li	m/290
+bi pi diao	p/17
+bi pi niao	p/17
+bi sha men ya	m/158
+bi shai men ya	m/158
+bi wan	m/842
+bian geng	m/106
+bian huan zi ru	a/168
+bian juan	m/144
+bian juan zhe	a/150
+bian se	a/16
+bian se xi	p/817
+bian shai	a/16
+bian shen	m/144
+bian shen zhe	a/150
+bian xiao	m/107
+bian yi	m/286
+bian yin	m/286
+bian yin long	p/352
+bian yin mang	p/352
+bian ying	m/106
+bian yuan	m/111
+bing	t/15
+bing bao	m/258
+bing bao	p/712
+bing bian shi jie	m/549
+bing bing shuang dong	m/739
+bing chui	m/665
+bing dong fu te	m/553
+bing dong guang shu	m/58
+bing dong pi fu	a/174
+bing dong pi lu	a/174
+bing dong quan	m/8
+bing dong ya	m/423
+bing dong zhi feng	m/196
+bing dong zhi qu	a/115
+bing dong zhu feng	m/196
+bing dong zhu qu	a/115
+bing feng shi jie	m/549
+bing gui hu	p/362
+bing leng shi xian	m/821
+bing li	m/420
+bing lin fen	a/246
+bing ling shi xian	m/821
+bing luo	m/420
+bing ning shuang dong	m/739
+bing qi e	p/875
+bing qie e	p/875
+bing qiu	m/301
+bing shan feng	m/836
+bing xi	m/524
+bing xuan	m/861
+bing xue ju long	p/699
+bing xue ju mang	p/699
+bing xue long	p/698
+bing xue mang	p/698
+bing xue qu long	p/699
+bing xue qu mang	p/699
+bing yan guai	p/713
+bing yi bu	p/471
+bing zhang	m/112
+bing zhang meng gong	m/828
+bing zhu zhui ji	m/556
+bing zhu zhui xi	m/556
+bing zhui	m/333
+bo bei	p/16
+bo bian guai	p/132
+bo bo	p/16
+bo dang shui	p/1009
+bo dao dan	m/396
+bo dao fang hu	a/314
+bo dao tan	m/396
+bo dong chong	m/834
+bo er kai ni en	p/721
+bo guang	a/35
+bo hai shi	p/87
+bo huang zi	p/394
+bo ji	m/1
+bo ji wen	p/794
+bo jia man	p/393
+bo jin	m/395
+bo jing	m/395
+bo ke bi	p/175
+bo ke ji gu	p/176
+bo ke ji ku	p/176
+bo ke ji shi	p/468
+bo ke ji si	p/468
+bo ke pi	p/175
+bo la	m/282
+bo leng shui	m/886
+bo lie quan	m/223
+bo ling shui	m/886
+bo luo	m/282
+bo meng	m/54
+bo meng qiu	m/296
+bo meng zha lie	m/802
+bo mi kai ni en	p/721
+bo ming	m/515
+bo peng peng	p/830
+bo pu hai dun	p/963
+bo pu hai tun	p/963
+bo sha	a/146
+bo sha	m/28
+bo shi ge duo la	p/306
+bo shi ke duo la	p/306
+bo suo	a/146
+bo suo	m/28
+bo wan dun chong quan	m/5
+bo wan dun zhong quan	m/5
+bo wang zi	p/394
+bo wu	m/54
+bo wu chang de	m/581
+bo wu chang di	m/581
+bo wu qiu	m/296
+bo wu zha lie	m/802
+bo wu zhi cao zhe	a/228
+bo wu zhi zao zhe	a/228
+bo xi	m/1
+bo xiang hou	p/513
+bo xiang yuan	p/514
+bo xue	a/202
+bo yan gui shou	p/776
+bo yan jun shou	p/776
+bo yan qiu shou	p/776
+bo yin bei	m/586
+bo yin bo	m/586
+bo yin guai	p/295
+bo zha lie yan	m/307
+bo zha tou shui niu	p/626
+bo zha tou tu ji	m/543
+bo zha tou tu xi	m/543
+bu bi shu	a/128
+bu bo	p/921
+bu chi mu wen	p/858
+bu chi mu yun	p/858
+bu du bo	p/922
+bu du fa	p/922
+bu fa	p/921
+bu fu shu	a/128
+bu ji	m/776
+bu jue zhi xin	a/80
+bu jue zhu xin	a/80
+bu li ka long	p/652
+bu li mu wen	p/858
+bu li mu yun	p/858
+bu li qia long	p/652
+bu liang jue	p/453
+bu liang wa	p/453
+bu lu	p/209
+bu lu huang	p/210
+bu lu wang	p/210
+bu lv	p/209
+bu lv huang	p/210
+bu lv wang	p/210
+bu mian	a/15
+bu min	a/15
+bu na shi cao	p/947
+bu na shi zao	p/947
+bu nao zhi jian	a/234
+bu nao zhu jian	a/234
+bu qu zhi dun	a/235
+bu qu zhi shun	a/235
+bu qu zhi xin	a/80
+bu qu zhu dun	a/235
+bu qu zhu shun	a/235
+bu qu zhu xin	a/80
+bu ren bu xi	a/196
+bu ren bu yi	a/196
+bu ren fou xi	a/196
+bu ren fou yi	a/196
+bu sai hu	p/855
+bu sao shu	p/505
+bu shao shu	p/505
+bu shou ga	m/779
+bu shou jia	m/779
+bu shou xie	m/779
+bu si hu	p/855
+bu tu bo	p/922
+bu tu fa	p/922
+bu xi	m/776
+bu xiao zhi jian	a/234
+bu xiao zhu jian	a/234
+cai fen die	p/666
+cai fen tie	p/666
+cai mi	a/118
+cai ta	m/23
+cai ying	a/23
+cang bai si ming	a/264
+cang bao li shu	p/820
+cang bao lie shu	p/820
+cang bo si ming	a/264
+cang ma ran te	p/889
+cang tan ren gui	p/937
+cang xiang	p/888
+cang yan ren gui	p/937
+cao	t/12
+cao di	m/320
+cao miao gui	p/387
+cao miao jun	p/387
+cao miao qiu	p/387
+cao xian zhu	p/918
+cao zhi mao pi	a/179
+cao zhi shi yao	m/520
+cao zhi shi yue	m/520
+cao zhu mao pi	a/179
+cao zhu shi yao	m/520
+cao zhu shi yue	m/520
+ceng ceng lian jia	m/609
+ceng jiang quan	m/612
+ceng qiang quan	m/612
+cha bian	m/373
+cha bu duo gui gui	p/531
+cha bu duo gui wa	p/531
+cha bu duo wa gui	p/531
+cha bu duo wa wa	p/531
+cha feng	m/373
+cha hui	m/752
+cha jiao	a/119
+cha jue	a/119
+cha kuai	m/752
+cha zi fu	p/169
+chan chu wang	p/537
+chan chu yu	p/537
+chan chun	a/86
+chan chun guang shu	m/493
+chan gong he	p/973
+chan hong he	p/973
+chan rao	m/132
+chan shou long	p/633
+chan shou mang	p/633
+chan xian rong yuan	p/849
+chan yu wang	p/537
+chan yu yu	p/537
+chan zhun	a/86
+chan zhun guang shu	m/493
+chang bi she	p/274
+chang bi xie	p/274
+chang bi ye	p/274
+chang chi ou	p/278
+chang fan diao	a/126
+chang fan tiao	a/126
+chang ge	m/47
+chang hao	m/336
+chang mao gou	p/508
+chang mao ju mo	p/861
+chang mao qu mo	p/861
+chang mao zhu	p/221
+chang wei guai shou	p/190
+chang wei huo hu	p/654
+chang yi guai shou	p/190
+chang yi huo hu	p/654
+chao bei bi	p/299
+chao chao zhu	p/499
+chao huai xing	p/748
+chao hui xing	p/748
+chao ji bo she qi	a/178
+chao ji bo ye qi	a/178
+chao ji fa she qi	a/178
+chao ji fa ye qi	a/178
+chao ji jiao ji	m/224
+chao ji jiao xi	m/224
+chao ji jue ji	m/224
+chao ji jue xi	m/224
+chao ji ri guang	a/310
+chao ji shui liu da xuan guo	m/642
+chao ji shui liu da xuan guo	m/643
+chao ji shui liu da xuan wo	m/642
+chao ji shui liu da xuan wo	m/643
+chao ji shui liu dai xuan guo	m/642
+chao ji shui liu dai xuan guo	m/643
+chao ji shui liu dai xuan wo	m/642
+chao ji shui liu dai xuan wo	m/643
+chao ji xi qu	m/72
+chao jia jue xi	p/464
+chao jia kuang xi	p/464
+chao jue luo xuan lan ji	m/638
+chao jue luo xuan lan ji	m/639
+chao jue luo xuan lan xi	m/638
+chao jue luo xuan lan xi	m/639
+chao jue luo xuan lian ji	m/638
+chao jue luo xuan lian ji	m/639
+chao jue luo xuan lian xi	m/638
+chao jue luo xuan lian xi	m/639
+chao meng	p/150
+chao nao	m/253
+chao neng li	t/14
+chao neng miao miao	p/678
+chao neng yan tuo	p/956
+chao nie yun	a/105
+chao pi xing	p/748
+chao qiang ji xian bao yan dan	m/640
+chao qiang ji xian bao yan dan	m/641
+chao qiang ji xian bao yan tan	m/640
+chao qiang ji xian bao yan tan	m/641
+chao qiang ji xian bo yan dan	m/640
+chao qiang ji xian bo yan dan	m/641
+chao qiang ji xian bo yan tan	m/640
+chao qiang ji xian bo yan tan	m/641
+chao tai li	t/14
+chao tai miao miao	p/678
+chao tai yan tuo	p/956
+chao xing yun	a/105
+chao xuan	m/250
+chao yin bei	m/48
+chao yin bo	m/48
+chao yin bo yao chong	p/329
+chao yin bo yao hui	p/329
+chao yin bo yao zhong	p/329
+chao yin bo you chong	p/329
+chao yin bo you hui	p/329
+chao yin bo you zhong	p/329
+chao yin fu	p/41
+che lun qiu	p/544
+chen guang	m/234
+cheng dui	m/289
+cheng duo	m/289
+cheng fa	m/386
+cheng feng	a/274
+cheng hua	m/685
+cheng huo	m/685
+cheng xian yi bu	m/382
+chi bang gong ji	m/17
+chi bang gong xi	m/17
+chi chi yin	p/968
+chi dun	a/12
+chi hou ba	p/977
+chi hou po	p/977
+chi hua jie mu	m/492
+chi hua xie mu	m/492
+chi hun re wu lie yin bao	m/728
+chi hun re wu lie yin bo	m/728
+chi jiu li	a/192
+chi lun er	p/599
+chi lun fei pan	m/544
+chi lun fei xuan	m/544
+chi lun guai	p/601
+chi lun ni	p/599
+chi lun qu	p/600
+chi lun ren	p/599
+chi lun zu	p/600
+chi mian long	p/621
+chi mian mang	p/621
+chi pang gong ji	m/17
+chi pang gong xi	m/17
+chi tuo yin	p/968
+chi yan pao xiao hu	p/727
+chi yan pao xue hu	p/727
+chi yu bei dong	m/505
+chi yu bo dong	m/505
+chi yu ling qing	m/215
+chi yu ling sheng	m/215
+chi yu zhi xin	a/131
+chi yu zhi yuan	m/361
+chi yu zhu xin	a/131
+chi yu zhu yuan	m/361
+chong	t/7
+chong bang chong zhuang	m/484
+chong bao bao	p/540
+chong bao pao	p/540
+chong bu	m/884
+chong dian	m/268
+chong dian bao	p/737
+chong dian guang shu	m/451
+chong guang ling	p/607
+chong gun ni	p/953
+chong gun nie	p/953
+chong jia ku	p/954
+chong jia sheng	p/954
+chong jiao	m/450
+chong jin shu	a/134
+chong jin zhu	a/134
+chong lang	m/57
+chong lang zhi wei	a/207
+chong lang zhi yi	a/207
+chong lang zhu wei	a/207
+chong lang zhu yi	a/207
+chong li	m/356
+chong ming	m/405
+chong ni wan ma	p/750
+chong nie wan ma	p/750
+chong pang chong zhuang	m/484
+chong pi	m/884
+chong pu	m/884
+chong ta	m/523
+chong tian quan	m/327
+chong yan	m/709
+chong yao	m/450
+chong yue ya	p/913
+chong zhi di gang	m/522
+chong zhi di kang	m/522
+chong zhi yu gan	a/68
+chong zhi yu han	a/68
+chong zhi zhi gang	m/522
+chong zhi zhi kang	m/522
+chong zhu yu gan	a/68
+chong zhu yu han	a/68
+chong zi die qiu	p/597
+chong zi ji guan qiang	m/331
+chong zi shan guang	m/465
+chong zi tie qiu	p/597
+chong zi wei guan qiang	m/331
+chong zi zha dan	m/402
+chong zi zha tan	m/402
+chong zui da diao	p/733
+chong zui da niao	p/733
+chong zui dai diao	p/733
+chong zui dai niao	p/733
+chou chou hua	p/44
+chou chou ni	p/89
+chou chou nie	p/89
+chou chou yu	p/349
+chou ni	p/88
+chou nie	p/88
+chou xiu hua	p/44
+chou xiu ni	p/89
+chou xiu nie	p/89
+chou you pu	p/434
+chu biao ke	p/945
+chu biao qia	p/945
+chu ji yi ji	m/185
+chu ji yi xi	m/185
+chu qi yi ji	m/185
+chu qi yi xi	m/185
+chu shou bai ge	p/345
+chu shou bai he	p/345
+chu shou bo ge	p/345
+chu shou bo he	p/345
+chu shui	a/11
+chu zhang	a/251
+chuan di li wu	m/516
+chuan shan shu	p/27
+chuan shan wang	p/28
+chuan shan yu	p/28
+chuan shi li wu	m/516
+chuan shu	a/151
+chuan tou	a/151
+chuan zhao xiong	p/760
+chuan zhe xiong	p/760
+chuan zhu xiong	p/760
+chuan zhu zhu	p/917
+chuan zhuo xiong	p/760
+chuang liu bing	p/865
+chuang you bing	p/865
+chui fei	m/18
+chui feng	m/260
+chui peng	m/260
+chun piao	a/109
+chun pu	a/109
+ci chang cao kong	m/602
+ci chang cao qiang	m/602
+ci die zha dan	m/443
+ci die zha tan	m/443
+ci er qing	m/103
+ci er sheng	m/103
+ci jia bei	p/91
+ci li	a/42
+ci long wang	p/230
+ci long yu	p/230
+ci mang wang	p/230
+ci mang yu	p/230
+ci qiu xian ren zhang	p/331
+ci reng qing	m/103
+ci reng sheng	m/103
+ci shang cao kong	m/602
+ci shang cao qiang	m/602
+ci suo yu	p/846
+ci tie zha dan	m/443
+ci tie zha tan	m/443
+ci wei chong	p/265
+ci wei hui	p/265
+ci wei zhong	p/265
+ci xie yan	p/944
+ci xun yu	p/846
+ci yi chong	p/265
+ci yi hui	p/265
+ci yi zhong	p/265
+ci zhi yan	p/944
+cong lin chi liao	m/816
+cong lin chi shuo	m/816
+cong lin zhi liao	m/816
+cong lin zhi shuo	m/816
+cong liu bing	p/865
+cong you bing	p/865
+cu cao pi fu	a/24
+cu cao pi lu	a/24
+cui jiao	a/119
+cui jue	a/119
+cui mian fen	m/79
+cui mian mo	p/96
+cui mian shu	m/95
+cui mian zhu	m/95
+cui min fen	m/79
+cui min mo	p/96
+cui min shu	m/95
+cui min zhu	m/95
+da an xie	p/98
+da bao zha	m/153
+da bi diao	p/18
+da bi niao	p/18
+da bo zha	m/153
+da cao ji	m/447
+da cao jie	m/447
+da chao bei bi	p/476
+da chuang ya	p/83
+da cong ya	p/83
+da de bei dong	m/805
+da de bo dong	m/805
+da de shen li	m/616
+da de zhang kong	m/601
+da de zhang qiang	m/601
+da de zhi li	m/414
+da de zhu li	m/414
+da di bei dong	m/805
+da di bo dong	m/805
+da di shen li	m/616
+da di zhang kong	m/601
+da di zhang qiang	m/601
+da di zhi li	m/414
+da di zhu li	m/414
+da dian hai yan	p/941
+da du kui	p/154
+da e ji	p/328
+da e yi	p/328
+da fen kai	m/833
+da gang she	p/208
+da gang yi	p/208
+da ge	m/562
+da gua bei	p/90
+da gua tan	p/463
+da gua tian	p/463
+da gua tou	p/108
+da han	m/173
+da hang quan	p/262
+da ji gui	p/539
+da jian gui	p/503
+da jiang	a/293
+da ke lai yi	p/491
+da kuai duo yi	m/747
+da lang quan	p/262
+da lei	m/87
+da li e	p/160
+da li shi	a/37
+da ma fei fei	p/555
+da mo fei fei	p/555
+da mo mo shi	a/161
+da mo mo te	a/161
+da mo mu shi	a/161
+da mo mu te	a/161
+da nai guan	p/241
+da nao yi fan	m/37
+da nao yi pan	m/37
+da niu la	p/903
+da nv la	p/903
+da pi diao	p/18
+da pi niao	p/18
+da qian xie	p/98
+da qiang	a/293
+da qing pao xiao	m/555
+da qing pao xue	m/555
+da qing tian	m/241
+da sao chu	m/882
+da sao zhu	m/882
+da she bei	p/90
+da she deng wen	m/137
+da she deng yan	m/137
+da she tan	p/463
+da she tian	p/463
+da she tou	p/108
+da sheng pao xiao	m/555
+da sheng pao xue	m/555
+da shi hua	p/71
+da si hua	p/71
+da tan che	p/838
+da tan ju	p/838
+da wang tong xiang	p/879
+da wang yan	p/277
+da wei li	p/162
+da wei li	p/400
+da wei wei	p/162
+da xi gui	p/539
+da ya li	p/399
+da yan she	p/95
+da yan yi	p/95
+da yi deng wen	m/137
+da yi deng yan	m/137
+da yi li	p/162
+da yi li	p/400
+da yi wei	p/162
+da yu guai	p/606
+da yu tong xiang	p/879
+da yu yan	p/277
+da zai nan	m/877
+da zai nuo	m/877
+da zao ji	m/447
+da zao jie	m/447
+da zhao bei bi	p/476
+da zhen feng	p/15
+da zhu kui	p/154
+da zi bao tan	m/126
+da zi bao yan	m/126
+da zi bo tan	m/126
+da zi bo yan	m/126
+da zui fu	p/42
+da zui gui	p/303
+da zui ou	p/279
+da zui qiao	p/22
+da zui que	p/22
+da zui wa	p/303
+dai	t/4
+dai an xie	p/98
+dai bao shou	p/79
+dai bao wang	p/199
+dai bao yu	p/199
+dai bao zha	m/153
+dai bei bi	p/803
+dai bei pi	p/803
+dai bo zha	m/153
+dai chao bei bi	p/476
+dai chuang ya	p/83
+dai ci	a/38
+dai cong ya	p/83
+dai dai shou	p/79
+dai dai wang	p/199
+dai dai yu	p/199
+dai de shen li	m/616
+dai di shen li	m/616
+dai dian hai yan	p/941
+dai dian ying	p/848
+dai du kui	p/154
+dai e ji	p/328
+dai e yi	p/328
+dai fen	m/77
+dai fen e	p/269
+dai fen kai	m/833
+dai fen yi	p/269
+dai gang she	p/208
+dai gang yi	p/208
+dai gua bei	p/90
+dai gua tou	p/108
+dai gui lei	a/307
+dai hang quan	p/262
+dai huo e	p/909
+dai huo tuo	p/322
+dai ji	m/398
+dai jian gui	p/503
+dai jiang	a/293
+dai ke shou	p/80
+dai ku jue	p/454
+dai ku wa	p/454
+dai kuai duo yi	m/747
+dai kui lei	a/307
+dai la ji weng	p/639
+dai lang quan	p/262
+dai li e	p/160
+dai li shi	a/37
+dai liao	a/90
+dai ling	m/390
+dai lu bi	p/228
+dai lu pi	p/228
+dai lv bi	p/228
+dai lv pi	p/228
+dai man de	a/295
+dai man di	a/295
+dai nai guan	p/241
+dai nao yi fan	m/37
+dai nao yi pan	m/37
+dai niu la	p/903
+dai nv la	p/903
+dai ou ji xi shi	p/386
+dai ou ji xi si	p/386
+dai ou qi xi shi	p/386
+dai ou qi xi si	p/386
+dai qi	a/38
+dai qian xie	p/98
+dai qian zhen	m/839
+dai qiang	a/293
+dai qiang wei	p/315
+dai qiao shou	p/80
+dai qing tian	m/241
+dai sao chu	m/882
+dai sao zhu	m/882
+dai se wei	p/315
+dai she bei	p/90
+dai she tou	p/108
+dai sheng pao xiao	m/555
+dai sheng pao xue	m/555
+dai shi chong ji	m/474
+dai shi hua	p/71
+dai shi xian jing	m/599
+dai shou	a/143
+dai shou	p/115
+dai shuo	a/90
+dai si	m/672
+dai si hua	p/71
+dai suo lian	a/302
+dai tan che	p/838
+dai tan ju	p/838
+dai wa shi	m/139
+dai wa si	m/139
+dai wang tong xiang	p/879
+dai wang yan	p/277
+dai wei	m/342
+dai wei li	p/400
+dai xi	m/398
+dai ya li	p/399
+dai yan she	p/95
+dai yan yi	p/95
+dai ye chong ji	m/474
+dai ye xian jing	m/599
+dai yi	m/342
+dai yi li	p/400
+dai yu guai	p/606
+dai yu tong xiang	p/879
+dai yu yan	p/277
+dai zai nan	m/877
+dai zai nuo	m/877
+dai zao long	p/691
+dai zao mang	p/691
+dai zhao bei bi	p/476
+dai zhen	m/40
+dai zhen feng	p/15
+dai zhu kui	p/154
+dai zui fu	p/42
+dai zui gui	p/303
+dai zui ou	p/279
+dai zui qiao	p/22
+dai zui que	p/22
+dai zui wa	p/303
+dan chun	a/86
+dan chun guang shu	m/493
+dan dan	p/102
+dan diao	m/340
+dan ji xie	p/557
+dan ju xie	p/557
+dan kun xi bao qiu	p/577
+dan kun xi pao qiu	p/577
+dan liang	a/113
+dan luan xi bao qiu	p/577
+dan luan xi pao qiu	p/577
+dan qie	a/155
+dan shou long	p/633
+dan shou mang	p/633
+dan tiao	m/340
+dan wan zi	p/524
+dan xiao chong	p/767
+dan xiao hui	p/767
+dan xiao zhong	p/767
+dan zhun	a/86
+dan zhun guang shu	m/493
+dang lu	m/335
+dang luo	m/335
+dao dan xiao jiao	p/859
+dao dan xiao yao	p/859
+dao re ji sheng	a/138
+dao re jiao sheng	a/138
+de er da qi liu	a/191
+de er da xi liu	a/191
+de er ta qi liu	a/191
+de er ta xi liu	a/191
+de lie	m/90
+de long xiao tian da zhong jie	m/630
+de long xiao tian da zhong jie	m/631
+de long xiao tian dai zhong jie	m/630
+de long xiao tian dai zhong jie	m/631
+de man yan	p/525
+de mian	t/5
+de qiu shang dou	m/69
+de qiu shang tou	m/69
+de shen	m/89
+de shu	p/50
+de yu fan gun	m/66
+de yu tu ci	m/675
+de yu tu qi	m/675
+de zhen	m/89
+deng chi zi shan dian quan	m/721
+deng chi zi yu	m/569
+deng huo you ling	p/608
+deng li zi shan dian quan	m/721
+deng li zi yu	m/569
+deng long yu	p/170
+deng wen	m/43
+deng yan	m/43
+deng zhao ye gu	p/756
+di an xi	p/719
+di bu chi mu	p/857
+di bu ji po	m/498
+di bu li mu	p/857
+di bu xi po	m/498
+di dian quan	p/836
+di lei miao	p/907
+di lie	m/90
+di long xiao tian da zhong ji	m/630
+di long xiao tian da zhong ji	m/631
+di long xiao tian da zhong jie	m/630
+di long xiao tian da zhong jie	m/631
+di long xiao tian dai zhong ji	m/630
+di long xiao tian dai zhong ji	m/631
+di long xiao tian dai zhong jie	m/630
+di long xiao tian dai zhong jie	m/631
+di man yan	p/525
+di mian	t/5
+di qiu shang dou	m/69
+di qiu shang tou	m/69
+di shen	m/89
+di shu	p/50
+di wang na bei	p/395
+di wang na bo	p/395
+di ya hai shi	p/365
+di ya lu ka	p/483
+di ya lu qia	p/483
+di ya lv ka	p/483
+di ya lv qia	p/483
+di ying li	a/91
+di yu fan gun	m/66
+di yu na bei	p/395
+di yu na bo	p/395
+di yu tu ci	m/675
+di yu tu qi	m/675
+di zhen	m/89
+di zhu	p/751
+di zhu ba	p/752
+di zhu po	p/752
+dian	t/13
+dian ci bao	m/192
+dian ci bei	m/86
+dian ci bo	m/86
+dian ci pao	m/192
+dian ci piao fu	m/393
+dian dao	m/576
+dian dao wei zhi	m/206
+dian deng guai	p/171
+dian dian chong	p/595
+dian dian hui	p/595
+dian dian jia su	m/729
+dian dian zhong	p/595
+dian ding guai	p/171
+dian du jue	p/939
+dian du wa	p/939
+dian fei shu	p/587
+dian guang	m/209
+dian guang shu	m/905
+dian guang shuang ji	m/892
+dian guang shuang xi	m/892
+dian guang yi shan	m/98
+dian hai yan	p/940
+dian hui	m/754
+dian ji	m/84
+dian ji bei	m/351
+dian ji bo	m/351
+dian ji guai	p/239
+dian ji mo shou	p/466
+dian ji shou	p/125
+dian jing ben	a/262
+dian jing ti	a/262
+dian jue	m/367
+dian li shang sheng	m/804
+dian li zhuai huan	a/280
+dian li zhuan huan	a/280
+dian long	p/181
+dian mang	p/181
+dian qi chang de	m/604
+dian qi chang di	m/604
+dian qi pi fu	a/206
+dian qi pi lu	a/206
+dian qi shang de	m/604
+dian qi shang di	m/604
+dian qi yin qing	a/78
+dian qi zhi cao zhe	a/226
+dian qi zhi zao zhe	a/226
+dian qiu	m/486
+dian shu mu	p/796
+dian wang	m/527
+dian xi	m/84
+dian xi bei	m/351
+dian xi bo	m/351
+dian xi guai	p/239
+dian xi mo shou	p/466
+dian xi pi fu	a/206
+dian xi pi lu	a/206
+dian xi shou	p/125
+dian xi yin qing	a/78
+dian xi zhi cao zhe	a/226
+dian xi zhi zao zhe	a/226
+dian xue	m/367
+dian yin ying	p/848
+dian ying chong	p/313
+dian ying hui	p/313
+dian ying zhong	p/313
+dian zhi zhu	p/596
+dian zhou	m/754
+diao bao	m/415
+diao bao	m/661
+diao bu	m/661
+diao chu chong zi	a/269
+diao chu zhong zi	a/269
+diao diao zhu	p/325
+diao pao	m/415
+diao tiao zhu	p/325
+diao zui jia nong bao	m/690
+diao zui jia nong pao	m/690
+die ban she	p/1010
+die ban ye	p/1010
+die bao fu	p/991
+die bao yu	p/223
+die bi	m/334
+die bo geng	p/993
+die bo jing	p/993
+die ci	a/160
+die dao	m/67
+die di guang xian	m/796
+die die bu xiu	m/448
+die die bu xu	m/448
+die die fou xiu	m/448
+die die fou xu	m/448
+die e ling	p/374
+die gu du ren	p/533
+die gu tu ren	p/533
+die gun lun	m/798
+die huo hui ye	p/797
+die ji	p/632
+die ji meng meng	p/743
+die ji ming meng	p/743
+die jia yong	p/11
+die jie meng meng	p/743
+die jie ming meng	p/743
+die jing ji	p/995
+die ke yong	p/14
+die mian ren zhe	p/291
+die pan yan	p/1022
+die pao fu	p/991
+die pao yu	p/223
+die qi	a/160
+die qiao yong	p/14
+die quan	a/89
+die shi ban	p/867
+die shi guan	p/563
+die ti guang xian	m/796
+die tou	m/442
+die tou ke	p/1023
+die tou qiao	p/1023
+die wei	m/231
+die wu	m/483
+die wu zhe	p/1006
+die ya ling	p/374
+die yi	m/231
+die yi	p/632
+die yi ban	p/867
+die yi guan	p/563
+die zhang li shi	p/297
+die zhe ji	p/990
+ding huo you ling	p/608
+ding juan fa	m/50
+ding long yu	p/170
+ding shen fa	m/50
+ding zhao ye gu	p/756
+dong dong shu	p/702
+dong ji long	p/997
+dong ji mang	p/997
+dong shi miao	p/432
+dong yi miao	p/432
+dong yuan xiong	p/614
+dou dou ge	p/519
+dou hu xiao	p/723
+dou li gu	p/286
+dou qiu	m/140
+dou shuai gui	p/538
+dou xi shuai	p/919
+dou yu xiao	p/723
+dou zheng xin	a/79
+dou zhi	m/374
+dou zhi hou	p/766
+du	t/4
+du bei bi	p/803
+du bei pi	p/803
+du biao ke	p/945
+du biao qia	p/945
+du ci	a/38
+du ci shui mu	p/73
+du ci shui wu	p/73
+du de yun	p/645
+du di yun	p/645
+du dian ying	p/848
+du du	p/84
+du du li	p/85
+du fen	m/77
+du fen e	p/269
+du fen yi	p/269
+du gui lei	a/307
+du hang quan	p/261
+du huo	m/807
+du ji	m/398
+du ji ren shi	p/290
+du jia	p/232
+du jian qiao	p/679
+du jian shao	p/679
+du jiao chong	p/13
+du jiao hui	p/13
+du jiao xi niu	p/111
+du jiao zhong	p/13
+du ju ren shi	p/290
+du jue chong	p/13
+du jue hui	p/13
+du jue xi niu	p/111
+du jue zhong	p/13
+du ku jue	p/454
+du ku wa	p/454
+du kui lei	a/307
+du lan xiong	p/862
+du lang quan	p/261
+du liao	a/90
+du ling	m/390
+du long jie jie	p/982
+du man de	a/295
+du man di	a/295
+du mang jie jie	p/982
+du men de	a/295
+du men di	a/295
+du qi	a/38
+du qi shui mu	p/73
+du qi shui wu	p/73
+du qian zhen	m/839
+du qiang wei	p/315
+du se wei	p/315
+du shi chong ji	m/474
+du shi chong xi	m/474
+du shi xian jing	m/599
+du shou	a/143
+du shuo	a/90
+du si	m/672
+du suo lian	a/302
+du wa shi	m/139
+du wa si	m/139
+du wang	p/980
+du wei	m/342
+du xi	m/398
+du ye chong ji	m/474
+du ye chong xi	m/474
+du ye xian jing	m/599
+du yi	m/342
+du yu	p/980
+du zao long	p/691
+du zao mang	p/691
+du zhen	m/40
+duan tou an	m/12
+duan tou qian	m/12
+duan wei	m/880
+duan ya zhi jian	m/619
+duan ya zhu jian	m/619
+duan yi	m/880
+dui da	m/228
+dun jia	p/232
+dun jia chong	p/268
+dun jia jian	p/268
+dun jia long	p/410
+dun jia mang	p/410
+dun shou	a/198
+duo bian shou	p/137
+duo bian shou jue xing	p/474
+duo bian shou yi xing	p/474
+duo chong lin pan	a/136
+duo chong lin pian	a/136
+duo ci ju dan shou	p/139
+duo ci ju shi shou	p/139
+duo duo bing	p/583
+duo duo ning	p/583
+duo ji	m/512
+duo jiao	m/707
+duo jue	m/707
+duo li mi e	p/676
+duo li mi ya	p/676
+duo long ba lu tuo	p/887
+duo long ba lv tuo	p/887
+duo long ji	p/886
+duo long mei xi e	p/885
+duo long mei xi ya	p/885
+duo long qi	p/886
+duo luo qiu	m/360
+duo mang ba lu tuo	p/887
+duo mang ba lv tuo	p/887
+duo mang ji	p/886
+duo mang mei xi e	p/885
+duo mang mei xi ya	p/885
+duo mang qi	p/886
+duo qi	m/512
+duo qi ju dan shou	p/139
+duo qi ju shi shou	p/139
+duo shu xing	a/121
+duo shu xing gong ji	m/718
+duo shu xing gong xi	m/718
+duo si mi e	p/676
+duo si mi ya	p/676
+duo zhong lin pan	a/136
+duo zhong lin pian	a/136
+duo zhu xing	a/121
+duo zhu xing gong ji	m/718
+duo zhu xing gong xi	m/718
+e	t/17
+e bai guai	p/24
+e bo guai	p/24
+e bo suo lu	p/359
+e bo xun lu	p/359
+e chou	a/1
+e er zhou shi	p/493
+e er zhou si	p/493
+e gui peng	p/1017
+e ke nuo mu	p/482
+e kong lie zhan	m/460
+e li duo shi	p/168
+e li duo si	p/168
+e meng	m/171
+e mo zhi wen	m/142
+e mo zhu wen	m/142
+e shi da wang	p/799
+e shi da yu	p/799
+e shi dai wang	p/799
+e shi dai yu	p/799
+e tang cao	p/753
+e tang zao	p/753
+e xiu	a/1
+e yi dui ji	m/372
+e yi dui xi	m/372
+e yi zhui ji	m/372
+e yi zhui xi	m/372
+e zhi bei dong	m/399
+e zhi bo dong	m/399
+e zhu bei dong	m/399
+e zhu bo dong	m/399
+e zuo ju zhi xin	a/158
+e zuo ju zhu xin	a/158
+er lan die	m/24
+er lan ji	m/458
+er lan pi	m/530
+er lan ti	m/24
+er lan xi	m/458
+er lian die	m/24
+er lian ji	m/458
+er lian pi	m/530
+er lian ti	m/24
+er lian xi	m/458
+fa guang	a/35
+fa hao shi lian	a/279
+fa hao shi ling	a/279
+fa hao yi lian	a/279
+fa hao yi ling	a/279
+fa jin	m/395
+fa jing	m/395
+fa sha	a/146
+fa suo	a/146
+fa xue	a/202
+fan chi she	p/336
+fan chi yi	p/336
+fan chu	a/291
+fan nao chong zi	m/388
+fan nao zhong zi	m/388
+fan she bi	m/115
+fan shi she	p/336
+fan shi yi	p/336
+fan ye bi	m/115
+fan zou	a/291
+fang chen	a/142
+fang dan	a/171
+fang dian	m/435
+fang huang ye ling	p/356
+fang shou hu huan	m/385
+fang shou pian fen	m/470
+fang shou ping fen	m/470
+fang tan	a/171
+fang xiang bao meng	m/597
+fang xiang bao wu	m/597
+fang xiang bo meng	m/597
+fang xiang bo wu	m/597
+fang xiang chi liao	m/312
+fang xiang chi shuo	m/312
+fang xiang jing	p/683
+fang xiang man	a/165
+fang xiang mu	a/165
+fang xiang qing	p/683
+fang xiang zhi liao	m/312
+fang xiang zhi shuo	m/312
+fang xiao	m/383
+fang ya zhi lian	m/455
+fang ya zhi ling	m/455
+fang yu zhi lian	m/455
+fang yu zhi ling	m/455
+fei chu de na zai wu	a/215
+fei chu de nei zai wu	a/215
+fei chu di na zai wu	a/215
+fei chu di nei zai wu	a/215
+fei dan zhen	m/42
+fei die	m/26
+fei gong mai dong	a/288
+fei gong mo dong	a/288
+fei hang	t/3
+fei hang pi fu	a/184
+fei hang pi lu	a/184
+fei hong mai dong	a/288
+fei hong mo dong	a/288
+fei juan chong ya	m/560
+fei juan zhong ya	m/560
+fei luo mei lang	p/795
+fei mao tui	a/95
+fei ou na	p/489
+fei she feng bao	m/437
+fei she feng pu	m/437
+fei she kuai dao	m/75
+fei she kuai diao	m/75
+fei shen chong ya	m/560
+fei shen zhong ya	m/560
+fei shui shou li jian	m/594
+fei tan zhen	m/42
+fei ti	m/26
+fei tian tang lang	p/123
+fei tui lang	p/106
+fei xi die	m/136
+fei xi ti	m/136
+fei xiang	m/19
+fei xie feng bao	m/437
+fei xie feng pu	m/437
+fei xie kuai dao	m/75
+fei xie kuai diao	m/75
+fei xing	t/3
+fei xing pi fu	a/184
+fei xing pi lu	a/184
+fei ye feng bao	m/437
+fei ye feng pu	m/437
+fei ye kuai dao	m/75
+fei ye kuai diao	m/75
+fen cai hu man	a/257
+fen cai hu mu	a/257
+fen chen	m/600
+fen chu	m/255
+fen dan tong chu	m/220
+fen die chong	p/664
+fen die hui	p/664
+fen die yong	p/665
+fen die zhong	p/664
+fen huo	m/284
+fen huo long	p/6
+fen huo mang	p/6
+fen huo tuo	p/323
+fen jie tong chu	m/220
+fen nu	m/99
+fen nu fen	m/476
+fen nu jia ke	a/271
+fen nu jia qiao	a/271
+fen nu jue li	a/83
+fen nu jue wei	a/83
+fen nu men ya	m/162
+fen nu xue li	a/83
+fen nu xue wei	a/83
+fen nu zhi quan	m/889
+fen nu zhu quan	m/889
+fen shan tong chu	m/220
+fen she huo yan	m/53
+fen she quan	m/857
+fen shui	m/323
+fen si	a/148
+fen ti xiong	p/613
+fen tian mie shi chi guang bao	m/723
+fen tian mie shi chi guang bo	m/723
+fen tie chong	p/664
+fen tie hui	p/664
+fen tie yong	p/665
+fen tie zhong	p/664
+fen xi	a/148
+fen xiang xiang	p/682
+fen yan	m/272
+fen yan	m/436
+fen yan gong	p/851
+fen yan zhong	p/851
+fen ye huo yan	m/53
+fen ye quan	m/857
+feng jiao jing	p/547
+feng jiao qing	p/547
+feng jue fu te	m/528
+feng jue gun ya	m/537
+feng jue zhi wu	m/338
+feng kuang fu te	m/528
+feng kuang gun ya	m/537
+feng kuang zhi wu	m/338
+feng li bo dian	a/277
+feng li fa dian	a/277
+feng ling ling	p/358
+feng mi long	p/842
+feng mi mang	p/842
+feng nv wang	p/416
+feng nv yu	p/416
+feng ru wang	p/416
+feng ru yu	p/416
+feng rui	a/292
+feng su gou	p/59
+feng wang	p/250
+feng yao jing	p/547
+feng yao qing	p/547
+feng yi	m/286
+feng yin	m/286
+feng ying	m/662
+feng yu	p/250
+fo lie tuo shi	p/205
+fo lie tuo si	p/205
+fou bi shu	a/128
+fou fu shu	a/128
+fou liang jue	p/453
+fou liang wa	p/453
+fou mian	a/15
+fou min	a/15
+fou nao zhi jian	a/234
+fou nao zhu jian	a/234
+fou ren bu yi	a/196
+fou ren fou yi	a/196
+fu chou	m/514
+fu chou	m/894
+fu chu chi lun	m/674
+fu chu li liang	m/500
+fu dian	a/58
+fu dian bo bo	p/312
+fu dian bo pai	p/312
+fu dian pai bo	p/312
+fu dian pai pai	p/312
+fu en	m/216
+fu fu	m/279
+fu gu	m/187
+fu li	a/212
+fu li qi ti	m/810
+fu li xi ti	m/810
+fu lie tuo shi	p/205
+fu lie tuo si	p/205
+fu luo mei lang	p/795
+fu qian you	p/419
+fu qiu	m/514
+fu qiu	m/894
+fu sheng gui dao	m/863
+fu sheng qi dao	m/863
+fu shi	a/212
+fu shi qi ben	m/810
+fu shi qi ti	m/810
+fu shi xi ti	m/810
+fu te gong ji	m/344
+fu te gong xi	m/344
+fu te ti huan	m/521
+fu wen	a/14
+fu ya long	p/611
+fu ya mang	p/611
+fu yan	a/14
+fu zhi	a/36
+fu zhu chi lun	m/674
+fu zhu li liang	m/500
+ga la ga la	p/105
+ga zhu	m/11
+gai gai chong	p/588
+gai gai hui	p/588
+gai gai zhong	p/588
+gai ge chong	p/588
+gai ge hui	p/588
+gai ge zhong	p/588
+gai nuo sai ke te	p/649
+gai ou ka	p/382
+gai ou qia	p/382
+gan jin	a/72
+gan jing	a/72
+gan lou zhi mi	a/300
+gan lou zhu mi	a/300
+gan lu zhi mi	a/300
+gan lu zhu mi	a/300
+gan sao pi fu	a/87
+gan zao pi fu	a/87
+gang	t/9
+gang kai ya	p/823
+gang neng li zhe	a/200
+gang pao bei ha	p/693
+gang pao bei xia	p/693
+gang pao bi ha	p/693
+gang pao bi xia	p/693
+gang quan shuang ji	m/742
+gang quan shuang xi	m/742
+gang tai li zhe	a/200
+gang yi	m/211
+gang zhi yi zhi	a/252
+gang zhu yi zhi	a/252
+gao ao kai ji	p/521
+gao ao zhi ji	p/521
+gao da jing	p/975
+gao dai jing	p/975
+gao ke ji guang bao	m/546
+gao ke ji guang pao	m/546
+gao ke qi guang bao	m/546
+gao ke qi guang pao	m/546
+gao su chi dong	m/97
+gao su xing xing	m/129
+gao su xuan zhuai	m/229
+gao su xuan zhuan	m/229
+gao su yi dong	m/97
+gao wen chong ya	m/535
+gao wen zhong ya	m/535
+gao yun chong ya	m/535
+gao yun zhong ya	m/535
+ge ai xing xing fei tian zhuang	m/656
+ge ai xing xing fei tian zhuang	m/657
+ge bo mian kong	m/184
+ge da ya	p/54
+ge da ya	p/55
+ge de bao bao	p/574
+ge de xiao jie	p/576
+ge de xiao ju	p/576
+ge de xiao tong	p/575
+ge de xiao zhong	p/575
+ge dou	t/2
+ge dou bao chong	m/899
+ge dou pu chong	m/899
+ge duo la	p/305
+ge ge duo la	p/304
+ge ke duo la	p/304
+ge nuo sai ke te	p/649
+ge ou ka	p/382
+ge ou qia	p/382
+ge pa mian kong	m/184
+ge ta ya	p/54
+ge ta ya	p/55
+ge ti ya	p/54
+ge ti ya	p/55
+ge yin	a/43
+ge zhu	t/2
+ge zhu bao chong	m/899
+ge zhu pu chong	m/899
+gen feng	a/290
+gen yuan bei dong	m/618
+gen yuan bo dong	m/618
+geng cheng	m/263
+geng de	m/563
+geng di	m/563
+geng gui	p/94
+geng ke kui jia	a/75
+geng qiao kui jia	a/75
+geng ya	m/912
+geng zhao	a/181
+geng zhua	a/181
+gong fu you	p/619
+gong ji zhi lian	m/454
+gong ji zhi ling	m/454
+gong lian kai ji	p/936
+gong lian kai qi	p/936
+gong sheng	a/180
+gong xi zhi lian	m/454
+gong xi zhi ling	m/454
+gou hun wen	p/302
+gou hun yan	p/302
+gou mo lu weng	p/638
+gou mo luo weng	p/638
+gou pa lu weng	p/638
+gou pa luo weng	p/638
+gou zai bao	p/926
+gou zai pao	p/926
+gou zan gou	p/1014
+gou zi bao	p/926
+gou zi pao	p/926
+gu bang	m/125
+gu bang luan da	m/198
+gu dai guo xing	a/281
+gu dai huo xing	a/281
+gu ding lu	p/1003
+gu ding lv	p/1003
+gu gu	p/163
+gu gu ge	p/520
+gu gu pao jue	p/656
+gu gu pao wa	p/656
+gu gu xiao zi	p/559
+gu gua pao jue	p/656
+gu gua pao wa	p/656
+gu hao hao	p/293
+gu hao niu	p/293
+gu hua xiao zi	p/559
+gu ji	m/778
+gu jian bao	p/1002
+gu jian luo	p/1001
+gu jian wo	p/1001
+gu kong ji yu	p/369
+gu la duo	p/383
+gu lao zhi ge	m/547
+gu lao zhu ge	m/547
+gu le du	p/1007
+gu le dun	p/1007
+gu lei du	p/1007
+gu lei dun	p/1007
+gu niu hao	p/293
+gu niu niu	p/293
+gu ru diao	p/845
+gu ru niao	p/845
+gu tou hui li biao	m/155
+gu tou jue	p/657
+gu tou wa	p/657
+gu wen ju qing e	p/911
+gu wen ju sheng e	p/911
+gu wen qu qing e	p/911
+gu wen qu sheng e	p/911
+gu xi	m/778
+gu yu yu	p/1004
+gu yue diao	p/845
+gu yue niao	p/845
+gu zhen lu	p/1003
+gu zhen lv	p/1003
+gua tan	m/122
+gua tian	m/122
+gua tou jue	p/657
+gua tou wa	p/657
+gua zao diao	p/441
+gua zao niao	p/441
+guai e long	p/697
+guai e mang	p/697
+guai li	m/70
+guai li	p/68
+guai li an	a/52
+guai li qian	a/52
+guai shuo	a/261
+guai yao	a/261
+guai yi dian bei	m/598
+guai yi dian bo	m/598
+guan chuan zuan	a/308
+guan yuan zuan	a/308
+guang dian san xi	p/695
+guang dou zai	p/938
+guang dou zi	p/938
+guang ge zuo yong	m/235
+guang he zuo yong	m/235
+guang qiang	m/113
+guang yu fang shou	m/469
+guang yu po huai	m/784
+guang yu po hui	m/784
+guang yu po pi	m/784
+guang yu zhan li	m/797
+guang zi fen yong	m/722
+guang zi pen chong	m/722
+guang zi pen yong	m/722
+gui huo	m/261
+gui ji	m/417
+gui jiao jiao	p/688
+gui jiao jue	p/688
+gui jiao lu	p/899
+gui jiao lv	p/899
+gui ju ju kai	p/689
+gui ju qu kai	p/689
+gui jue jiao	p/688
+gui jue jue	p/688
+gui jue lu	p/899
+gui jue lv	p/899
+gui lian hua jing	a/306
+gui lian huo jing	a/306
+gui ling hua jing	a/306
+gui ling huo jing	a/306
+gui mian	m/184
+gui mo zhi guang	m/920
+gui mo zhu guang	m/920
+gui shi	p/92
+gui shi tong	p/93
+gui si	p/92
+gui si tong	p/93
+gui tian zhi yi	m/613
+gui tian zhu yi	m/613
+gui wu zhi guang	m/920
+gui wu zhu guang	m/920
+gui yi zhou yu	m/826
+gui yuan	m/273
+gui zu ju kai	p/689
+gui zu qu kai	p/689
+gun dong	m/205
+gun gun bian fu	p/527
+gun gun e	p/552
+gun gun pian fu	p/527
+gun hun e	p/552
+guo dong yuan	p/288
+guo guo qi pao	m/733
+guo huo qi pao	m/733
+guo li	a/55
+guo lun huo yan	a/163
+guo lv	a/111
+guo mi chong	p/1011
+guo mi hui	p/1011
+guo mi zhong	p/1011
+guo ran weng	p/202
+guo re	m/315
+guo zao diao	p/441
+guo zao niao	p/441
+ha ke long	p/148
+ha ke mang	p/148
+ha li li	p/650
+ha li lie	p/650
+ha qian	m/281
+ha yao ke	p/507
+ha yue ke	p/507
+hai bao qiu	p/363
+hai chan shou	p/423
+hai ci long	p/117
+hai ci mang	p/117
+hai de shu	p/960
+hai di shu	p/960
+hai dun xia	p/964
+hai mo shi	p/364
+hai qi long	p/117
+hai qi mang	p/117
+hai shen peng yan jiao xiang le	m/697
+hai shen peng yan jiao xiang yue	m/697
+hai shen zhuang yan jiao xiang le	m/697
+hai shen zhuang yan jiao xiang yue	m/697
+hai tu shou	p/423
+hai tun xia	p/964
+hai xing xing	p/120
+han jin	a/72
+han jing	a/72
+han xiu bao	p/406
+han xiu pao	p/406
+hao da jing	p/975
+hao da qing	p/975
+hao dai jing	p/975
+hao dai qing	p/975
+hao huai xing	p/747
+hao hui xing	p/747
+hao la you	p/686
+hao li	p/67
+hao lian	m/689
+hao ling	m/689
+hao pi xing	p/747
+hao sheng	a/172
+hao sheng mao xie	p/740
+hao sheng xie	p/739
+hao xing	a/172
+hao xing mao xie	p/740
+hao xing xie	p/739
+he ke long	p/148
+he ke mang	p/148
+he la ke luo shi	p/214
+he la ke luo si	p/214
+he li li	p/650
+he li lie	p/650
+he ma shou	p/450
+he mu xiang chu	m/589
+he mu xiang ju	m/589
+he niu nai	m/208
+he qian	m/281
+he xin cheng fa zhe	m/687
+he yao ke	p/507
+he yue ke	p/507
+hei an bao chong	m/897
+hei an pu chong	m/897
+hei an ya	p/198
+hei dong tian shi mo wu mie	m/654
+hei dong tian shi mo wu mie	m/655
+hei dong tian shi wan wu mie	m/654
+hei dong tian shi wan wu mie	m/655
+hei dong tun shi mo wu mie	m/654
+hei dong tun shi mo wu mie	m/655
+hei dong tun shi wan wu mie	m/654
+hei dong tun shi wan wu mie	m/655
+hei lu jia	p/229
+hei lv jia	p/229
+hei meng	m/114
+hei se mu guang	m/212
+hei shai mu guang	m/212
+hei tong tian shi wan wu mie	m/654
+hei tong tian shi wan wu mie	m/655
+hei tong tun shi wan wu mie	m/654
+hei tong tun shi wan wu mie	m/655
+hei wen e	p/551
+hei wu	m/114
+hei yan e	p/551
+hei ye mo ling	p/477
+hei ye mo ying	m/101
+hen la jiao	p/952
+hen ta ta mi	m/561
+heng cheng zhi qu	a/29
+heng cheng zhu qu	a/29
+heng jing zhi qu	a/29
+heng jing zhu qu	a/29
+hong lei jin gang xing	p/812
+hong lian kai ji	p/936
+hong lian kai qi	p/936
+hong ming ru	p/1005
+hong ming yue	p/1005
+hong sheng	a/180
+hou bao dan	p/294
+hou bao tan	p/294
+hou bo dan	p/294
+hou bo tan	p/294
+hou guai	p/56
+hou hou jing	p/320
+hou hou qing	p/320
+hou jiao	m/46
+hou jiao wei	p/985
+hou jiao yi	p/985
+hou jing wang	p/321
+hou jing yu	p/321
+hou qing wang	p/321
+hou qing yu	p/321
+hou zhi fang	a/47
+hu cheng long	p/411
+hu cheng mang	p/411
+hu da dao	p/828
+hu dai dao	p/828
+hu de	p/65
+hu di	p/65
+hu dou jian suo	p/847
+hu dou jian xun	p/847
+hu fa	m/271
+hu fa fang shou	m/578
+hu fa kong jian	m/433
+hu hu	p/213
+hu mao wu	m/297
+hu mo	p/720
+hu mu xiang chu	m/589
+hu mu xiang ju	m/589
+hu pa	p/720
+hu qi	m/355
+hu xi	m/355
+hu xin cheng fa zhe	m/687
+hu zhu jian suo	p/847
+hu zhu jian xun	p/847
+hua ban wu	m/80
+hua bei bei	p/669
+hua chu qu	m/915
+hua da hu	p/828
+hua dai hu	p/828
+hua dan kui	p/140
+hua dan yi long	p/142
+hua dan yi mang	p/142
+hua duo jia nong bao	m/705
+hua duo jia nong pao	m/705
+hua fen chuan	m/676
+hua fen qiu	m/676
+hua fen tuan	m/676
+hua gu xiao zi	p/559
+hua hua qi chang	m/736
+hua hua qi shang	m/736
+hua hua xi chang	m/736
+hua hua xi shang	m/736
+hua hua xiao zi	p/559
+hua hua zhi li	a/223
+hua hua zhu li	a/223
+hua huo ban	m/494
+hua huo pan	m/494
+hua ji fu ren	p/671
+hua jie fu ren	p/671
+hua liao	m/666
+hua liao huan huan	p/764
+hua long dian jing	m/620
+hua long zhan jing	m/620
+hua man	a/166
+hua mang dian jing	m/620
+hua mang zhan jing	m/620
+hua mu	a/166
+hua pi	a/209
+hua she di	p/670
+hua shi kui	p/140
+hua shi yi long	p/142
+hua shi yi mang	p/142
+hua shuo	m/666
+hua shuo huan huan	p/764
+hua wei ji yong	m/289
+hua wei qi yong	m/289
+hua wu diao	p/741
+hua wu niao	p/741
+hua xie di	p/670
+hua xue bian hua qi ben	a/256
+hua xue bian hua qi ti	a/256
+hua xue bian hua xi ti	a/256
+hua xue bian huo qi ben	a/256
+hua xue bian huo qi ti	a/256
+hua xue bian huo xi ti	a/256
+hua xue zhi li	a/223
+hua xue zhu li	a/223
+hua yan guai	p/442
+hua yang hai shi	p/729
+hua ye di	p/670
+hua ye hou	p/511
+hua ye yuan	p/512
+hua zhi li	a/122
+hua zhu li	a/122
+huai huai ling yu	m/737
+huai hui ling yu	m/737
+huai pi ling yu	m/737
+huan chang	m/756
+huan cheng ba zhang	m/358
+huan dang	m/508
+huan jiao	a/149
+huan jue	a/149
+huan le shi guang	m/603
+huan ran yi xin	m/287
+huan shang	m/756
+huan xiang guang xian	m/60
+huan xing ba zhang	m/358
+huan ying fang shou	a/231
+huan yue shi guang	m/603
+huang huang ban	p/327
+huang jin zhi qu	a/283
+huang jin zhu qu	a/283
+hui	t/7
+hui bao bao	p/540
+hui bao pao	p/540
+hui chen shan	p/569
+hui dian bao	p/737
+hui fu bian suo	m/377
+hui fu feng suo	m/377
+hui fu zhi lian	m/456
+hui fu zhi ling	m/456
+hui gun ni	p/953
+hui gun nie	p/953
+hui huai ling yu	m/737
+hui hui ling yu	m/737
+hui jia ku	p/954
+hui jia sheng	p/954
+hui jiao	m/450
+hui ming	m/405
+hui nian jian	m/891
+hui pi	m/884
+hui pu	m/884
+hui qing	m/497
+hui sheng	m/497
+hui shou li yong	m/278
+hui tian mie de ju yan zhui	m/632
+hui tian mie de ju yan zhui	m/633
+hui tian mie de qu yan zhui	m/632
+hui tian mie de qu yan zhui	m/633
+hui tian mie di ju yan zhui	m/632
+hui tian mie di ju yan zhui	m/633
+hui tian mie di qu yan zhui	m/632
+hui tian mie di qu yan zhui	m/633
+hui xing quan	m/309
+hui xuan die	m/27
+hui xuan ti	m/27
+hui yao	m/450
+hui zhi	m/118
+hun gun e	p/552
+hun hun e	p/552
+hun wu lie yin bao	m/775
+hun wu lie yin bo	m/775
+hun xin	a/220
+hun zhi	m/118
+huo	t/10
+huo ban miao	p/725
+huo bao hou	p/57
+huo bao shou	p/157
+huo bo hou	p/57
+huo bo shou	p/157
+huo bu chan hang	m/506
+huo bu chan xing	m/506
+huo bu dan hang	m/506
+huo bu dan xing	m/506
+huo chu qu	m/915
+huo dan kui	p/140
+huo dan yi long	p/142
+huo dong yuan	p/288
+huo gong bu dao weng	p/554
+huo gong fou dao weng	p/554
+huo guo qi pao	m/733
+huo guo xi pao	m/733
+huo hong bu dao weng	p/554
+huo hong fou dao weng	p/554
+huo hu li	p/653
+huo hua	m/52
+huo huo qi pao	m/733
+huo huo xi pao	m/733
+huo jian qiao	p/662
+huo jian que	p/662
+huo jian tou chui	m/130
+huo kong long	p/5
+huo kong mang	p/5
+huo li	a/55
+huo lv	a/111
+huo pu hou	p/57
+huo pu shou	p/157
+huo qiu shu	p/155
+huo re	m/315
+huo shen e	p/637
+huo shen yi	p/637
+huo shi kui	p/140
+huo shi yi long	p/142
+huo tan shi	p/668
+huo wei ji yong	m/289
+huo wei qi yong	m/289
+huo xue zhi li	a/223
+huo xue zhu li	a/223
+huo yan bian	m/680
+huo yan dan	m/545
+huo yan diao	p/146
+huo yan die	m/299
+huo yan ji	p/257
+huo yan lun	m/172
+huo yan niao	p/146
+huo yan qiu	m/780
+huo yan quan	m/7
+huo yan shi	p/668
+huo yan shou hu	m/908
+huo yan shu	p/156
+huo yan tan	m/545
+huo yan ti	m/299
+huo yan xuan guo	m/83
+huo yan xuan wo	m/83
+huo yan ya	m/424
+huo yan zhi qu	a/49
+huo yan zhu qu	a/49
+huo yan zong mao	a/313
+huo yi bu	p/136
+huo zhi ji	p/255
+huo zhi shi yao	m/519
+huo zhi shi yue	m/519
+huo zhi wu	m/552
+huo zhu shi yao	m/519
+huo zhu shi yue	m/519
+huo zhu wu	m/552
+ji cao gui fu	p/413
+ji dong diao	p/144
+ji dong niao	p/144
+ji dong tou	a/248
+ji e fei ti fen sui ji	m/696
+ji e fei ti fen sui xi	m/696
+ji e fei yue fen sui ji	m/696
+ji e fei yue fen sui xi	m/696
+ji feng zhi yi	a/177
+ji feng zhu yi	a/177
+ji ge er de	p/718
+ji ge mi de	p/718
+ji ge pi	m/15
+ji ge zhan	m/15
+ji guang man	m/694
+ji guang mu	m/694
+ji guang shu	m/62
+ji han leng yan	m/554
+ji han ling yan	m/554
+ji he pi	m/15
+ji he xue hua	p/615
+ji he zhan	m/15
+ji ji long	p/998
+ji ji mang	p/998
+ji ji pi fu	a/147
+ji ji pi lu	a/147
+ji ju bao	m/744
+ji ju cao yuan	m/773
+ji ju chao neng	m/769
+ji ju chao tai	m/769
+ji ju chong gu	m/758
+ji ju chong ye	m/758
+ji ju da de	m/771
+ji ju da di	m/771
+ji ju dai de	m/771
+ji ju dai di	m/771
+ji ju e ba	m/772
+ji ju e po	m/772
+ji ju fang bi	m/743
+ji ju fei chong	m/766
+ji ju gang die	m/774
+ji ju gang tie	m/774
+ji ju gong ji	m/760
+ji ju gong xi	m/760
+ji ju han bing	m/763
+ji ju han ning	m/763
+ji ju hui gu	m/758
+ji ju huo bao	m/757
+ji ju huo bo	m/757
+ji ju jiao jing	m/767
+ji ju jiao qing	m/767
+ji ju long ji	m/768
+ji ju long qi	m/768
+ji ju mang ji	m/768
+ji ju mang qi	m/768
+ji ju pao	m/744
+ji ju quan dou	m/761
+ji ju quan zhu	m/761
+ji ju shan dian	m/759
+ji ju shui liu	m/765
+ji ju suan dai	m/764
+ji ju suan du	m/764
+ji ju tiao neng	m/769
+ji ju tiao tai	m/769
+ji ju wu ba	m/772
+ji ju wu po	m/772
+ji ju yan dan	m/770
+ji ju yan shi	m/770
+ji ju yao jing	m/767
+ji ju yao qing	m/767
+ji ju you hun	m/762
+ji ju zao yuan	m/773
+ji ju zhong gu	m/758
+ji ju zhong ye	m/758
+ji kai ji	p/1016
+ji kuang da de wan li bing	m/650
+ji kuang da de wan li bing	m/651
+ji kuang da de wan li ning	m/650
+ji kuang da de wan li ning	m/651
+ji kuang da di mo li bing	m/650
+ji kuang da di mo li bing	m/651
+ji kuang da di mo li ning	m/650
+ji kuang da di mo li ning	m/651
+ji kuang da di wan li bing	m/650
+ji kuang da di wan li bing	m/651
+ji kuang da di wan li ning	m/650
+ji kuang da di wan li ning	m/651
+ji la	m/479
+ji la di na	p/487
+ji la gui	p/385
+ji la qi	p/385
+ji la qian	m/12
+ji li dan	p/113
+ji liu	a/67
+ji lu chi an	p/281
+ji lu li an	p/281
+ji luo	m/479
+ji luo er de	p/718
+ji luo mi de	p/718
+ji luo qian	m/12
+ji miao kong jian	m/472
+ji nuo li shu	p/573
+ji nuo lie shu	p/573
+ji qi lin	p/981
+ji qu	m/141
+ji qu bao	m/744
+ji qu cao yuan	m/773
+ji qu chong gu	m/758
+ji qu fang bi	m/743
+ji qu fei chong	m/766
+ji qu gang die	m/774
+ji qu gang tie	m/774
+ji qu gong ji	m/760
+ji qu gong xi	m/760
+ji qu han bing	m/763
+ji qu han ning	m/763
+ji qu hui gu	m/758
+ji qu huo bao	m/757
+ji qu huo bo	m/757
+ji qu long qi	m/768
+ji qu pao	m/744
+ji qu quan dou	m/761
+ji qu quan zhu	m/761
+ji qu shan dian	m/759
+ji qu shui liu	m/765
+ji qu suan dai	m/764
+ji qu suan du	m/764
+ji qu yan dan	m/770
+ji qu yan shi	m/770
+ji qu you hun	m/762
+ji qu zao yuan	m/773
+ji sha	m/659
+ji sheng chong zi	m/73
+ji sheng zhong zi	m/73
+ji shi	a/5
+ji shi luo niu	p/589
+ji shi wo niu	p/589
+ji shu gao shou	a/101
+ji su fu chong hong lie zhuang	m/626
+ji su fu chong hong lie zhuang	m/627
+ji su she fan	m/369
+ji su zhe fan	m/369
+ji su zhuai lun	m/859
+ji su zhuan lun	m/859
+ji suo	m/659
+ji teng bang	m/904
+ji wu fei yue fen sui ji	m/696
+ji yi zhi feng	m/466
+ji yi zhi guang	m/109
+ji yi zhu feng	m/466
+ji yi zhu guang	m/109
+ji zao gui fu	p/413
+ji zhang ji xi	m/252
+ji zhang qi xi	m/252
+ji zhi	a/5
+ji zhi ji	p/1016
+ji zhu gao shou	a/101
+jia gui zhen zhuang	m/793
+jia he ren jue	p/658
+jia he ren wa	p/658
+jia ke chong	p/266
+jia ke jian	p/266
+jia ke long	p/372
+jia ke mang	p/372
+jia ku	m/313
+jia lei yu dian hu chong lang	m/700
+jia lei yu dian xi chong lang	m/700
+jia nang	a/167
+jia nong guang bao	m/430
+jia nong guang pao	m/430
+jia nong shui bao	m/308
+jia nong shui pao	m/308
+jia qiao chong	p/266
+jia qiao jian	p/266
+jia qiao long	p/372
+jia qiao mang	p/372
+jia su	a/3
+jia zhu	m/11
+jian ci bei	m/302
+jian ci bi	m/302
+jian ci fang shou	m/596
+jian ci jia nong bao	m/131
+jian ci jia nong pao	m/131
+jian dan gong ji	m/444
+jian dan gong xi	m/444
+jian dun jian guai	p/681
+jian geng nao dai	a/69
+jian geng yan dan	a/116
+jian geng yan shi	a/116
+jian guo e ling	p/598
+jian guo ya ling	p/598
+jian luo e ling	p/598
+jian luo ya ling	p/598
+jian mei	m/339
+jian qi bei	m/302
+jian qi bi	m/302
+jian qi fang shou	m/596
+jian qi jia nong bao	m/131
+jian qi jia nong pao	m/131
+jian qiu	a/237
+jian she	a/53
+jian shi	a/198
+jian shi	a/53
+jian shi gong ji	m/444
+jian shi gong xi	m/444
+jian shun jian guai	p/681
+jian wu	m/14
+jian ya liu sha	p/444
+jian ya long	p/455
+jian ya lu sha	p/444
+jian yi	a/242
+jian ying nao dai	a/69
+jian ying yan dan	a/116
+jian ying yan shi	a/116
+jian zhuang xiong ji	a/145
+jian zi cao	p/187
+jian zi hua	p/188
+jian zi mian	p/189
+jian zi zao	p/187
+jiang hang	a/125
+jiang li bian da	m/438
+jiang li zuan	m/887
+jiang ren gong ji	m/910
+jiang ren gong xi	m/910
+jiang suan ju dai mie jue yu	m/628
+jiang suan ju dai mie jue yu	m/629
+jiang suan ju du mie jue yu	m/628
+jiang suan ju du mie jue yu	m/629
+jiang xing	a/125
+jiang xue	a/117
+jiang yu	a/2
+jiang zhuang zhi e	a/173
+jiang zhuang zhu e	a/173
+jiang zi yin qing	a/289
+jiao cheng li liang	m/237
+jiao cu huo yan	m/558
+jiao cu shan dian	m/559
+jiao cuo huo yan	m/558
+jiao cuo shan dian	m/559
+jiao hua tian gou	p/275
+jiao huan chang de	m/502
+jiao huan chang di	m/502
+jiao huan shang de	m/502
+jiao huan shang di	m/502
+jiao huo gong hu	p/655
+jiao huo hong hu	p/655
+jiao jin	m/378
+jiao jin yu	p/118
+jiao jing	t/18
+jiao jing pi fu	a/182
+jiao jing qi chang	a/187
+jiao liu	a/67
+jiao qing	m/45
+jiao qing	t/18
+jiao qing pi fu	a/182
+jiao qing qi chang	a/187
+jiao sheng	m/45
+jiao sui	m/242
+jiao xiang zhi qu	a/273
+jiao xiang zhu qu	a/273
+jiao xiao hu	p/827
+jiao xing li liang	m/237
+jiao zhu	m/44
+jiao zhuang	m/30
+jiao zuan	m/32
+jie bang	m/226
+jie cao er	p/412
+jie cao gui fu	p/413
+jie cao ni	p/412
+jie cao ren	p/412
+jie cheng guang huang	m/295
+jie cheng guang mang	m/295
+jie cheng zhi yan	a/272
+jie cheng zhu yan	a/272
+jie chu	m/274
+jie dong tou	a/248
+jie gui zhen zhuang	m/793
+jie jing guang huang	m/295
+jie jing guang mang	m/295
+jie jing zhi yan	a/272
+jie jing zhu yan	a/272
+jie ke luo mu	p/644
+jie ku	m/313
+jie la ao la	p/807
+jie la yu la	p/807
+jie li shuai	m/233
+jie ni gui	p/7
+jie ni jun	p/7
+jie ni qiu	p/7
+jie qiu shou	a/222
+jie shi	a/5
+jie wang	m/343
+jie xian dun ke	a/197
+jie xian dun qiao	a/197
+jie xian shun ke	a/197
+jie xian shun qiao	a/197
+jie zao er	p/412
+jie zao gui fu	p/413
+jie zao ni	p/412
+jie zao ren	p/412
+jie zhi	a/5
+jie zhu	m/274
+jin jiao bu fang	m/746
+jin jiao fou fang	m/746
+jin juan zhan	m/370
+jin shen zhan	m/370
+jin shu	m/35
+jin shu bao zha	m/368
+jin shu bo zha	m/368
+jin shu fang hu	a/230
+jin shu guai	p/375
+jin shu yin	m/319
+jin shu zhao	m/232
+jin shu zhua	m/232
+jin shui	m/487
+jin yao bu fang	m/746
+jin yao fou fang	m/746
+jin yu wang	p/119
+jin yu yu	p/119
+jin zhang gan	a/127
+jin zhang han	a/127
+jin zhu bao zha	m/368
+jin zhu bo zha	m/368
+jin zhu fang hu	a/230
+jin zhu guai	p/375
+jin zhu yin	m/319
+jin zhu zhao	m/232
+jin zhu zhua	m/232
+jing bao da tou	m/720
+jing bao dai tou	m/720
+jing bo da tou	m/720
+jing bo dai tou	m/720
+jing dian	a/9
+jing guang hua	p/970
+jing guang she ji	m/429
+jing guang she xi	m/429
+jing guang xing qun	m/906
+jing guang ya	p/969
+jing guang ye ji	m/429
+jing guang ye xi	m/429
+jing guang zhuai zhuai	m/866
+jing guang zhuai zhuan	m/866
+jing guang zhuan zhuai	m/866
+jing guang zhuan zhuan	m/866
+jing he	m/310
+jing hua	m/685
+jing huo	m/685
+jing jia	a/240
+jing jiao lu	p/234
+jing jiao lv	p/234
+jing jue lu	p/234
+jing jue lv	p/234
+jing mian diao	p/333
+jing mian fan she	m/243
+jing mian fan ye	m/243
+jing mian niao	p/333
+jing mian shu xing	m/513
+jing mian zhu xing	m/513
+jing shen bei	m/149
+jing shen bo	m/149
+jing shen chang de	m/678
+jing shen chang di	m/678
+jing shen chong ji	m/473
+jing shen chong xi	m/473
+jing shen ji po	m/540
+jing shen jian	m/875
+jing shen jiang nian	m/94
+jing shen li	a/39
+jing shen li ren	m/427
+jing shen qiang nian	m/94
+jing shen shang de	m/678
+jing shen shang di	m/678
+jing shen tu jin	m/354
+jing shen xi po	m/540
+jing shen zao yin	m/917
+jing shen zhi cao zhe	a/227
+jing shen zhi ya	m/706
+jing shen zhi zao zhe	a/227
+jing shen zhu ya	m/706
+jing shen zhuai chi	m/375
+jing shen zhuai yi	m/375
+jing shen zhuan chi	m/375
+jing shen zhuan yi	m/375
+jing teng she	p/496
+jing teng yi	p/496
+jing tong zhong	p/437
+jing xia	m/310
+jing yan	m/551
+jiu cai sheng hua ji ju ding	m/702
+jiu cai sheng hua qi ju ding	m/702
+jiu cai sheng kua ji ju ding	m/702
+jiu cai sheng kua qi ju ding	m/702
+jiu chan bu xiu	m/611
+jiu chan bu xu	m/611
+jiu chan fou xiu	m/611
+jiu chan fou xu	m/611
+jiu ji ju long shen tian de	m/652
+jiu ji ju long shen tian de	m/653
+jiu ji ju long shen tian di	m/652
+jiu ji ju long shen tian di	m/653
+jiu ji ju long zhen tian de	m/652
+jiu ji ju long zhen tian de	m/653
+jiu ji ju long zhen tian di	m/652
+jiu ji ju long zhen tian di	m/653
+jiu ji mo di da chong zhuang	m/622
+jiu ji mo di da chong zhuang	m/623
+jiu ji mo di dai chong zhuang	m/622
+jiu ji mo di dai chong zhuang	m/623
+jiu ji wu di da chong zhuang	m/622
+jiu ji wu di da chong zhuang	m/623
+jiu ji wu di dai chong zhuang	m/622
+jiu ji wu di dai chong zhuang	m/623
+jiu ji wu hua da chong zhuang	m/622
+jiu ji wu hua da chong zhuang	m/623
+jiu ji wu hua dai chong zhuang	m/622
+jiu ji wu hua dai chong zhuang	m/623
+jiu wei	p/38
+jiu yi	p/38
+ju an tang lang	p/212
+ju an xie	p/99
+ju bao gong	m/6
+ju cao she	p/152
+ju cao xie	p/152
+ju cao ye	p/152
+ju chi fei yu	p/226
+ju dai	m/92
+ju dai bao chong	m/898
+ju dai pu chong	m/898
+ju dai ya	m/305
+ju dan ding	p/874
+ju dan shou	p/138
+ju dan zheng	p/874
+ju dao xiao bing	p/624
+ju diao xiao bing	p/624
+ju du	m/92
+ju du bao chong	m/898
+ju du pu chong	m/898
+ju du ya	m/305
+ju duan jiang	p/959
+ju ge pi	m/15
+ju ge zhan	m/15
+ju guang deng	m/671
+ju guang ding	m/671
+ju he pi	m/15
+ju he zhan	m/15
+ju ji	m/745
+ju ji shou	a/97
+ju jia wu zhe	p/768
+ju jian tu ji	m/862
+ju jian tu xi	m/862
+ju jin guai	p/376
+ju li chui	m/893
+ju long wei neng	m/820
+ju long wei tai	m/820
+ju lun qiu	p/544
+ju man teng	p/465
+ju mang wei neng	m/820
+ju mang wei tai	m/820
+ju qi	m/116
+ju qian tang lang	p/212
+ju qian xie	p/99
+ju qing	m/304
+ju ren wei shi a luo la	m/698
+ju ren wei shi e luo la	m/698
+ju she shu xiao	p/724
+ju sheng	m/304
+ju shi ding	p/874
+ju shi shou	p/138
+ju shi zheng	p/874
+ju shou dan	m/782
+ju shou tan	m/782
+ju shou zhan	m/781
+ju tan shan	p/839
+ju wan teng	p/465
+ju xi	m/116
+ju xi	m/745
+ju xi shou	a/97
+ju ya sha	p/319
+ju ye shu xiao	p/724
+ju zao she	p/152
+ju zao xie	p/152
+ju zao ye	p/152
+ju zhao guai	p/260
+juan fa	a/221
+juan juan er	p/427
+juan juan reng	p/427
+juan juan xiong	p/217
+juan lian yun	p/905
+juan quan er	p/427
+juan quan reng	p/427
+juan quan xiong	p/217
+juan ti qing liang hua	m/475
+juan ti qing liang huo	m/475
+jue cheng li liang	m/237
+jue cheng zhi wu	m/686
+jue cheng zhu wu	m/686
+jue chu feng sheng	m/179
+jue chu peng sheng	m/179
+jue de chan	p/660
+jue de tu	p/660
+jue di chan	p/660
+jue di tu	p/660
+jue dui bu shi hui xuan zhan	m/634
+jue dui bu shi hui xuan zhan	m/635
+jue dui bu si hui xuan zhan	m/634
+jue dui bu si hui xuan zhan	m/635
+jue dui lian du	m/329
+jue dui lian duo	m/329
+jue dui ling du	m/329
+jue dui ling duo	m/329
+jue dui shui mian	a/213
+jue dui shui min	a/213
+jue huan lang wu ya	p/914
+jue jin yu	p/118
+jue jue chan	p/659
+jue jue tu	p/659
+jue ku chan	p/659
+jue ku tu	p/659
+jue wu hui da	m/693
+jue wu hun da	m/693
+jue xing li liang	m/237
+jue xing zhi wu	m/686
+jue xing zhu wu	m/686
+jue zhuang	m/30
+jue zuan	m/32
+jun si zhi li	a/298
+jun si zhu li	a/298
+jun zhu she	p/497
+jun zhu yi	p/497
+ka bi shou	p/143
+ka di gou	p/58
+ka la ka la	p/104
+ka la qia la	p/104
+ka mi gui	p/8
+ka mi jun	p/8
+ka mi qiu	p/8
+ka mie gui	p/8
+ka mie jun	p/8
+ka mie qiu	p/8
+ka pi shou	p/143
+ka pu die die	p/786
+ka pu die tie	p/786
+ka pu ming ming	p/785
+ka pu mou mou	p/787
+ka pu qi qi	p/788
+ka pu tie die	p/786
+ka pu tie tie	p/786
+kai lu di ou	p/647
+kai luo di ou	p/647
+kai luo shi	p/127
+kai luo si	p/127
+kai nong bao	m/890
+kai nong pao	m/890
+kai xi	p/63
+kan chuan	m/197
+kan men quan	a/275
+kan shi	a/198
+kan wo ma	m/266
+kan yuan	m/197
+ke ai xing xing fei tian zhuang	m/656
+ke ai xing xing fei tian zhuang	m/657
+ke bo mian kong	m/184
+ke da ya	p/54
+ke duo la	p/305
+ke ge duo la	p/304
+ke ke duo la	p/304
+ke lei se li e	p/488
+ke lei se li ya	p/488
+ke lei shai li e	p/488
+ke lei shai li ya	p/488
+ke ming zhao	m/827
+ke ming zhua	m/827
+ke pa mian kong	m/184
+ke shi mo mu	p/790
+ke shi mu mu	p/790
+ke si mo gu	p/789
+ke si mo ku	p/789
+ke si mo mu	p/790
+ke si mu gu	p/789
+ke si mu ku	p/789
+ke si mu mu	p/790
+ke ta ya	p/54
+ke ti ya	p/54
+ke wang	m/343
+kei ming zhao	m/827
+kei ming zhua	m/827
+ken guo chong	p/840
+ken guo hui	p/840
+ken guo zhong	p/840
+ken luo chong	p/840
+ken luo hui	p/840
+ken luo zhong	p/840
+ken tai luo	p/128
+kong qi li ren	m/314
+kong qi zhan	m/403
+kong qi zhi ren	m/403
+kong qi zhu ren	m/403
+kong shou pi	m/2
+kong xi li ren	m/314
+kong xi zhan	m/403
+kou bao hua	p/70
+kou dai hua	p/70
+ku bao	p/510
+ku dai guo xing	a/281
+ku dai huo xing	a/281
+ku jian	m/533
+ku jian bao	p/1002
+ku jian luo	p/1001
+ku jian wo	p/1001
+ku kong ji yu	p/369
+ku ku mian ju	p/562
+ku lao zhi ge	m/547
+ku lao zhu ge	m/547
+ku she feng bao	m/846
+ku she feng pu	m/846
+ku xie feng bao	m/846
+ku xie feng pu	m/846
+ku ye feng bao	m/846
+ku ye feng pu	m/846
+ku yu yu	p/1004
+kua ke chong neng	a/282
+kua ke chong tai	a/282
+kuai long	p/149
+kuai mang	p/149
+kuai quan lang	p/107
+kuai shou hai ji	m/918
+kuai shou hai xi	m/918
+kuai shou huan ji	m/918
+kuai shou huan xi	m/918
+kuai su fang shou	m/501
+kuai su she fan	m/812
+kuai su zhe fan	m/812
+kuan dai	a/301
+kuang huan lang wu ya	p/914
+kuang wu hui da	m/693
+kuang wu hun da	m/693
+kuang yu fang shou	m/469
+kuang yu po huai	m/784
+kuang yu po hui	m/784
+kuang yu zhan li	m/797
+kui jia diao	p/227
+kui jia niao	p/227
+kui ta	m/23
+kui ying	a/23
+kun pi lei dan	p/101
+kun pi lei tan	p/101
+kun pi xiong mao	p/674
+kuo guang ling	p/607
+kuo ying li	a/91
+la ba ya	p/69
+la ba zhou diao	p/732
+la ba zhou niao	p/732
+la ba zhuo diao	p/732
+la ba zhuo niao	p/732
+la chan chu	p/536
+la chan yu	p/536
+la da	p/20
+la dan	m/88
+la di e shi	p/380
+la di e si	p/380
+la di ou shi	p/381
+la di ou si	p/381
+la di ya shi	p/380
+la di ya si	p/380
+la e	p/159
+la ji she ji	m/441
+la ji she xi	m/441
+la ji ye ji	m/441
+la ji ye xi	m/441
+la jiao fen bo	a/311
+la jiao fen fa	a/311
+la jiao jing hua	m/858
+la jiao jing kua	m/858
+la jiao pen bo	a/311
+la jiao pen fa	a/311
+la jiao qing hua	m/858
+la jiao qing kua	m/858
+la jie she ji	m/441
+la jie ye ji	m/441
+la la zao	p/690
+la lei shou	p/309
+la lu la si	p/280
+la lv la si	p/280
+la pa ya	p/69
+la pu la shi	p/131
+la pu la si	p/131
+la shi	m/88
+la ta	p/20
+la ti	p/20
+la ya	p/822
+la yang bin fen	m/572
+la ying bin fen	m/572
+lai bei cha	p/854
+lai bei cu cha	p/1013
+lai dian hong	p/835
+lai dian wang	p/835
+lai duo	a/54
+lai ren ta	p/287
+lai tuo	a/54
+lai xi la mu	p/643
+lan chan chu	p/536
+lan chan yu	p/536
+lan du	m/792
+lan duo	a/54
+lan e	p/159
+lan huan ba zhang	m/3
+lan ren ta	p/287
+lan tang hua	p/754
+lan tuo	a/54
+lan xu gong ji	a/92
+lan xu gong xi	a/92
+lan xu quan	m/4
+lan ya	p/822
+lan yu	m/517
+lan zhan	m/210
+lan zhe	m/792
+lang xiao dan ya ju feng bao	m/727
+lang xiao dan ya ju feng pu	m/727
+lang xiao shi ya ju feng bao	m/727
+lang xiao shi ya ju feng pu	m/727
+lao weng long	p/780
+lao weng mang	p/780
+le gu hai gui	p/565
+le gu hai jun	p/565
+le gu hai qiu	p/565
+le ke mao	p/404
+le ke miao	p/404
+le tian he tong	p/272
+le tian he zhong	p/272
+lei dian ban ma	p/523
+lei dian qiu long	m/819
+lei dian quan	m/9
+lei dian shou	p/310
+lei dian ya	m/422
+lei dian yun	p/642
+lei diao hai shou	p/881
+lei diao long	p/880
+lei diao mang	p/880
+lei gong	p/243
+lei gu hai gui	p/565
+lei gu hai jun	p/565
+lei gu hai qiu	p/565
+lei guan wang	p/898
+lei guan yu	p/898
+lei ji	m/550
+lei ji ai le ji	p/894
+lei ji ai le qi	p/894
+lei ji ai lei ji	p/894
+lei ji ai lei qi	p/894
+lei ji ai shi	p/378
+lei ji ai si	p/378
+lei ji duo la ge	p/895
+lei ji luo ke	p/377
+lei ji qi ka shi	p/486
+lei ji qi ka si	p/486
+lei ji qi qia shi	p/486
+lei ji qi qia si	p/486
+lei ji shi ji lu	p/379
+lei ji shi qi lu	p/379
+lei ji si ji lu	p/379
+lei ji si ji lv	p/379
+lei ji si qi lu	p/379
+lei ji si qi lv	p/379
+lei ji yi shi	p/378
+lei ji yi si	p/378
+lei ke mao	p/404
+lei ke miao	p/404
+lei lei dan	p/805
+lei lei shi	p/805
+lei ming cu ji	m/823
+lei ming cu xi	m/823
+lei ming zu ji	m/823
+lei ming zu xi	m/823
+lei niao hai shou	p/881
+lei niao long	p/880
+lei niao mang	p/880
+lei qiu	p/26
+lei wen xi	p/816
+lei xi	m/550
+lei yan hong hong	m/715
+lei yan hong wang	m/715
+lei yan wang hong	m/715
+lei yan wang wang	m/715
+lei yan xi	p/816
+lei yi bu	p/135
+leng dong an sao	m/573
+leng dong an zao	m/573
+leng dong gan sao	m/573
+leng dong gan zao	m/573
+leng dong qian sao	m/573
+leng dong qian zao	m/573
+leng jiao hua	m/159
+leng jiao huo	m/159
+leng jing lei she	m/711
+leng jing lei ye	m/711
+leng jing zhuang jia	a/232
+leng jue hua	m/159
+leng jue huo	m/159
+leng shui hou	p/515
+leng shui yuan	p/516
+leng xiao hua	m/881
+li jing she ji	m/749
+li jing ye ji	m/749
+li liang bao dan	m/408
+li liang bao shi	m/408
+li liang hu fa	m/379
+li liang hu huan	m/384
+li liang pian fen	m/471
+li liang ping fen	m/471
+li liang xi fa	m/379
+li liang zhuai huan	m/829
+li liang zhuan huan	m/829
+li ou lu	p/447
+li ou luo	p/447
+li qing she ji	m/749
+li qing she xi	m/749
+li qing ye ji	m/749
+li qing ye xi	m/749
+li wen xi	p/816
+li wu	m/217
+li ya yu	p/318
+li yan xi	p/816
+li yu wang	p/129
+li yu yu	p/129
+li zhen bing	p/870
+li zhuang ji	p/256
+lian dao kui	p/141
+lian diao kui	p/141
+lian huan ba zhang	m/3
+lian mao xiao tong	p/271
+lian mao xiao zhong	p/271
+lian qiu	a/237
+lian she	a/53
+lian she tong zi	p/270
+lian she zhong zi	p/270
+lian shi	a/53
+lian xie tong zi	p/270
+lian xie zhong zi	p/270
+lian xu gong ji	a/92
+lian xu gong xi	a/92
+lian xu quan	m/4
+lian ye tong zi	p/270
+lian ye zhong zi	p/270
+lian yu	m/517
+lian zhan	m/210
+liang he	m/310
+liang ji long	p/996
+liang ji mang	p/996
+liang liang feng bao	m/740
+liang liang feng pu	m/740
+liang xia	m/310
+lie ban yu	p/367
+lie huo shen yuan	m/517
+lie jian ying	p/663
+lie jiao liu sha	p/445
+lie jiao lu sha	p/445
+lie kong zuo	p/384
+lie qiao	p/21
+lie que	p/21
+lie tui huang	p/920
+lie yan hou	p/392
+lie yan jian she	m/481
+lie yan jian ye	m/481
+lie yan ma	p/78
+lie yan zan she	m/481
+lie yan zan ye	m/481
+lie yao liu sha	p/445
+lie yao lu sha	p/445
+lie zhen bing	p/870
+lin bie li wu	m/262
+lin fen	a/19
+lin huo	m/261
+lin jia long	p/783
+lin jia mang	p/783
+lin pan zao yin	m/691
+lin pian zao yin	m/691
+lin she	m/799
+lin ye	m/799
+ling cheng xiang	p/433
+ling dang xiang	p/433
+ling hun chong ji	m/789
+ling hun chong xi	m/789
+ling huo	m/261
+ling jing lei she	m/711
+ling jing lei ye	m/711
+ling jing zhuang jia	a/232
+ling sao	m/809
+ling shui hou	p/515
+ling shui yuan	p/516
+ling xiao	m/809
+ling xiao hua	m/881
+ling you ma	p/897
+liu guang chong ji	m/855
+liu guang chong jiao	m/855
+liu hun	a/254
+liu liu tang qiu	p/283
+liu mang e	p/553
+liu mang xiong mao	p/675
+liu meng e	p/553
+liu meng xiong mao	p/675
+liu sha de yu	m/328
+liu sha di yu	m/328
+liu sha shen yuan	m/328
+liu shui xuan wu	m/872
+liu suo de yu	m/328
+liu suo di yu	m/328
+liu suo shen yuan	m/328
+liu wei	p/37
+liu xing guang shu	m/800
+liu xing qun	m/434
+liu xing shan chong	m/713
+liu xing tu ji	m/794
+liu xing tu xi	m/794
+liu yi	p/37
+long	t/16
+long chui	m/692
+long e	a/263
+long ha xiao bing	p/341
+long jian	m/751
+long juan feng	m/239
+long juan yun	p/641
+long ke yao gun	a/244
+long long dan	p/75
+long long shi	p/75
+long long yan	p/76
+long pi fu	a/309
+long pi lu	a/309
+long qing gu wu	m/913
+long quan feng	m/239
+long quan yun	p/641
+long sheng gu wu	m/913
+long tou de shu	p/530
+long tou di shu	p/530
+long wang he	p/452
+long wang xie	p/452
+long wei	m/525
+long xi	m/225
+long xia xiao bing	p/341
+long yan guai	p/526
+long yi	m/525
+long yu he	p/452
+long yu xie	p/452
+long zhao	m/337
+long zhi bei dong	m/406
+long zhi bo dong	m/406
+long zhi fu chong	m/407
+long zhi nu	m/82
+long zhi wu	m/349
+long zhu bei dong	m/406
+long zhu bo dong	m/406
+long zhu fu chong	m/407
+long zhu nu	m/82
+long zhu wu	m/349
+long zhua	m/337
+lou li li	p/298
+lou li si	p/298
+lou nai ya la	p/792
+lu de shui mu	p/949
+lu de shui wu	p/949
+lu di shui mu	p/949
+lu di shui wu	p/949
+lu ka li ou	p/448
+lu li li	p/298
+lu li si	p/298
+lu mao chong	p/10
+lu mao hui	p/10
+lu nai ya la	p/792
+lu qia li ou	p/448
+lu wei	p/37
+lu yi	p/37
+luan ji	m/31
+luan xi	m/31
+luan zhua	m/154
+lun chang	m/496
+lun qin mao	p/405
+lun qin miao	p/405
+luo dan	m/88
+luo ding de shu	p/529
+luo ding di shu	p/529
+luo dou	t/2
+luo dou bao chong	m/899
+luo dou pu chong	m/899
+luo ji e	p/249
+luo ji ya	p/249
+luo ka li ou	p/448
+luo lei shou	p/309
+luo ling de shu	p/529
+luo ling di shu	p/529
+luo qi e	p/249
+luo qi ya	p/249
+luo qia li ou	p/448
+luo ran weng	p/202
+luo shi	m/88
+luo si lei duo	p/407
+luo tuo mu	p/479
+luo xuan wei qi	a/239
+luo xuan yi qi	a/239
+luo yang bin fen	m/572
+luo ying bin fen	m/572
+luo zhu	t/2
+lv gang jiao long	p/1018
+lv gang jiao mang	p/1018
+lv gang long	p/884
+lv gang mang	p/884
+lv gang qiao long	p/1018
+lv gang qiao mang	p/1018
+lv lei dan	p/805
+lv lei shi	p/805
+lv mao chong	p/10
+lv mao hui	p/10
+lv mao zhong	p/10
+ma bi fen	m/78
+ma hua quan	p/927
+ma ji ya na	p/801
+ma ji ya nuo	p/801
+ma jia duo	p/802
+ma li lou	p/183
+ma li lou li	p/184
+ma li lou si	p/184
+ma li lu	p/183
+ma li lu li	p/184
+ma li lu si	p/184
+ma lu e	p/49
+ma lu yi	p/49
+ma ma ci ci	m/716
+ma ma ci qi	m/716
+ma ma dian ji	m/734
+ma ma dian xi	m/734
+ma ma man	p/603
+ma ma man yu wang	p/604
+ma ma man yu yu	p/604
+ma ma qi ci	m/716
+ma ma qi qi	m/716
+ma ma xiao yu	p/602
+ma na fei	p/490
+ma nao shui mu	p/72
+ma nao shui wu	p/72
+ma niu la	p/461
+ma nv la	p/461
+ma sha na	p/307
+ma sha nuo	p/307
+ma suo na	p/307
+ma suo nuo	p/307
+ma tuo xi	p/967
+ma wei ya na	p/801
+ma wei ya nuo	p/801
+ma xia duo	p/802
+mai la shi	p/46
+mai la shi te	p/47
+mai la si	p/46
+mai la si te	p/47
+man an	m/283
+man chu	a/100
+man gan	m/283
+man han	m/283
+man li	m/276
+man man gao sheng	a/312
+man qi dong	a/112
+man shan	a/77
+man teng guai	p/114
+man xia li shi	p/296
+mang	t/16
+mang chui	m/692
+mang e	a/263
+mang ha xiao bing	p/341
+mang jian	m/751
+mang juan feng	m/239
+mang juan yun	p/641
+mang pi fu	a/309
+mang pi lu	a/309
+mang quan feng	m/239
+mang quan yun	p/641
+mang sheng gu wu	m/913
+mang tou de shu	p/530
+mang tou di shu	p/530
+mang wang xie	p/452
+mang wei	m/525
+mang xi	m/225
+mang xia xiao bing	p/341
+mang yi	m/525
+mang yu xie	p/452
+mang zhao	m/337
+mang zhi fu chong	m/407
+mang zhi nu	m/82
+mang zhi wu	m/349
+mang zhu fu chong	m/407
+mang zhu nu	m/82
+mang zhu wu	m/349
+mang zhua	m/337
+mao bian yang	p/831
+mao cheng	a/65
+mao gui	m/867
+mao hui	m/867
+mao lao da	p/53
+mao lao dai	p/53
+mao mao jiao yang	p/832
+mao mao jue yang	p/832
+mao pi da yi	a/169
+mao pi dai yi	a/169
+mao qiu	p/48
+mao rong rong	a/218
+mao sheng	a/65
+mao tou xiao ying	p/627
+mao tou ye ying	p/164
+mao ya xie	p/950
+mao you shao	p/734
+mao you tan chang	p/735
+mao you tan zhang	p/735
+mao you xian chang	p/735
+mao you xian zhang	p/735
+mao you zhan	p/335
+mei hai ma	p/116
+mei huo zhi qing	m/574
+mei huo zhi sheng	m/574
+mei huo zhu qing	m/574
+mei huo zhu sheng	m/574
+mei li hua	p/182
+mei li miao	p/431
+mei lu mei da	p/809
+mei lu mei ta	p/809
+mei lu tan	p/808
+mei luo xie da	p/648
+mei luo xie ta	p/648
+mei luo ye da	p/648
+mei luo ye ta	p/648
+mei na shi	p/350
+mei na si	p/350
+mei ni qiu	p/778
+mei si hua	p/182
+mei tan gui	p/324
+mei tan jun	p/324
+mei tan qiu	p/324
+mei you zhi qing	m/914
+mei you zhi sheng	m/914
+mei you zhu qing	m/914
+mei you zhu sheng	m/914
+meng bu	m/679
+meng e gu	p/986
+meng ge xian ren zhang	p/332
+meng hua	m/214
+meng huan	p/151
+meng huo	a/66
+meng huo hou	p/391
+meng jiao	p/200
+meng jiao mo	p/429
+meng lei gu	p/1021
+meng meng	p/742
+meng meng li	p/518
+meng meng shi	p/518
+meng pi	m/679
+meng pu	m/679
+meng tui	m/292
+meng wu gu	p/986
+meng ya lu	p/586
+meng ya lv	p/586
+meng yan	a/123
+meng yao	p/200
+meng yao mo	p/429
+meng zhuang	m/36
+mi bu chi mu	p/856
+mi bu li mu	p/856
+mi chun gui	p/238
+mi chun jie	p/124
+mi chun ju	p/124
+mi chun wa	p/238
+mi hun quan	m/146
+mi ji da she	p/1019
+mi ji da yi	p/1019
+mi ji dai she	p/1019
+mi ji dai yi	p/1019
+mi jian qian chong chao	m/845
+mi jian qian chong tao	m/845
+mi jian qian zhong chao	m/845
+mi jian qian zhong tao	m/845
+mi le du	p/1008
+mi le dun	p/1008
+mi lei du	p/1008
+mi lei dun	p/1008
+mi li long	p/978
+mi li mang	p/978
+mi mi zhi li	m/290
+mi mi zhu li	m/290
+mi ni bing	p/582
+mi ni fu	p/928
+mi ni long	p/147
+mi ni mang	p/147
+mi ni ning	p/582
+mi ni qiu	p/778
+mi ren	m/213
+mi ren zhi qu	a/56
+mi ren zhu qu	a/56
+mi wei long	p/978
+mi wei mang	p/978
+mi yu	m/590
+mi zhen gui	p/238
+mi zhen jie	p/124
+mi zhen ju	p/124
+mi zhen wa	p/238
+mian bao zi	m/178
+mian chu	a/238
+mian hua fang shou	m/538
+mian mian pao fu	p/684
+mian xiang	m/347
+mian xu	a/238
+mian yi	a/17
+mian ying hui yang	a/303
+mian ying hui ying	a/303
+miao gui	m/867
+miao hui	m/867
+miao jue cao	p/2
+miao jue chong zi	p/1
+miao jue hua	p/3
+miao jue zao	p/2
+miao jue zhong zi	p/1
+miao lao da	p/53
+miao lao dai	p/53
+miao miao	p/52
+miao miao	p/677
+miao nao	m/253
+miao tou mu	p/863
+miao tou ye ying	p/164
+miao wa cao	p/2
+miao wa chong zi	p/1
+miao wa hua	p/3
+miao wa zao	p/2
+miao wa zhong zi	p/1
+miao you shao	p/734
+miao you zhan	p/335
+mie li yang	p/179
+mie wang zhi ge	m/195
+mie wang zhi qu	a/253
+mie wang zhu ge	m/195
+mie wang zhu qu	a/253
+mie wu zhi ge	m/195
+mie wu zhi qu	a/253
+mie wu zhu ge	m/195
+mie wu zhu qu	a/253
+min jie chong	p/617
+min jie hui	p/617
+min jie zhong	p/617
+min qie chong	p/617
+min qie hui	p/617
+min qie zhong	p/617
+ming lei feng bao	m/847
+ming lei feng pu	m/847
+ming meng	p/742
+ming xiang	m/347
+ming ya lu	p/586
+ming ya lv	p/586
+mo fa bao chong	m/900
+mo fa fan she	m/277
+mo fa fan ye	m/277
+mo fa fang shou	a/98
+mo fa fen	m/750
+mo fa huo yan	m/595
+mo fa jing	a/156
+mo fa kong jian	m/478
+mo fa pu chong	m/900
+mo fa shan yao	m/605
+mo fa she	m/345
+mo fa xie	m/345
+mo fa ye	m/345
+mo fang	m/102
+mo fang shou	a/99
+mo gu bao zi	m/147
+mo guan tian qi	a/13
+mo hai ma	p/116
+mo huan jia mian miao	p/908
+mo huan jie mian miao	p/908
+mo ji guang shu	m/795
+mo ji tai na	p/890
+mo ji tai nuo	p/890
+mo jin an ye zhi you huo	m/636
+mo jin an ye zhi you huo	m/637
+mo jin an ye zhu you huo	m/636
+mo jin an ye zhu you huo	m/637
+mo ku ye	m/567
+mo li	m/673
+mo li qu nao	m/259
+mo ling shan hu	p/864
+mo lu bei ge	p/877
+mo lu bei ke	p/877
+mo lu e	p/49
+mo lu yi	p/49
+mo lv bei ge	p/877
+mo lv bei ke	p/877
+mo lv e	p/49
+mo lv yi	p/49
+mo mo gu	p/285
+mo ni ni	p/439
+mo pang	m/102
+mo qiang ren ou	p/122
+mo sheng ye	m/567
+mo shu shi	a/170
+mo tuo xi	p/967
+mo wei xiao zi	p/236
+mo wei yin li	m/788
+mo xing quan	a/260
+mo ya cai pi yu	p/779
+mo you yin li	m/788
+mo zhao	m/468
+mo zhen yu	p/904
+mo zhu shi	a/170
+mo zhua	m/468
+mu ai yi	a/152
+mu chui	m/452
+mu fang	m/102
+mu jiao	m/532
+mu jue	m/532
+mu ke diao	p/397
+mu ke er	p/396
+mu ke ni	p/396
+mu ke niao	p/397
+mu ke ren	p/396
+mu ke ying	p/398
+mu lu bei ge	p/877
+mu lu bei ke	p/877
+mu mian qiu	p/546
+mu mu xiao	p/722
+mu nai yi	a/152
+mu pang	m/102
+mu qi tu ci	m/785
+mu qi tu qi	m/785
+mu shou gong	p/252
+mu xia li shi	p/296
+mu yang quan	p/972
+mu zai gou	p/971
+mu zhi tu ci	m/785
+mu zhi tu qi	m/785
+mu zhui	m/452
+mu zi gou	p/971
+na gua guai ren	p/711
+na gua jing	p/710
+na gua qing	p/710
+na shi cao	p/946
+na shi zao	p/946
+nai ke luo ci ma	p/800
+nai ke luo zi ma	p/800
+nai re	a/85
+nan gua guai ren	p/711
+nan gua jing	p/710
+nan gua qing	p/710
+nao he zhi li	a/233
+nao he zhu li	a/233
+nao hu zhi li	a/233
+nao hu zhu li	a/233
+nao yang	m/321
+neng liang dian	a/249
+neng liang qiu	m/412
+neng liang zhan	a/249
+neng re	a/85
+ni ba she ji	m/341
+ni ba she xi	m/341
+ni ba ye ji	m/341
+ni ba ye xi	m/341
+ni ba yu	p/618
+ni ba zha dan	m/426
+ni ba zha tan	m/426
+ni duo hou	p/31
+ni duo lan	p/29
+ni duo lang	p/32
+ni duo li nuo	p/33
+ni duo na	p/30
+ni duo nuo	p/30
+ni duo wang	p/34
+ni duo yu	p/34
+ni hong yu	p/457
+ni jiang yu	p/457
+ni lin	m/200
+ni lv zai	p/749
+ni lv zi	p/749
+ni ni qiu	p/339
+ni nie qiu	p/339
+ni ou ju ren	p/623
+ni ou qu ren	p/623
+ni ou xiao ren	p/622
+ni tai	a/250
+nian gu	a/183
+nian hua	a/183
+nian li	m/93
+nian li du ou	p/344
+nian li tu ou	p/344
+nian mei er	p/705
+nian mei long	p/706
+nian mei mang	p/706
+nian mei ni	p/705
+nian mei ren	p/705
+nian nian bao	p/704
+nian nian wang	m/564
+nian yu wang	p/340
+nian yu yu	p/340
+nian zhao	a/60
+nian zhe	a/60
+nian zhu	a/60
+nian zhuo	a/60
+niao zui jia nong bao	m/690
+niao zui jia nong pao	m/690
+nie ba she ji	m/341
+nie ba ye ji	m/341
+nie ba yu	p/618
+nie ba zha dan	m/426
+nie ba zha tan	m/426
+nie fu dan	p/242
+nie lv zai	p/749
+nie lv zi	p/749
+nie ni qiu	p/339
+nie nie qiu	p/339
+nie ou ju ren	p/623
+nie ou qu ren	p/623
+nie ou xiao ren	p/622
+nie sui	m/462
+nie yun zhou yu	m/381
+nin xian qing	m/495
+ning	t/15
+ning bao	m/258
+ning bao	p/712
+ning bian shi jie	m/549
+ning bing shuang dong	m/739
+ning chui	m/665
+ning dong fu te	m/553
+ning dong guang shu	m/58
+ning dong pi fu	a/174
+ning dong pi lu	a/174
+ning dong quan	m/8
+ning dong ya	m/423
+ning dong zhi feng	m/196
+ning dong zhi qu	a/115
+ning dong zhu feng	m/196
+ning dong zhu qu	a/115
+ning feng shi jie	m/549
+ning gui hu	p/362
+ning leng shi xian	m/821
+ning li	m/420
+ning lin fen	a/246
+ning ling shi xian	m/821
+ning luo	m/420
+ning ning shuang dong	m/739
+ning qi e	p/875
+ning qie e	p/875
+ning qiu	m/301
+ning shan feng	m/836
+ning xi	m/524
+ning xuan	m/861
+ning xue ju long	p/699
+ning xue long	p/698
+ning xue mang	p/698
+ning xue qu long	p/699
+ning yan guai	p/713
+ning yi bu	p/471
+ning zhu zhui ji	m/556
+ning zhu zhui xi	m/556
+ning zhui	m/333
+niu la	p/215
+nu huo chong tian	a/201
+nu huo zhong shao	m/822
+nu niu	m/873
+nu ying ge	p/931
+nuan nuan zhu	p/498
+nuan xuan zhu	p/498
+nuo bao	m/415
+nuo chu chong zi	a/269
+nuo chu zhong zi	a/269
+nuo pao	m/415
+nv la	p/215
+nv wang de wei yan	a/214
+nv wang di wei yan	a/214
+nv yu de wei yan	a/214
+nv yu di wei yan	a/214
+ou jiao ao	p/942
+pa ca hai dan	p/871
+pa ca hai tan	p/871
+pa cha hai dan	p/871
+pa cha hai tan	p/871
+pa de chi	p/988
+pa di chi	p/988
+pa dong hou	p/811
+pa ji	m/806
+pa ji li ci	p/417
+pa ji li zi	p/417
+pa lu ji e	p/484
+pa lu ji ya	p/484
+pa lu qi e	p/484
+pa lu qi ya	p/484
+pa luo ji ya	p/484
+pa luo qi ya	p/484
+pa piao chong	p/165
+pa piao hui	p/165
+pa piao zhong	p/165
+pa qi li ci	p/417
+pa qi li zi	p/417
+pa shou mao	p/509
+pa shou miao	p/509
+pa xi	m/806
+pai ji	m/1
+pai la	m/282
+pai la shi	p/46
+pai la shi te	p/47
+pai la si	p/46
+pai la si te	p/47
+pai luo	m/282
+pai xi	m/1
+pan bao	m/127
+pan ding	p/39
+pan du du	p/593
+pan juan	m/489
+pan pu	m/127
+pan quan	m/489
+pan shan	a/77
+pan tian ni	p/685
+pan yan	m/431
+pan zheng	p/39
+pang ding	p/39
+pang du du	p/593
+pang ge ding	p/40
+pang ge zheng	p/40
+pang huang ye ling	p/356
+pang ke ding	p/40
+pang ke yao gun	a/244
+pang ke zheng	p/40
+pang pan ha li	p/651
+pang pan he li	p/651
+pang pang ha li	p/651
+pang pang he li	p/651
+pang tian ni	p/685
+pang xiao	m/383
+pang yan guai	p/526
+pang zheng	p/39
+pao mo	m/145
+pao mo guang xian	m/61
+pao mo li shu	p/572
+pao mo lie shu	p/572
+pao wu mian chong dian	m/570
+pao xia hen hua	m/575
+pao xia yan hua	m/575
+pao ying de yong tan diao	m/664
+pao ying de yong tan tiao	m/664
+pao ying de yong yi diao	m/664
+pao ying de yong yi tiao	m/664
+pao ying di yong tan diao	m/664
+pao ying di yong tan tiao	m/664
+pen cai guai	p/438
+pen chu	m/255
+pen huo	m/284
+pen huo long	p/6
+pen huo mang	p/6
+pen huo tuo	p/323
+pen she huo yan	m/53
+pen she quan	m/857
+pen shui	m/323
+pen ti xiong	p/613
+pen yan	m/436
+pen ye huo yan	m/53
+pen ye quan	m/857
+pen yin	m/436
+pen zai guai	p/438
+peng guo long	p/841
+peng guo suan	m/787
+peng luo suan	m/787
+peng peng ji po	m/741
+peng peng xi po	m/741
+peng ping ji po	m/741
+peng ping xi po	m/741
+peng tou xiao chou	p/806
+pi bao bao	p/173
+pi fu tang lang	p/900
+pi ge xi	p/36
+pi huai ling yu	m/737
+pi ji	m/776
+pi ka pi ka bi sha ji	m/658
+pi ka pi ka bi sha xi	m/658
+pi ka pi ka bi shai ji	m/658
+pi ka pi ka bi shai xi	m/658
+pi ka pi qia bi sha ji	m/658
+pi ka qiu	p/25
+pi kai	m/163
+pi ke di ni	p/494
+pi ke ti ni	p/494
+pi ke xi	p/36
+pi li dian qiu	p/100
+pi pi	p/35
+pi pi ling yu	m/737
+pi qia pi ka bi sha ji	m/658
+pi qia pi qia bi sha ji	m/658
+pi qia qiu	p/25
+pi qian	m/163
+pi qiu	p/172
+pi wa	m/280
+pi zhan ci lian	p/625
+pi zhan ci ling	p/625
+pi zhan si lian	p/625
+pi zhan si ling	p/625
+piao fu	a/26
+piao fu pao pao	p/351
+piao piao chu	p/955
+piao piao ju	p/955
+piao piao qiu	p/425
+piao piao zhui la	m/731
+piao piao zhui luo	m/731
+piao xiang dun	p/916
+piao xiang tun	p/916
+pin guo long	p/841
+pin guo mang	p/841
+pin guo suan	m/787
+pin luo suan	m/787
+ping guo long	p/841
+ping guo mang	p/841
+ping guo suan	m/787
+ping luo suan	m/787
+ping peng ji po	m/741
+ping ping ji po	m/741
+ping tou xiao chou	p/806
+ping zhang	m/112
+ping zhang meng gong	m/828
+po dao xiong mao	p/675
+po dao xiong miao	p/675
+po ge	a/104
+po huai guang xian	m/63
+po hui guang xian	m/63
+po ke	m/504
+po kong yan	p/1020
+po leng shui	m/886
+po ling shui	m/886
+po luo	a/104
+po mie zhi guang	m/617
+po mie zhi yuan	m/353
+po mie zhu guang	m/617
+po mie zhu yuan	m/353
+po pi guang xian	m/63
+po po dai	p/568
+po po duo lun	p/781
+po qiao	m/504
+po sha	m/28
+po suo	m/28
+po wang hua	p/45
+po yin	m/786
+po yu hua	p/45
+pu dao	m/869
+pu dao jiang jun	p/983
+pu dao qiang jun	p/983
+pu diao	m/869
+pu diao jiang jun	p/983
+pu diao qiang jun	p/983
+pu fei long	p/373
+pu fei mang	p/373
+pu feng	m/542
+pu feng xue	m/59
+pu ji	m/776
+pu li long	p/130
+pu li mang	p/130
+pu long long	p/965
+pu long long mu	p/966
+pu pu zhu	p/326
+pu shi gui	p/834
+pu shi jun	p/834
+pu shi qiu	p/834
+pu xi	m/776
+pu xue wang	p/460
+pu xue yu	p/460
+pu zhan	m/869
+pu zhan jiang jun	p/983
+pu zhan qiang jun	p/983
+qi cao	m/885
+qi chang lun	m/783
+qi chang po huai	a/188
+qi chang po hui	a/188
+qi chang po pi	a/188
+qi chang zhi yi	m/840
+qi chang zhu yi	m/840
+qi er sheng	m/103
+qi feng	m/16
+qi he xue hua	p/615
+qi hei si ming	a/265
+qi hou ba	p/977
+qi hou po	p/977
+qi ji pi fu	a/147
+qi ji pi lu	a/147
+qi ji zhi wen	m/357
+qi ji zhi yan	m/357
+qi ji zhu wen	m/357
+qi ji zhu yan	m/357
+qi jia bei	p/91
+qi la di na	p/487
+qi lin ji	p/203
+qi lin qi	p/203
+qi long wang	p/230
+qi long yu	p/230
+qi lu chi an	p/281
+qi lu li an	p/281
+qi lv chi an	p/281
+qi lv li an	p/281
+qi mei zhen ce	m/316
+qi mei zheng ce	m/316
+qi miao kong jian	m/472
+qi nuo li shu	p/573
+qi nuo lie shu	p/573
+qi qi lin	p/981
+qi qiu xian ren zhang	p/331
+qi reng sheng	m/103
+qi shang lun	m/783
+qi shang po huai	a/188
+qi shang po hui	a/188
+qi shang zhi yi	m/840
+qi shang zhu yi	m/840
+qi shi hou	p/979
+qi shi luo niu	p/589
+qi shi wo niu	p/589
+qi shu gao shou	a/101
+qi si hui sheng	m/179
+qi suo yu	p/846
+qi wei zhen ce	m/316
+qi wei zheng ce	m/316
+qi xi jing diao	p/334
+qi xi jing niao	p/334
+qi xi qing diao	p/334
+qi xi qing niao	p/334
+qi xiang qiu	m/311
+qi xing dui hun tui	m/699
+qi xing duo hun tui	m/699
+qi xuan gong ji	m/177
+qi xuan gong xi	m/177
+qi xun yu	p/846
+qi ya	a/76
+qi yi zhi feng	m/466
+qi yi zhi guang	m/109
+qi yi zhu feng	m/466
+qi yi zhu guang	m/109
+qi yuan	m/273
+qi yuan chao xin xing da bao zha	m/703
+qi yuan chao xin xing da bo zha	m/703
+qi yuan chao xin xing dai bao zha	m/703
+qi yuan chao xin xing dai bo zha	m/703
+qi zao	m/885
+qi zha	a/76
+qi zha	m/492
+qi zhu gao shou	a/101
+qia bi shou	p/143
+qia di gou	p/58
+qia la ka la	p/104
+qia la qia la	p/104
+qia lei mu	p/308
+qia pi shou	p/143
+qia pu ming ming	p/785
+qia pu mou mou	p/787
+qia pu qi qi	p/788
+qian ban bian juan	a/210
+qian ban bian shen	a/210
+qian bei ji dang	m/615
+qian bei jiao dang	m/615
+qian bian mo hua	m/870
+qian bian wan hua	m/870
+qian bo ji dang	m/615
+qian bo jiao dang	m/615
+qian jian ji bo	m/614
+qian jian ji fa	m/614
+qian jian qi bo	m/614
+qian jian qi fa	m/614
+qian ling ji xi	m/566
+qian ling qi xi	m/566
+qian mian bi yi	p/818
+qian mo fu te	m/719
+qian nu	m/218
+qian sao pi fu	a/87
+qian sao pi lu	a/87
+qian shou	m/607
+qian shui	m/291
+qian wan fu te	m/719
+qian wei he	p/451
+qian wei xie	p/451
+qian yi he	p/451
+qian yi xie	p/451
+qian zao pi fu	a/87
+qian zao pi lu	a/87
+qian zhen yu	p/211
+qiang dui	m/289
+qiang duo	m/289
+qiang e ji mu chong	p/736
+qiang e ji mu hui	p/736
+qiang e ji mu zhong	p/736
+qiang e ji wu chong	p/736
+qiang e ji wu hui	p/736
+qiang e ji wu zhong	p/736
+qiang hang	a/125
+qiang li bian da	m/438
+qiang li zuan	m/887
+qiang ren gong ji	m/910
+qiang ren gong xi	m/910
+qiang suan ju dai mie jue yu	m/628
+qiang suan ju dai mie jue yu	m/629
+qiang suan ju du mie jue yu	m/628
+qiang suan ju du mie jue yu	m/629
+qiang xian yi bu	m/382
+qiang xing	a/125
+qiang zhou	m/606
+qiang zhu	m/606
+qiang zhuang zhi e	a/173
+qiang zhuang zhu e	a/173
+qiang zi yin qing	a/289
+qiao duan jiang	p/958
+qiao nong bao chong	p/738
+qiao nong bao hui	p/738
+qiao nong bao zhong	p/738
+qiao nong pao chong	p/738
+qiao nong pao hui	p/738
+qiao nong pao zhong	p/738
+qiao xiang zhi qu	a/273
+qiao xiang zhu qu	a/273
+qiao yin hou	p/810
+qie hei si ming	a/265
+qie ke luo mu	p/644
+qie la ao la	p/807
+qie la yu la	p/807
+qin mi wu jian da luan cou	m/726
+qin mi wu jian da luan zou	m/726
+qin mi wu jian dai luan cou	m/726
+qin mi wu jian dai luan zou	m/726
+qin shui	m/487
+qin zi ai	a/185
+qing cao chang de	m/580
+qing cao chang di	m/580
+qing cao gu ti	m/803
+qing cao hua ti	m/803
+qing cao jiao ban qi	m/536
+qing cao jiao pan qi	m/536
+qing cao shang de	m/580
+qing cao shang di	m/580
+qing cao zhi cao zhe	a/229
+qing cao zhi zao zhe	a/229
+qing cheng	m/265
+qing chu nong meng	m/432
+qing chu nong wu	m/432
+qing chu zhi yan	m/499
+qing chu zhi yin	m/499
+qing chu zhu yan	m/499
+qing chu zhu yin	m/499
+qing jia wang	p/289
+qing jia yu	p/289
+qing jie wang	p/289
+qing jie yu	p/289
+qing jin shu	a/135
+qing jin zhu	a/135
+qing jing dian	p/193
+qing jing ting	p/193
+qing juan xue	p/976
+qing mian diao	p/333
+qing mian niao	p/333
+qing piao piao	p/592
+qing qing dian	p/193
+qing qing ting	p/193
+qing shen bei	m/149
+qing shen bo	m/149
+qing shen chang de	m/678
+qing shen chang di	m/678
+qing shen chong ji	m/473
+qing shen chong xi	m/473
+qing shen ji po	m/540
+qing shen jian	m/875
+qing shen jiang nian	m/94
+qing shen li	a/39
+qing shen li ren	m/427
+qing shen qiang nian	m/94
+qing shen tu jin	m/354
+qing shen xi po	m/540
+qing shen xue	p/976
+qing shen zao yin	m/917
+qing shen zhi cao zhe	a/227
+qing shen zhi ya	m/706
+qing shen zhi zao zhe	a/227
+qing shen zhu ya	m/706
+qing teng she	p/496
+qing teng yi	p/496
+qing tong zhong	p/437
+qing xing	m/265
+qing yan	m/551
+qing zao chang de	m/580
+qing zao chang di	m/580
+qing zao gu ti	m/803
+qing zao hua ti	m/803
+qing zao jiao ban qi	m/536
+qing zao jiao pan qi	m/536
+qing zao zhi cao zhe	a/229
+qing zao zhi zao zhe	a/229
+qing zhou	m/606
+qing zhu	m/606
+qing zhu nong meng	m/432
+qing zhu nong wu	m/432
+qing zhu zhi yan	m/499
+qing zhu zhu yan	m/499
+qing zhuang	a/84
+qing zi ai	a/185
+qiu lei mu	p/646
+qiu qiu hai shi	p/728
+qiu yu	m/240
+qiu zhu zhu	p/917
+qu an tang lang	p/212
+qu an xie	p/99
+qu chi fei yu	p/226
+qu duan jiang	p/959
+qu jian tu ji	m/862
+qu jian tu xi	m/862
+qu jin guai	p/376
+qu li chui	m/893
+qu long wei neng	m/820
+qu long wei tai	m/820
+qu man teng	p/465
+qu qian tang lang	p/212
+qu qian xie	p/99
+qu qing	m/304
+qu ren wei shi a luo la	m/698
+qu ren wei shi e luo la	m/698
+qu sheng	m/304
+qu shou dan	m/782
+qu shou tan	m/782
+qu shou zhan	m/781
+qu tan shan	p/839
+qu wan teng	p/465
+qu ya sha	p/319
+qu zhao guai	p/260
+quan fa	a/221
+quan hai can	p/771
+quan hai cen	p/771
+quan hai shen	p/771
+quan juan xiong	p/217
+quan kai meng zhuang	m/878
+quan li mo shuang ji lie quan	m/624
+quan li mo shuang ji lie quan	m/625
+quan li mo shuang jiao lie quan	m/624
+quan li mo shuang jiao lie quan	m/625
+quan li wu shuang ji lie quan	m/624
+quan li wu shuang ji lie quan	m/625
+quan li wu shuang jiao lie quan	m/624
+quan li wu shuang jiao lie quan	m/625
+quan neng bian juan	a/278
+quan neng bian shen	a/278
+quan qian meng zhuang	m/878
+quan quan shao	p/852
+quan quan xiao	p/852
+quan quan xiong	p/217
+quan tai bian juan	a/278
+quan tai bian shen	a/278
+qun er xiao jie	p/549
+qun er xiao ju	p/549
+qun ju bian xing	a/211
+qun mo luan wu	m/844
+qun ni xiao jie	p/549
+qun ni xiao ju	p/549
+qun ren xiao jie	p/549
+qun ren xiao ju	p/549
+ran jin	m/682
+ran shao chong	p/636
+ran shao hui	p/636
+ran shao zhong	p/636
+re dai die	m/688
+re dai long	p/357
+re dai mang	p/357
+re dai ti	m/688
+re feng	m/257
+re jiao huan	a/270
+re la gui	p/951
+re la wa	p/951
+re sha da de	m/815
+re sha da di	m/815
+re sha dai de	m/815
+re sha dai di	m/815
+re sha feng bao	m/848
+re sha feng pu	m/848
+re shui	m/503
+re suo feng bao	m/848
+re suo feng pu	m/848
+ren ma yi ben	a/266
+ren ma yi ben	a/267
+ren ma yi ti	a/266
+ren ma yi ti	a/267
+ren nai	m/117
+ren neng	m/117
+ren zao xi bao kun	p/579
+ren zao xi bao luan	p/579
+ren zao xi pao kun	p/579
+ren zao xi pao luan	p/579
+ren zhen qi lai da bao ji	m/701
+ren zhen qi lai da bao xi	m/701
+ren zhen qi lai da bo ji	m/701
+ren zhen qi lai da bo xi	m/701
+ren zhen qi lai dai bao ji	m/701
+ren zhen qi lai dai bo ji	m/701
+ri guang hui xuan xia cang kong	m/724
+ri guang hui xuan xia cang qiong	m/724
+ri guang ren	m/669
+ri guang shu	m/76
+ri zhao	a/70
+rong hua	m/151
+rong huo	m/151
+rong ji shou	p/631
+rong jie shi	m/51
+rong jie ye	m/51
+rong rong yang	p/180
+rong shi shou	p/316
+rong si shou	p/316
+rong xie shi	m/51
+rong xie ye	m/51
+rong yan chong	p/218
+rong yan feng bao	m/463
+rong yan feng pu	m/463
+rong yan hui	p/218
+rong yan kai jia	a/40
+rong yan luo niu	p/219
+rong yan wo niu	p/219
+rong yan zhong	p/218
+rong yi shou	p/631
+rong yin	a/43
+rou ruan	a/7
+ru dan	p/337
+ru guang	m/236
+ru gui she	p/153
+ru gui xie	p/153
+ru gui ye	p/153
+ru hua fei jian la ling xiao	m/725
+ru hua fei jian luo ling xiao	m/725
+ru liang yi bu	p/197
+ru liang zhi li	m/585
+ru liang zhu li	m/585
+ru ru xiong	p/901
+ru shi	p/337
+ru yue xiong	p/901
+ruan ruo	a/129
+rui li mu guang	a/51
+run shui ya	p/912
+ruo ding yu	p/746
+ruo zheng yu	p/746
+sa jiao	m/204
+sa ling	m/191
+sa lu de	p/893
+sai fu hao	p/1000
+sai jiao	m/755
+sai yao	m/755
+sai yu hai shou	p/883
+sai yu long	p/882
+sai yu mang	p/882
+san chong gong ji	m/161
+san chong gong xi	m/161
+san de shu	p/51
+san di shu	p/51
+san dian xi	p/694
+san ge yi ci guai	p/82
+san hai de shu	p/961
+san hai di shu	p/961
+san he yi ci guai	p/82
+san lan die	m/167
+san lan jian	m/843
+san lan ti	m/167
+san lan zuan	m/865
+san lian die	m/167
+san lian jian	m/843
+san lian ti	m/167
+san lian zuan	m/865
+san mi feng	p/415
+san shou e long	p/635
+san shou e mang	p/635
+san shou wu long	p/635
+san shou wu mang	p/635
+san xuan ji	m/813
+san xuan xi	m/813
+san zhong gong ji	m/161
+san zhong gong xi	m/161
+sao mu	m/854
+sao wei bo da	m/541
+sao wei pai da	m/541
+sao yang	m/321
+sao yi bo da	m/541
+sao yi pai da	m/541
+sen lin xi xi	p/253
+sen lin xi yi	p/253
+sen lin zhou shu	m/571
+sen lin zhou zhu	m/571
+sen lin zu zhou	m/571
+sha bao	m/201
+sha bao she	p/843
+sha bao yi	p/843
+sha die pi	p/989
+sha he ma	p/449
+sha ji la shi	p/247
+sha ji la si	p/247
+sha jue	a/71
+sha ling xian ren zhang	p/556
+sha luo mang	p/844
+sha luo meng	p/844
+sha mo jing dian	p/330
+sha mo jing ting	p/330
+sha mo qing dian	p/330
+sha mo qing ting	p/330
+sha nai duo	p/282
+sha pao she	p/843
+sha pao yi	p/843
+sha pu	m/201
+sha qiu gui	p/769
+sha qiu wa	p/769
+sha tie pi	p/989
+sha xue	a/71
+sha yin	a/8
+sha zhi li	a/159
+sha zhu li	a/159
+shan dian diao	p/145
+shan dian jiang xi	m/916
+shan dian meng chong	m/879
+shan dian niao	p/145
+shan dian qiang xi	m/916
+shan guang	m/148
+shan lan shuai	m/480
+shan shan lei guang	m/732
+shan yan chong feng	m/394
+shan yan gao ge	m/871
+shan yan wang pai	p/815
+shan yan yu pai	p/815
+shang cai	m/856
+shao cheng	m/510
+shao gu	m/753
+shao huo gong	p/850
+shao huo zhong	p/850
+shao jin	m/510
+shao jing	m/510
+she juan	a/120
+she juan chong zhuang	m/38
+she lv su	a/34
+she ren	m/348
+she shen	a/120
+she shen chong zhuang	m/38
+she tan	m/122
+she tian	m/122
+she wen xiong	p/263
+she yi bu	p/470
+she zi fang shou	a/102
+shen ben qing liang hua	m/475
+shen ben qing liang huo	m/475
+shen bi shou hu	m/219
+shen bi zhi jian	m/548
+shen bi zhi li	m/832
+shen bi zhu jian	m/548
+shen bi zhu li	m/832
+shen diao meng ji	m/143
+shen diao meng xi	m/143
+shen hao guang shu	m/324
+shen ji	m/222
+shen ji lin pan	a/63
+shen ji lin pian	a/63
+shen ji shou hu	a/25
+shen ji zheng gai	m/790
+shen ji zheng qi	m/790
+shen ku zhi huo	m/221
+shen ku zhu huo	m/221
+shen mi shou hu	m/219
+shen mi zhi jian	m/548
+shen mi zhi li	m/832
+shen mi zhu jian	m/548
+shen mi zhu li	m/832
+shen niao meng ji	m/143
+shen niao meng xi	m/143
+shen qi lin pan	a/63
+shen qi lin pian	a/63
+shen qi shou hu	a/25
+shen qi zheng gai	m/790
+shen qi zheng qi	m/790
+shen sheng zhi huo	m/221
+shen sheng zhu huo	m/221
+shen shi diao	p/225
+shen shi e	p/414
+shen shi niao	p/225
+shen shi yi	p/414
+shen su	m/245
+shen ti qing liang hua	m/475
+shen ti qing liang huo	m/475
+shen tong li	m/326
+shen xiao guang shu	m/324
+shen yuan fan gun	m/66
+shen yuan tu ci	m/675
+shen yuan tu qi	m/675
+sheng chang	m/74
+sheng dan	m/135
+sheng feng	a/274
+sheng jian	m/533
+sheng li zhi wu	m/837
+sheng li zhi xing	a/162
+sheng li zhu wu	m/837
+sheng li zhu xing	a/162
+sheng ming shui di	m/791
+sheng zhang	m/74
+shi cao	a/157
+shi du	a/297
+shi fu you	p/620
+shi guang pao xiao	m/459
+shi guang pao xue	m/459
+shi ji xie	p/557
+shi jie xiao diao	p/566
+shi jie xiao niao	p/566
+shi ju xie	p/557
+shi juan	a/120
+shi juan chong zhuang	m/38
+shi la bi	p/251
+shi la ke luo shi	p/214
+shi la ke luo si	p/214
+shi la pi	p/251
+shi meng	m/138
+shi meng meng	p/517
+shi mo cha	p/1012
+shi mo fu te	m/85
+shi mo ma li	m/667
+shi po	m/193
+shi qi	a/6
+shi run zhi qing	a/204
+shi run zhi qu	a/93
+shi run zhi sheng	a/204
+shi run zhu qing	a/204
+shi run zhu qu	a/93
+shi run zhu sheng	a/204
+shi sha bao ye	p/770
+shi sha bu ye	p/770
+shi shen	a/120
+shi shen chong zhuang	m/38
+shi suo bao ye	p/770
+shi suo bu ye	p/770
+shi tu	a/297
+shi wan fu te	m/85
+shi wan ma li	m/667
+shi wan zi	p/524
+shi xi	a/6
+shi ying li	a/91
+shi yuan zhi hai	a/189
+shi yuan zhu hai	a/189
+shi zao	a/157
+shi zi dai ren	m/440
+shi zi du ren	m/440
+shi zi jian	m/404
+shi zi pi	m/238
+shi zu da diao	p/567
+shi zu da niao	p/567
+shi zu dai diao	p/567
+shi zu dai niao	p/567
+shi zu xiao diao	p/566
+shi zu xiao niao	p/566
+shou cheng	a/247
+shou hu	a/139
+shou huo	a/139
+shou lie feng die	p/267
+shou lie feng tie	p/267
+shou re ji sheng	a/138
+shou re jiao sheng	a/138
+shou xi feng die	p/267
+shou xi feng tie	p/267
+shou xia liu qing	m/610
+shou zhu	m/182
+shu cai guai	p/185
+shu chen wei xiong	p/775
+shu chen yi xiong	p/775
+shu cheng	a/247
+shu dian	m/582
+shu lin gui	p/388
+shu lin jun	p/388
+shu lin qiu	p/388
+shu man lu yu	p/550
+shu she	m/670
+shu shu er	m/860
+shu shu ni	m/860
+shu shu ren	m/860
+shu shuo er	m/860
+shu shuo ni	m/860
+shu shuo ren	m/860
+shu xie	m/670
+shu xing kong	p/772
+shu ye	m/670
+shu zai guai	p/185
+shu zhen wei xiong	p/775
+shu zhen yi xiong	p/775
+shua shua cha bao	m/902
+shua shua cha pao	m/902
+shuai bu diao de qi mei	a/268
+shuai bu diao de qi wei	a/268
+shuai bu diao de xi mei	a/268
+shuai bu diao de xi wei	a/268
+shuai bu diao di qi mei	a/268
+shuai bu diao di qi wei	a/268
+shuai da	m/21
+shuai jiao ying ren	p/701
+shuai jue ying ren	p/701
+shuai rou	m/868
+shuai ru	m/868
+shuang bei duo duo bing	p/584
+shuang bei duo duo ning	p/584
+shuang bei feng hai	m/68
+shuang bei feng huan	m/68
+shuang dan wa shi	p/110
+shuang dan wa si	p/110
+shuang fu zhan long	p/612
+shuang fu zhan mang	p/612
+shuang guang shu	m/888
+shuang jian qiao	p/680
+shuang jian shao	p/680
+shuang kun xi bao qiu	p/578
+shuang kun xi pao qiu	p/578
+shuang luan xi bao qiu	p/578
+shuang luan xi pao qiu	p/578
+shuang nai xian	p/869
+shuang pei duo duo bing	p/584
+shuang pei duo duo ning	p/584
+shuang pei feng hai	m/68
+shuang pei feng huan	m/68
+shuang ren tou chui	m/457
+shuang ren wan	p/502
+shuang shou bao long	p/634
+shuang shou bao mang	p/634
+shuang shou pu long	p/634
+shuang shou pu mang	p/634
+shuang tan wa shi	p/110
+shuang tan wa si	p/110
+shuang wei guai shou	p/424
+shuang yi	m/814
+shuang yi guai shou	p/424
+shuang zhen	m/41
+shui	t/11
+shui bao	m/56
+shui bei dao	m/895
+shui bei diao	m/895
+shui bo dao	m/895
+shui bo diao	m/895
+shui cheng	m/55
+shui jian gui	p/9
+shui jian jun	p/9
+shui jian qiu	p/9
+shui jiao	m/156
+shui jing deng huo ling	p/609
+shui jing ding huo ling	p/609
+shui jue	m/156
+shui jun	p/245
+shui liu fen she	m/453
+shui liu fen ye	m/453
+shui liu huan	m/392
+shui liu lan da	m/818
+shui liu lian da	m/818
+shui liu lie po	m/710
+shui liu pen she	m/453
+shui liu pen ye	m/453
+shui liu wei	m/401
+shui liu yi	m/401
+shui man	a/41
+shui mu	a/41
+shui pao	a/199
+shui pao	m/56
+shui qiang	m/55
+shui shui gu	p/755
+shui shui ta	p/501
+shui ti yu	p/258
+shui yi bu	p/134
+shui yue yu	p/258
+shui zheng qi	m/876
+shui zheng xi	m/876
+shui zhi bei dong	m/352
+shui zhi bo dong	m/352
+shui zhi shi yao	m/518
+shui zhi shi yue	m/518
+shui zhu bei dong	m/352
+shui zhu bo dong	m/352
+shui zhu shi yao	m/518
+shui zhu shi yue	m/518
+shun feng	m/366
+shun jia chong	p/268
+shun jia jian	p/268
+shun jia long	p/410
+shun jia mang	p/410
+shun jian chi dong	m/100
+shun jian shi yi	m/133
+shun jian yi dong	m/100
+shun jian yi yi	m/133
+shun shou qian yang	a/124
+si cao	a/157
+si chan lan da	m/611
+si du	a/297
+si e zhen long	p/804
+si e zhen mang	p/804
+si ji lu	p/585
+si ji lv	p/585
+si lie zhao	m/306
+si lie zhua	m/306
+si meng	m/138
+si meng meng	p/517
+si mo cha	p/1012
+si ou lu pu	p/826
+si ou luo pu	p/826
+si shen ban	p/867
+si shen guan	p/563
+si tu	a/297
+si wang zhi yi	m/613
+si wang zhu yi	m/613
+si wu zhi yi	m/613
+si wu zhu yi	m/613
+si ya hai ya	m/371
+si ya huan ya	m/371
+si zao	a/157
+su du hu huan	m/683
+su duo hu huan	m/683
+su ji	a/259
+su ru ke zhong	m/110
+su ru qiao zhong	m/110
+su xi	a/259
+su yan	a/276
+su yun xiao jiang	p/532
+suan shi zha dan	m/491
+suan shi zha tan	m/491
+suan ye zha dan	m/491
+suan ye zha tan	m/491
+sui feng qiu	p/426
+sui ji guang	m/907
+sui lie kai jia	a/133
+sui wei guang	m/907
+sui xing quan	m/309
+sui yan	m/249
+suo bao	m/201
+suo cai ling	p/999
+suo die pi	p/989
+suo ding	m/199
+suo er jia lei ou	p/791
+suo er xie lei ou	p/791
+suo he ma	p/449
+suo ji la shi	p/247
+suo ji la si	p/247
+suo jue	a/71
+suo ling xian ren zhang	p/556
+suo luo e	p/570
+suo luo e ke	p/571
+suo luo mang	p/844
+suo luo meng	p/844
+suo luo ya	p/570
+suo luo ya ke	p/571
+suo mi jia lei ou	p/791
+suo mi xie lei ou	p/791
+suo nai duo	p/282
+suo pu	m/201
+suo qiu gui	p/769
+suo qiu wa	p/769
+suo ru ke zhong	m/110
+suo ru qiao zhong	m/110
+suo tie pi	p/989
+suo xue	a/71
+suo yin	a/8
+suo zhen chong	p/824
+suo zhen hui	p/824
+suo zhen zhong	p/824
+suo zheng chong	p/824
+suo zheng zhong	p/824
+suo zhi li	a/159
+suo zhu li	a/159
+ta bing ren ou	p/866
+ta gu kui jia	p/348
+ta jing bao fa	m/851
+ta jing bian xing	a/304
+ta jing bo fa	m/851
+ta jing jia ke	a/305
+ta jing jia qiao	a/305
+ta ke lai yi	p/491
+ta ku kui jia	p/348
+ta ma fei fei	p/555
+ta mo fei fei	p/555
+ta ning ren ou	p/866
+ta qi	a/6
+ta run zhi qu	a/93
+ta run zhi sheng	a/204
+ta run zhu qu	a/93
+ta run zhu sheng	a/204
+ta xi	a/6
+ta yang shan hu	p/222
+ta yang yan	p/338
+ta yang yi bu	p/196
+ta yang zhi li	a/94
+ta yang zhu li	a/94
+tai gu hu chong	p/347
+tai gu hu hui	p/347
+tai gu hu zhong	p/347
+tai gu kui jia	p/348
+tai gu yu chong	p/347
+tai gu yu hui	p/347
+tai gu yu zhong	p/347
+tai jing bao bo	m/851
+tai jing bao fa	m/851
+tai jing bian xing	a/304
+tai jing bo bo	m/851
+tai jing bo fa	m/851
+tai jing jia ke	a/305
+tai jing jia qiao	a/305
+tai ku kui jia	p/348
+tai le ba ge shi	p/1024
+tai le ba ge si	p/1024
+tai liang dian	a/249
+tai liang qiu	m/412
+tai liang zhan	a/249
+tai shan ya ding	m/34
+tai yang shan hu	p/222
+tai yang yan	p/338
+tai yang yi bu	p/196
+tai yang zhi li	a/94
+tai yang zhu li	a/94
+tai yue ba ge shi	p/1024
+tai yue ba ge si	p/1024
+tan chi gui	a/82
+tan di	p/244
+tan diao	m/340
+tan ke chou you	p/435
+tan ke xiu you	p/435
+tan liang	a/113
+tan qi gui	a/82
+tan qie	a/155
+tan re miao	p/726
+tan tan shu	p/504
+tan tiao	m/340
+tan wu wang	p/500
+tan wu yu	p/500
+tan xian shu	p/504
+tan xiao chong	p/767
+tan xiao hui	p/767
+tan xiao shi	p/935
+tan xin li shu	p/819
+tan xin lie shu	p/819
+tang jiang zha dan	m/903
+tang jiang zha tan	m/903
+tao bo	a/50
+tao dai lang	p/1025
+tao e lang	p/1025
+tao jin chao	m/874
+tao pao	a/50
+tao tao chong lang	m/730
+tao xin	m/269
+te xing hu huan	m/285
+teng bian	m/22
+teng cu xiao jiang	p/814
+teng cu xiao qiang	p/814
+teng teng she	p/495
+teng teng yi	p/495
+teng zu xiao jiang	p/814
+teng zu xiao qiang	p/814
+ti bu chi mu	p/857
+ti bu li mu	p/857
+ti dao	m/67
+ti juan	m/164
+ti ke lai yi	p/491
+ti ma fei fei	p/555
+ti mo fei fei	p/555
+ti qi	m/150
+ti shen	m/164
+ti ti yu tao	a/193
+ti yue yu tao	a/193
+tian cheng ou	p/343
+tian en	a/32
+tian he	p/207
+tian he wang	p/472
+tian he yu	p/472
+tian leng mei hou	p/763
+tian ling mei hou	p/763
+tian man	a/175
+tian mu	a/175
+tian ping ou	p/343
+tian ran diao	p/178
+tian ran niao	p/178
+tian ran qiao	p/177
+tian ran que	p/177
+tian shi shou	p/317
+tian shi zhi wen	m/186
+tian shi zhu wen	m/186
+tian si shou	p/317
+tian tian xiang qi	m/230
+tian tian xiang xi	m/230
+tian tian ying	p/314
+tian wu ni	p/762
+tian xia	m/256
+tian xie	p/207
+tian xie wang	p/472
+tian xie yu	p/472
+tian zhao chong	p/825
+tian zhao hui	p/825
+tian zhao zhong	p/825
+tian zhu zhu	p/761
+tiao dai lang	p/1025
+tiao diao zhu	p/325
+tiao e lang	p/1025
+tiao huai xing	p/748
+tiao hui xing	p/748
+tiao ji fa she qi	a/178
+tiao ji fa ye qi	a/178
+tiao ji jiao ji	m/224
+tiao ji jue ji	m/224
+tiao ji ri guang	a/310
+tiao ji xi qu	m/72
+tiao jia jue xi	p/464
+tiao jia kuang xi	p/464
+tiao jue luo xuan lian ji	m/638
+tiao jue luo xuan lian ji	m/639
+tiao meng	p/150
+tiao neng li	t/14
+tiao neng miao miao	p/678
+tiao neng yan tuo	p/956
+tiao nie yun	a/105
+tiao pi xing	p/748
+tiao tai li	t/14
+tiao tai miao miao	p/678
+tiao tai yan tuo	p/956
+tiao tiao zhu	p/325
+tiao xin	m/269
+tiao xing yun	a/105
+tiao yin bei	m/48
+tiao yin bo	m/48
+tiao yin fu	p/41
+tie ao long ha	p/342
+tie ao long xia	p/342
+tie ao mang ha	p/342
+tie ao mang xia	p/342
+tie ban she	p/1010
+tie ban xie	p/1010
+tie ban ye	p/1010
+tie bao fu	p/991
+tie bao yu	p/223
+tie bei bang	p/992
+tie bei pang	p/992
+tie bei qiang ha	p/692
+tie bei qiang xia	p/692
+tie bi	m/334
+tie bi bang	p/992
+tie bi cheng ha	p/692
+tie bi cheng xia	p/692
+tie bi pang	p/992
+tie bi qiang ha	p/692
+tie bi qiang xia	p/692
+tie bo geng	p/993
+tie bo jing	p/993
+tie ci	a/160
+tie dai e	p/994
+tie dai yi	p/994
+tie di guang xian	m/796
+tie du e	p/994
+tie du yi	p/994
+tie e ling	p/374
+tie gu du ren	p/533
+tie gu tu ren	p/533
+tie gun lun	m/798
+tie huo hui ye	p/797
+tie ji	p/632
+tie jia yong	p/11
+tie jie meng meng	p/743
+tie jie ming meng	p/743
+tie jing ji	p/995
+tie ke yong	p/14
+tie mian ren zhe	p/291
+tie pan yan	p/1022
+tie pao fu	p/991
+tie pao yu	p/223
+tie qi	a/160
+tie qiao yong	p/14
+tie quan	a/89
+tie ti guang xian	m/796
+tie tou	m/442
+tie tou ke	p/1023
+tie tou qiao	p/1023
+tie wei	m/231
+tie wu	m/483
+tie wu zhe	p/1006
+tie ya ling	p/374
+tie yi	m/231
+tie yi	p/632
+tie zhang li shi	p/297
+tie zhe ji	p/990
+ting zhu	m/203
+tong bu	a/28
+tong bu an rao	m/485
+tong bu an you	m/485
+tong bu gan rao	m/485
+tong bu gan you	m/485
+tong jing guai	p/436
+tong ming	m/194
+tong ou xiong	p/759
+tong tai gong yan	a/294
+tong tai hong yan	a/294
+tong xiang	p/878
+tong yi gong yan	a/294
+tong yi hong yan	a/294
+tou chui	m/29
+tou er hu	p/827
+tou gai long	p/408
+tou gai mang	p/408
+tou ge long	p/408
+tou ge mang	p/408
+tou hu xiao	p/723
+tou jin gun gun	p/560
+tou jin gun hun	p/560
+tou jin hun gun	p/560
+tou jin hun hun	p/560
+tou lai	m/303
+tou lan	m/303
+tou ni hu	p/827
+tou qiu	m/140
+tou shuai gui	p/538
+tou yu xiao	p/723
+tou zhi	m/374
+tou zhi hou	p/766
+tu biao ke	p/945
+tu biao qia	p/945
+tu de yun	p/645
+tu di yun	p/645
+tu fei meng bu	m/838
+tu fei meng pi	m/838
+tu fei meng pu	m/838
+tu hang quan	p/261
+tu ji ren shi	p/290
+tu ju ren shi	p/290
+tu lang quan	p/261
+tu long di di	p/206
+tu long di ti	p/206
+tu long jie jie	p/982
+tu long ti di	p/206
+tu long ti ti	p/206
+tu mang jie jie	p/982
+tu sha	a/245
+tu si	m/81
+tu suo	a/245
+tu tai gui	p/389
+tu tai jun	p/389
+tu tai qiu	p/389
+tu tu quan	p/235
+tu wang	p/980
+tu xi	m/389
+tu yi gui	p/389
+tu yi jun	p/389
+tu yi qiu	p/389
+tu ying na	p/630
+tu ying nuo	p/630
+tu ying ya tou	p/629
+tu yu	p/980
+tuan zhu zhu	p/917
+tui ke ren zhe	p/292
+tui pi	a/61
+tui qiao ren zhe	p/292
+tun shi shou	p/317
+tun si shou	p/317
+tun xia	m/256
+tuo chi yin	p/968
+tuo ge de ma er	p/777
+tuo ge de ma mi	p/777
+tuo ke ren zhe	p/292
+tuo luo qiu	m/360
+tuo qiao ren zhe	p/292
+tuo tuo yin	p/968
+wa dong	m/91
+wa shi dan	p/109
+wa shi tan	p/109
+wa si dan	p/109
+wa si tan	p/109
+wa tong	m/91
+wan chuan zuan	a/308
+wan ku ye	m/567
+wan li	p/66
+wan ni ba	m/300
+wan nie ba	m/300
+wan pi lei dan	p/101
+wan pi lei tan	p/101
+wan pi xiong mao	p/674
+wan pi xiong miao	p/674
+wan sheng ye	m/567
+wan shui	m/346
+wan teng guai	p/114
+wan wei yin li	m/788
+wan you yin li	m/788
+wan yuan zuan	a/308
+wan zhen yu	p/904
+wang pai	m/376
+wang zhe dun pai	m/588
+wang zhe shun pai	m/588
+wei gong	m/251
+wei he	a/22
+wei jia	a/296
+wei jian hui bi	a/194
+wei jian yu zhi	a/107
+wei li	p/161
+wei shi	m/380
+wei tang cao	p/753
+wei tang zao	p/753
+wei wei	p/161
+wei xia	a/22
+wei xian hui bi	a/194
+wei xian yu zhi	a/107
+wei ye	m/380
+wei zhi tu teng	p/201
+wen li	m/160
+wen xiang jue huang	p/186
+wen xiang jue wang	p/186
+wen xiang jun	p/61
+wen xiang ke dou	p/60
+wen xiang wa huang	p/186
+wen xiang wa wang	p/186
+wen xiang yong shi	p/62
+wen yi	a/17
+weng fu	p/714
+wo hang wo su	a/20
+wo lun huo yan	a/163
+wo xing wo su	a/20
+wu	t/17
+wu bei	p/194
+wu bo	p/194
+wu chou	a/1
+wu dao xiong shi	p/892
+wu fang shou	a/99
+wu gong wang	p/545
+wu gong yu	p/545
+wu guan tian qi	a/13
+wu guan tian xi	a/13
+wu ji guang shu	m/795
+wu ji tai na	p/890
+wu ji tai nuo	p/890
+wu jin an ye zhi you huo	m/636
+wu jin an ye zhi you huo	m/637
+wu jin an ye zhu you huo	m/636
+wu jin an ye zhu you huo	m/637
+wu ke hai chan	p/422
+wu ke hai tu	p/422
+wu li qu nao	m/259
+wu meng	m/171
+wu mo zhi wen	m/142
+wu mo zhu wen	m/142
+wu ni bei	m/482
+wu ni bo	m/482
+wu ni gong ji	m/124
+wu ni gong xi	m/124
+wu ni jiang	a/64
+wu ni zha dan	m/188
+wu ni zha tan	m/188
+wu nie bei	m/482
+wu nie bo	m/482
+wu nie gong ji	m/124
+wu nie gong xi	m/124
+wu nie jiang	a/64
+wu nie zha dan	m/188
+wu nie zha tan	m/188
+wu qiao hai chan	p/422
+wu qiao hai tu	p/422
+wu tian e	p/581
+wu wan tian qi	a/13
+wu wan tian xi	a/13
+wu wei xiao zi	p/236
+wu xing quan	a/260
+wu xiu	a/1
+wu ya tou tou	p/430
+wu yi dui ji	m/372
+wu yi zhui ji	m/372
+wu zei wang	p/687
+wu zei yu	p/687
+wu zhe	a/216
+wu zhong wang	p/545
+wu zhong yu	p/545
+wu zuo ju zhi xin	a/158
+wu zuo ju zhu xin	a/158
+xi ban yu	p/367
+xi chang lun	m/783
+xi duo la en	p/485
+xi duo lan en	p/485
+xi fa	m/271
+xi fa fang shou	m/578
+xi fa kong jian	m/433
+xi jiao	m/755
+xi la	m/479
+xi lie zhao	m/306
+xi lie zhua	m/306
+xi luo	m/479
+xi nao	m/583
+xi pan	a/21
+xi qu	m/71
+xi qu li liang	m/668
+xi qu quan	m/409
+xi qu zhi wen	m/577
+xi qu zhu wen	m/577
+xi shang lun	m/783
+xi shi hai ren	p/730
+xi xi wang	p/254
+xi xi yu	p/254
+xi xiang qiu	m/311
+xi xie	m/141
+xi xuan	a/21
+xi xuan gong ji	m/177
+xi xuan gong xi	m/177
+xi xue	m/141
+xi xue	m/181
+xi ya	a/76
+xi yao	m/755
+xi yi wang	p/254
+xi yi yu	p/254
+xi yu hai shou	p/883
+xi yu long	p/882
+xi yu mang	p/882
+xi zha	a/76
+xi zhang ji xi	m/252
+xi zhang qi xi	m/252
+xia dai	a/88
+xia dan diao	p/962
+xia dan niao	p/962
+xia pan die	m/490
+xia pan ti	m/490
+xia shi diao	p/962
+xia shi niao	p/962
+xia xuan die	m/490
+xia xuan ti	m/490
+xia ya die	m/853
+xia ya ti	m/853
+xia zai	a/88
+xian hang chi liao	a/205
+xian hang zhi liao	a/205
+xian hua fang shou	m/579
+xian jing	m/852
+xian jing jia ke	m/704
+xian jing jia qiao	m/704
+xian ta ta mi	m/561
+xian tan shu	p/504
+xian xian shu	p/504
+xian xing chi liao	a/205
+xian xing chi shuo	a/205
+xian xing zhi liao	a/205
+xian xing zhi shuo	a/205
+xian yan zhi qu	a/219
+xian yan zhu qu	a/219
+xian zi yi bu	p/700
+xiang ri chong zi	p/191
+xiang ri hua guai	p/192
+xiang ri zhong zi	p/191
+xiang shi guo	p/273
+xiang shi luo	p/273
+xiang wei miao	p/300
+xiang xue	a/117
+xiang ya zhu	p/473
+xiang yi miao	p/300
+xiang yu	a/2
+xiang zheng diao	p/561
+xiang zheng niao	p/561
+xiang zhi diao	p/561
+xiang zhi guo	p/273
+xiang zhi luo	p/273
+xiang zhi niao	p/561
+xiao ci guai	p/81
+xiao du er	p/731
+xiao du ni	p/731
+xiao du ren	p/731
+xiao duan jiang	p/957
+xiao fu dan	p/440
+xiao gu	m/753
+xiao guo ran	p/360
+xiao hai shi	p/86
+xiao hua tian gou	p/275
+xiao hui guai	p/605
+xiao huo long	p/4
+xiao huo ma	p/77
+xiao huo mang	p/4
+xiao huo yan hou	p/390
+xiao jian qiao	p/661
+xiao jian que	p/661
+xiao jin	m/378
+xiao ju e	p/158
+xiao ka bi shou	p/446
+xiao ka pi shou	p/446
+xiao la da	p/19
+xiao la ta	p/19
+xiao la ti	p/19
+xiao lian	m/689
+xiao ling	m/689
+xiao luo ran	p/360
+xiao mao guai	p/403
+xiao miao guai	p/403
+xiao mu ling	p/708
+xiao qia bi shou	p/446
+xiao qia pi shou	p/446
+xiao qiu fei yu	p/458
+xiao quan dan	p/74
+xiao quan shi	p/74
+xiao shan zhu	p/220
+xiao shi shi	p/667
+xiao sui zuan	p/703
+xiao tan zai	p/837
+xiao tan zi	p/837
+xiao tou	m/168
+xiao xian nai	p/868
+xiao xiao hu	p/827
+xiao xiao xiang	p/231
+xiao yao ke	p/506
+xiao yuan xing	p/774
+xiao yue ke	p/506
+xiao yun xing	p/774
+xiao zhang	m/681
+xiao zui luo	p/616
+xiao zui wo	p/616
+xie an chui	m/152
+xie bang	m/226
+xie dai suo lian	m/919
+xie du suo lian	m/919
+xie fen	m/808
+xie lu su	a/34
+xie lv su	a/34
+xie mi	p/492
+xie qian chui	m/152
+xie qiu shou	a/222
+xie ren	m/348
+xie ru	m/901
+xie sheng	m/166
+xie yi bu	p/470
+xie yue	m/901
+xie zhu	m/11
+xie zi fang shou	a/102
+xin bian fu	p/528
+xin dai	a/301
+xin hao guang shu	m/324
+xin lin bao	p/782
+xin ling gan ying	a/140
+xin ling han ying	a/140
+xin ling hu huan	m/391
+xin pian fu	p/528
+xin qing bu ding	a/141
+xin qing fou ding	a/141
+xin ru gui dao	m/849
+xin ru qi dao	m/849
+xin ru wu	m/461
+xin she miao	p/906
+xin shi diao	p/225
+xin shi niao	p/225
+xin wen	a/299
+xin xiao guang shu	m/324
+xin xie miao	p/906
+xin yan	a/299
+xin ye miao	p/906
+xin yue gui dao	m/849
+xin yue qi dao	m/849
+xin yue wu	m/461
+xin zhi wen	m/170
+xin zhi yan	m/170
+xin zhu wen	m/170
+xin zhu yan	m/170
+xing fu dan	p/242
+xing li zhi wu	m/837
+xing li zhi xing	a/162
+xing li zhu wu	m/837
+xing li zhu xing	a/162
+xing sui	m/825
+xing yun zhou yu	m/381
+xiong bao bao	p/216
+xiong tu di	p/891
+xiong tu ti	p/891
+xiong wei ya	p/984
+xiong xiong huo bao	m/735
+xiong xiong huo bo	m/735
+xiu chang zhi jiao	m/684
+xiu chou hua	p/44
+xiu jian lao jiang	p/534
+xiu mu jiao	p/709
+xiu mu yao	p/709
+xiu ni	p/88
+xiu nie	p/88
+xiu xiu hua	p/44
+xiu you pu	p/434
+xiu zhang zhi jiao	m/684
+xiu zhang zhi jue	m/684
+xiu zhang zhu jiao	m/684
+xiu zhang zhu jue	m/684
+xu dian	a/10
+xu dian chi	a/217
+xu dian tuo	a/217
+xu li	m/254
+xu neng yan xi	m/488
+xu tai yan xi	m/488
+xu wu yi de	p/793
+xu yu yi de	p/793
+xu zhang qing shi	m/207
+xu zhang sheng shi	m/207
+xuan feng dao	m/13
+xuan feng diao	m/13
+xuan juan	m/489
+xuan lan bin fen hua nu fang	m/644
+xuan lan bin fen hua nu fang	m/645
+xuan nuan zhu	p/498
+xuan quan	m/489
+xuan xuan zhu	p/498
+xue bao ma	p/896
+xue beng	m/419
+xue jiao nv	p/478
+xue jiao ru	p/478
+xue jing	m/883
+xue li guai	p/459
+xue mao	m/824
+xue pu ma	p/896
+xue rong e	p/873
+xue rong yi	p/873
+xue ru	m/901
+xue tian chong	p/872
+xue tian hui	p/872
+xue tian zhong	p/872
+xue tong zi	p/361
+xue tun chong	p/872
+xue tun hui	p/872
+xue tun zhong	p/872
+xue yao nv	p/478
+xue yao ru	p/478
+xue yin	a/81
+xue ying	m/883
+xue yue	m/901
+xue zhong zi	p/361
+xun lan bin fen hua nu fang	m/644
+xun lan bin fen hua nu fang	m/645
+xun lei	m/909
+xun zi li ren	m/911
+ya bao bao	p/580
+ya bei	p/194
+ya bo	p/194
+ya dai suo lian	m/919
+ya du suo lian	m/919
+ya ke nuo mu	p/482
+ya kong lie zhan	m/460
+ya pai gan	a/46
+ya pai han	a/46
+ya po gan	a/46
+ya po han	a/46
+ya ya	p/610
+ya ya tou tou	p/430
+ya zei wang	p/687
+ya zei yu	p/687
+ya zui bao bao	p/240
+ya zui huo shou	p/126
+ya zui tan shou	p/467
+ya zui yan shou	p/467
+yan a	m/864
+yan ang	m/864
+yan beng	m/157
+yan chan er	p/813
+yan chan ni	p/813
+yan chan ren	p/813
+yan dan	t/6
+yan dan bao	m/439
+yan dan bao	p/932
+yan dan bao ji	m/350
+yan dan bian suo	m/317
+yan dan bo ji	m/350
+yan dan da mo	m/397
+yan dan feng suo	m/317
+yan dan ju ling	p/934
+yan dan lei	p/933
+yan dan lv	p/933
+yan dan pao	m/439
+yan dan qu ling	p/934
+yan di	p/244
+yan dian ji xie	p/558
+yan dian ju xie	p/558
+yan fan	m/332
+yan fu	m/830
+yan gou gou	p/744
+yan hou	m/511
+yan hou xi	p/758
+yan la jiao	p/952
+yan man	m/108
+yan mu	m/108
+yan re miao	p/726
+yan shi	t/6
+yan shi bao	m/439
+yan shi bao	p/932
+yan shi bao ji	m/350
+yan shi bao xi	m/350
+yan shi bian suo	m/317
+yan shi bo ji	m/350
+yan shi bo xi	m/350
+yan shi da mo	m/397
+yan shi feng suo	m/317
+yan shi ju ling	p/934
+yan shi lei	p/933
+yan shi lv	p/933
+yan shi pao	m/439
+yan shi qu ling	p/934
+yan shui	m/362
+yan tu er	p/813
+yan tu ni	p/813
+yan tu ren	p/813
+yan wu wang	p/500
+yan wu yu	p/500
+yan yan	m/864
+yan yu fang shou	m/469
+yan yu po huai	m/784
+yan yu po pi	m/784
+yan yu zhan li	m/797
+yang chun feng bao	m/831
+yang chun feng pu	m/831
+yang gong	m/364
+yang sha	a/45
+yang suo	a/45
+yao huang wu	m/298
+yao huo gong hu	p/655
+yao huo hong hu	p/655
+yao ji la shi	p/246
+yao ji la si	p/246
+yao jiao gui	p/833
+yao jiao jun	p/833
+yao jiao qiu	p/833
+yao jing	t/18
+yao jing pi fu	a/182
+yao jing pi lu	a/182
+yao jing qi chang	a/187
+yao jing qi shang	a/187
+yao jing xi chang	a/187
+yao jing xi shang	a/187
+yao jing zhi feng	m/584
+yao jing zhi suo	m/587
+yao jing zhu feng	m/584
+yao jing zhu suo	m/587
+yao juan er	p/707
+yao juan ni	p/707
+yao juan ren	p/707
+yao ke xi	p/480
+yao lan bai ge	p/346
+yao lan bai he	p/346
+yao lan bo ge	p/346
+yao lan bo he	p/346
+yao mian mian	p/829
+yao qing	t/18
+yao qing pi fu	a/182
+yao qing pi lu	a/182
+yao qing qi chang	a/187
+yao qing zhi feng	m/584
+yao qing zhi suo	m/587
+yao qing zhu feng	m/584
+yao qing zhu suo	m/587
+yao quan er	p/707
+yao quan ni	p/707
+yao quan ren	p/707
+yao sui	m/242
+yao wei ba	m/39
+yao yao gui	p/833
+yao yao jun	p/833
+yao yao qiu	p/833
+yao yi ba	m/39
+yao zhu	m/44
+ye dan shu	p/103
+ye dao huo xi	p/757
+ye lu su	a/34
+ye lv bao shen	m/835
+ye lv bao zhen	m/835
+ye lv bo shen	m/835
+ye lv bo zhen	m/835
+ye lv su	a/34
+ye man lu yu	p/550
+ye niu nai	m/208
+ye ren	m/348
+ye xun ling	p/355
+ye yan ling	p/355
+ye yi bu	p/470
+ye zi fang shou	a/102
+yi ban	t/1
+yi ban pi fu	a/96
+yi ban pi lu	a/96
+yi bu	p/133
+yi ci yuan dong	m/593
+yi ci yuan meng gong	m/621
+yi ci yuan tong	m/593
+yi dui shu	p/924
+yi fei er da er	p/717
+yi fei er ta er	p/717
+yi fen	m/808
+yi hua jie mu	m/492
+yi hua xie mu	m/492
+yi jia	a/296
+yi jia shu	p/925
+yi jie shu	p/925
+yi kou dao dan	a/241
+yi kou dao tan	a/241
+yi kou fei dan	a/241
+yi kou fei tan	a/241
+yi li	a/62
+yi li	p/161
+yi lu lei duo	p/475
+yi luo lei duo	p/475
+yi mu li duo	p/481
+yi nian chi wu	m/477
+yi nian tou chui	m/428
+yi nian yi wu	m/477
+yi ou lu pu	p/826
+yi ou luo pu	p/826
+yi pan	t/1
+yi pan pi fu	a/96
+yi pan pi lu	a/96
+yi pei er da er	p/717
+yi pei er da mi	p/717
+yi pei er ta er	p/717
+yi pei er ta mi	p/717
+yi shi ban	p/867
+yi shi guan	p/563
+yi shou di sheng	a/224
+yi shou ti sheng	a/224
+yi wei	p/161
+yi wen xiong	p/263
+yi xing yi yi	a/255
+yi ya hai ya	m/371
+yi ya huan ya	m/371
+yi yi ban	p/867
+yi yi guan	p/563
+yi zi yuan dong	m/593
+yi zi yuan meng gong	m/621
+yi zi yuan tong	m/593
+yin ban zhan shou	p/773
+yin bao	a/106
+yin bao	m/49
+yin bei long	p/715
+yin bei mang	p/715
+yin bo	a/106
+yin bo	m/49
+yin bo long	p/715
+yin bo mang	p/715
+yin huo	a/18
+yin man	m/108
+yin meng mo ren	p/97
+yin mu	m/108
+yin pan zhan shou	p/773
+yin qing bu ding	a/59
+yin qing fou ding	a/59
+yin se xuan feng	m/318
+yin shai xuan feng	m/318
+yin shui	a/114
+yin su quan	m/183
+yin xiang shuai	p/402
+yin xing yan	m/446
+ying cheng	m/263
+ying guang yu	p/456
+ying hua bao	p/420
+ying hua er	p/421
+ying hua ni	p/421
+ying hua ren	p/421
+ying hua yu	p/368
+ying huo	m/294
+ying ke kui jia	a/75
+ying qiao kui jia	a/75
+ying tou yi ji	m/660
+ying tou yi xi	m/660
+ying wu hua gua	m/119
+ying wu hua she	m/119
+ying wu xue gua	m/119
+ying wu xue she	m/119
+ying ya	m/912
+ying zhao	a/181
+ying zhua	a/181
+ying zi fen juan	m/104
+ying zi fen shen	m/104
+ying zi tou xi	m/425
+yong diao meng gong	m/413
+yong ji la	p/64
+yong juan you	p/418
+yong niao meng gong	m/413
+yong qi chen chong	m/850
+yong qi tian chong	m/850
+yong quan you	p/418
+yong shi xiong ying	p/628
+yong shui ning gu	a/195
+yong ti ya	p/913
+yong xi chen chong	m/850
+yong xi tian chong	m/850
+yong yue ya	p/913
+you bao	a/106
+you bo	a/106
+you hun	a/254
+you huo	m/445
+you ji la shi	p/246
+you ji la si	p/246
+you ke xi	p/480
+you ling	t/8
+you liu zi ru	a/33
+you mian mian	p/829
+you qing fang shou	a/132
+you se wen jing	a/110
+you se yan jing	a/110
+you shai wen jing	a/110
+you shai yan jing	a/110
+you wei xuan yu	p/902
+you ya mao	p/301
+you ya miao	p/301
+you yi xuan yu	p/902
+you you zi ru	a/33
+yu chi e	p/284
+yu chi yi	p/284
+yu dan ju sui	m/120
+yu ga zhi li	a/74
+yu ga zhu li	a/74
+yu ga zi shi	m/96
+yu jia zhi li	a/74
+yu jia zhu li	a/74
+yu jia zi shi	m/96
+yu li niu	p/929
+yu li wa	p/930
+yu mao wu	m/297
+yu pai	m/376
+yu pan	a/44
+yu qi	m/355
+yu qun	a/208
+yu shi ju sui	m/120
+yu shui ning gu	a/195
+yu xi	m/355
+yu xuan	a/44
+yu zhe dun pai	m/588
+yu zhe shun pai	m/588
+yu zhi meng	a/108
+yu zhi wei lai	m/248
+yu zhou li liang	m/322
+yuan ceng yuan	p/1015
+yuan fa shi	p/401
+yuan gai hai gui	p/564
+yuan gai hai jun	p/564
+yuan gai hai qiu	p/564
+yuan ge	a/203
+yuan ge hai gui	p/564
+yuan ge hai jun	p/564
+yuan ge hai qiu	p/564
+yuan gu ju dian	p/469
+yuan gu ju ting	p/469
+yuan gu qu dian	p/469
+yuan gu qu ting	p/469
+yuan hen	m/180
+yuan ke dou	p/535
+yuan liu sha	p/443
+yuan lu sha	p/443
+yuan nian	m/288
+yuan rong	a/203
+yuan shan shu	p/27
+yuan shan wang	p/28
+yuan shan yu	p/28
+yuan shi zhi li	m/246
+yuan shi zhu li	m/246
+yuan shu	a/151
+yuan shu shui mu	p/948
+yuan shu shui wu	p/948
+yuan si zhu	p/167
+yuan tong	m/608
+yuan tou	a/151
+yuan ye shui mu	p/948
+yuan ye shui wu	p/948
+yuan ying gui gui	p/353
+yuan ying gui wa	p/353
+yuan ying wa gui	p/353
+yuan ying wa wa	p/353
+yuan yuan xiang bao	m/841
+yuan yuan xiang fu	m/841
+yuan zeng yuan	p/1015
+yuan zhao xiong	p/760
+yuan zhe xiong	p/760
+yuan zhu xiong	p/760
+yuan zhuo xiong	p/760
+yue dan	p/337
+yue guang	m/236
+yue gui she	p/153
+yue gui xie	p/153
+yue gui ye	p/153
+yue hua fei jian la ling xiao	m/725
+yue hua fei jian luo ling xiao	m/725
+yue hua fei zan la ling xiao	m/725
+yue hua fei zan luo ling xiao	m/725
+yue liang yi bu	p/197
+yue liang zhi li	m/585
+yue liang zhu li	m/585
+yue pi	a/61
+yue qi	m/150
+yue ru xiong	p/901
+yue shi	p/337
+yue ti yu tao	a/193
+yue tian he tong	p/272
+yue tian he zhong	p/272
+yue yue xiong	p/901
+yue yue yu tao	a/193
+yun hen	m/180
+yun nian	m/288
+za gen	m/275
+za ji	m/512
+za qi	m/512
+zai huo zhi ding	a/284
+zai huo zhi jian	a/285
+zai huo zhi jian	a/286
+zai huo zhi yu	a/287
+zai huo zhi zhen	a/284
+zai huo zhu ding	a/284
+zai huo zhu jian	a/285
+zai huo zhu jian	a/286
+zai huo zhu yu	a/287
+zai huo zhu zhen	a/284
+zai lai yi ci	m/227
+zai lai yi zi	m/227
+zai sheng li	a/144
+zang bao li shu	p/820
+zang bao lie shu	p/820
+zang ma ran te	p/889
+zao	t/12
+zao di	m/320
+zao miao gui	p/387
+zao miao jun	p/387
+zao miao qiu	p/387
+zao qi	a/48
+zao zhi mao pi	a/179
+zao zhu mao pi	a/179
+zeng jiang quan	m/612
+zeng qiang quan	m/612
+zha bian	m/373
+zha dan	m/121
+zha feng	m/373
+zha gen	m/275
+zha hu mo	p/860
+zha xiao mo	p/860
+zhan chui long	p/409
+zhan chui mang	p/409
+zhan dao wei zhi	m/206
+zhan dou kui jia	a/4
+zhan dou qi huan	a/176
+zhan dou qie huan	a/176
+zhan hou	m/568
+zhan jue	m/367
+zhan wu lang	p/237
+zhan xian rong yuan	p/849
+zhan xue	m/367
+zhan zhu kui jia	a/4
+zhan zhu qi huan	a/176
+zhan zhu qie huan	a/176
+zhan zhui long	p/409
+zhan zhui mang	p/409
+zhang bi she	p/274
+zhang bi xie	p/274
+zhang bi ye	p/274
+zhang chi ou	p/278
+zhang er chan	p/428
+zhang er tu	p/428
+zhang hao	m/336
+zhang mao gou	p/508
+zhang mao ju mo	p/861
+zhang mao qu mo	p/861
+zhang mao zhu	p/221
+zhang reng chan	p/428
+zhang reng tu	p/428
+zhang wei guai shou	p/190
+zhang wei huo hu	p/654
+zhang wei lin jia long	p/784
+zhang wei lin jia mang	p/784
+zhang yi guai shou	p/190
+zhang yi huo hu	p/654
+zhang yi lin jia long	p/784
+zhang yi lin jia mang	p/784
+zhang yu tong	p/224
+zhang yu tong bao	m/190
+zhang yu tong pao	m/190
+zhao bei bi	p/299
+zhao huo ban	m/494
+zhao huo pan	m/494
+zhao ji dian ya	a/164
+zhao ti yu	p/259
+zhao wang	p/195
+zhao yu	p/195
+zhao yue yu	p/259
+zhe er ni e shi	p/716
+zhe er ni e si	p/716
+zhe er ni ya shi	p/716
+zhe er ni ya si	p/716
+zhe lan xiong	p/862
+zhe tian bi ri an ying jian	m/695
+zhe tian bie ri an ying jian	m/695
+zhe wan shang chi	m/134
+zhe wan shang shi	m/134
+zhe wan tang chi	m/134
+zhe wan tang shi	m/134
+zhen cang	m/387
+zhen guo qiu	p/204
+zhen ji	m/222
+zhen kong bei	m/410
+zhen kong bo	m/410
+zhen luo qiu	p/204
+zhen qi dan	m/411
+zhen qi quan	m/264
+zhen qi tan	m/411
+zhen xi dan	m/411
+zhen xi quan	m/264
+zhen xi tan	m/411
+zhen yi fa	p/987
+zhen zang	m/387
+zhen zhu bei	p/366
+zheng dian	a/57
+zheng dian bo bo	p/311
+zheng dian bo pai	p/311
+zheng dian pai bo	p/311
+zheng dian pai pai	p/311
+zheng gai bao zha	m/592
+zheng gai bo zha	m/592
+zheng gai ji	a/243
+zheng gai wei	a/243
+zheng qi bao zha	m/592
+zheng qi bo zha	m/592
+zheng qi ji	a/243
+zheng qi wei	a/243
+zheng xi zhi xin	a/154
+zheng xi zhu xin	a/154
+zheng yi zhi xin	a/154
+zheng yi zhu xin	a/154
+zheng za	m/165
+zheng zha	m/165
+zhi cai guang li	m/449
+zhi cai guang luo	m/449
+zhi chong xiong	p/264
+zhi chong zuan	m/529
+zhi dang e	p/910
+zhi dao	m/811
+zhi dun	a/12
+zhi gao jing shen po huai bei	m/648
+zhi gao jing shen po huai bei	m/649
+zhi gao jing shen po huai bo	m/648
+zhi gao jing shen po huai bo	m/649
+zhi gao jing shen po hui bei	m/648
+zhi gao jing shen po hui bei	m/649
+zhi gao jing shen po hui bo	m/648
+zhi gao jing shen po hui bo	m/649
+zhi gao jing shen po pi bei	m/648
+zhi gao jing shen po pi bei	m/649
+zhi gao jing shen po pi bo	m/648
+zhi gao jing shen po pi bo	m/649
+zhi hui xing	p/765
+zhi hun xing	p/765
+zhi mao	m/677
+zhi ming zhen ci	m/565
+zhi ming zhen qi	m/565
+zhi ni	m/189
+zhi nie	m/189
+zhi po	m/193
+zhi shan qiao	p/821
+zhi shan que	p/821
+zhi tang e	p/910
+zhi ya jian	p/798
+zhi yu bei dong	m/505
+zhi yu bo dong	m/505
+zhi yu jian	p/798
+zhi yu ling qing	m/215
+zhi yu ling sheng	m/215
+zhi yu zhi xin	a/131
+zhi yu zhi yuan	m/361
+zhi yu zhu xin	a/131
+zhi yu zhu yuan	m/361
+zhong	t/7
+zhong bang chong zhuang	m/484
+zhong bao bao	p/540
+zhong bao pao	p/540
+zhong bu	m/884
+zhong dai ji sheng	a/137
+zhong dai jiao sheng	a/137
+zhong dian bao	p/737
+zhong du ji sheng	a/137
+zhong du jiao sheng	a/137
+zhong gun ni	p/953
+zhong gun nie	p/953
+zhong ji chong ji	m/416
+zhong ji chong xi	m/416
+zhong ji fu te jue lei shan	m/646
+zhong ji fu te jue lei shan	m/647
+zhong ji fu te kuang lei shan	m/646
+zhong ji fu te kuang lei shan	m/647
+zhong ji xi qu	m/202
+zhong jia sheng	p/954
+zhong jiao	m/450
+zhong jie men ya	m/158
+zhong jie zhi de	a/190
+zhong jie zhi di	a/190
+zhong jie zhu de	a/190
+zhong jie zhu di	a/190
+zhong jin shu	a/134
+zhong jin zhu	a/134
+zhong li	m/356
+zhong ming	m/405
+zhong ni wan ma	p/750
+zhong nie wan ma	p/750
+zhong ou xiong	p/759
+zhong pang chong zhuang	m/484
+zhong pu	m/884
+zhong ta	m/523
+zhong yan zhi ge	m/195
+zhong yan zhu ge	m/195
+zhong yao	m/450
+zhong yi zhi ge	m/195
+zhong yi zhu ge	m/195
+zhong zi die qiu	p/597
+zhong zi ji guan cheng	m/331
+zhong zi ji guan qiang	m/331
+zhong zi ji wan cheng	m/331
+zhong zi ji wan qiang	m/331
+zhong zi shan guang	m/465
+zhong zi tie qiu	p/597
+zhong zi wei guan qiang	m/331
+zhong zi zha dan	m/402
+zhong zi zha tan	m/402
+zhou	m/64
+zhou shi	m/365
+zhou shu	m/174
+zhou shu zhi qu	a/130
+zhou shu zhu qu	a/130
+zhou si	m/365
+zhou zhu	m/174
+zhou zhu zhi qu	a/130
+zhou zhu zhu qu	a/130
+zhou zuan	m/65
+zhu bu ji po	m/498
+zhu bu xi po	m/498
+zhu dian quan	p/836
+zhu guang ling	p/607
+zhu li gu	p/286
+zhu wang	m/169
+zhu xing kong	p/772
+zhu zhang	a/251
+zhu zheng xin	a/79
+zhu zhu hong zha	m/738
+zhu zhuo hong zha	m/738
+zhua	m/10
+zhua jue	m/175
+zhua kuang	m/175
+zhuan di li wu	m/516
+zhuan shi li wu	m/516
+zhuang chi	m/777
+zhuang ji	m/33
+zhuang shi	m/777
+zhuang xi	m/33
+zhui da	m/228
+zhui ming zhen ci	m/565
+zhui ming zhen qi	m/565
+zhun pu	a/109
+zhuo	m/64
+zhuo liu	m/330
+zhuo meng	m/123
+zhuo re bao chong	m/896
+zhuo re pu chong	m/896
+zhuo shi	m/365
+zhuo si	m/365
+zhuo wu	m/123
+zhuo zhu hong zha	m/738
+zhuo zhu zha dan	m/738
+zhuo zhu zha tan	m/738
+zhuo zhuo hong zha	m/738
+zhuo zhuo zha dan	m/738
+zhuo zhuo zha tan	m/738
+zhuo zuan	m/65
+zi bao	m/120
+zi bao ci guai	p/462
+zi bo	m/120
+zi bo ci guai	p/462
+zi dan quan	m/418
+zi ran hui fu	a/30
+zi ran zhi en	m/363
+zi ran zhi li	m/267
+zi ran zhi nu	m/717
+zi ran zhu en	m/363
+zi ran zhu li	m/267
+zi ran zhu nu	m/717
+zi shen guo du	a/153
+zi shen guo duo	a/153
+zi tan quan	m/418
+zi wo an qi	m/244
+zi wo an shi	m/244
+zi wo ji li	m/526
+zi wo jiao li	m/526
+zi wo zai sheng	m/105
+zi xie yan	p/944
+zi xin guo du	a/153
+zi xin guo duo	a/153
+zi xin huo du	a/153
+zi xin huo duo	a/153
+zi yao la ti	m/507
+zi yao luo ti	m/507
+zi yao zhe	a/236
+zi you la ben	m/507
+zi you la ti	m/507
+zi you luo ben	m/507
+zi you luo ti	m/507
+zi you zhe	a/236
+zi zhi yan	p/944
+zong yan hang ren	p/745
+zong yan lang ren	p/745
+zou jing	p/974
+zou lu cao	p/43
+zou lu zao	p/43
+zou luo cao	p/43
+zou luo zao	p/43
+zou qing	p/974
+zu zhou	m/174
+zu zhou gui gui	p/354
+zu zhou gui wa	p/354
+zu zhou wa gui	p/354
+zu zhou wa wa	p/354
+zu zhou zhi qu	a/130
+zu zhou zhu qu	a/130
+zuan dan feng bao	m/591
+zuan dan feng pu	m/591
+zuan jiao xi shou	p/112
+zuan jue xi shou	p/112
+zuan shi feng bao	m/591
+zuan shi feng pu	m/591
+zun shou	a/198
+zuo ji shan yang	p/673
+zuo ji xiao yang	p/672
+zuo qi shan yang	p/673
+zuo qi xiao yang	p/672
