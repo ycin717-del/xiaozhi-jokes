@@ -300,7 +300,11 @@ bing qi e	p/875
 bing qie e	p/875
 bing qiu	m/301
 bing shan feng	m/836
+bing shu	t/15
+bing shu xing	t/15
 bing xi	m/524
+bing xi	t/15
+bing xi shu xing	t/15
 bing xuan	m/861
 bing xue ju long	p/699
 bing xue ju mang	p/699
@@ -450,6 +454,10 @@ cao di	m/320
 cao miao gui	p/387
 cao miao jun	p/387
 cao miao qiu	p/387
+cao shu	t/12
+cao shu xing	t/12
+cao xi	t/12
+cao xi shu xing	t/12
 cao xian zhu	p/918
 cao zhi mao pi	a/179
 cao zhi shi yao	m/520
@@ -536,6 +544,10 @@ chao jue luo xuan lian xi	m/639
 chao meng	p/150
 chao nao	m/253
 chao neng li	t/14
+chao neng li shu	t/14
+chao neng li shu xing	t/14
+chao neng li xi	t/14
+chao neng li xi shu xing	t/14
 chao neng miao miao	p/678
 chao neng yan tuo	p/956
 chao nie yun	a/105
@@ -633,8 +645,12 @@ chong nie wan ma	p/750
 chong pang chong zhuang	m/484
 chong pi	m/884
 chong pu	m/884
+chong shu	t/7
+chong shu xing	t/7
 chong ta	m/523
 chong tian quan	m/327
+chong xi	t/7
+chong xi shu xing	t/7
 chong yan	m/709
 chong yao	m/450
 chong yue ya	p/913
@@ -1051,6 +1067,10 @@ di long xiao tian dai zhong jie	m/630
 di long xiao tian dai zhong jie	m/631
 di man yan	p/525
 di mian	t/5
+di mian shu	t/5
+di mian shu xing	t/5
+di mian xi	t/5
+di mian xi shu xing	t/5
 di qiu shang dou	m/69
 di qiu shang tou	m/69
 di shen	m/89
@@ -1120,9 +1140,12 @@ dian qi yin qing	a/78
 dian qi zhi cao zhe	a/226
 dian qi zhi zao zhe	a/226
 dian qiu	m/486
+dian shu	t/13
 dian shu mu	p/796
+dian shu xing	t/13
 dian wang	m/527
 dian xi	m/84
+dian xi	t/13
 dian xi bei	m/351
 dian xi bo	m/351
 dian xi guai	p/239
@@ -1130,6 +1153,7 @@ dian xi mo shou	p/466
 dian xi pi fu	a/206
 dian xi pi lu	a/206
 dian xi shou	p/125
+dian xi shu xing	t/13
 dian xi yin qing	a/78
 dian xi zhi cao zhe	a/226
 dian xi zhi zao zhe	a/226
@@ -1277,6 +1301,8 @@ du shi chong ji	m/474
 du shi chong xi	m/474
 du shi xian jing	m/599
 du shou	a/143
+du shu	t/4
+du shu xing	t/4
 du shuo	a/90
 du si	m/672
 du suo lian	a/302
@@ -1285,6 +1311,8 @@ du wa si	m/139
 du wang	p/980
 du wei	m/342
 du xi	m/398
+du xi	t/4
+du xi shu xing	t/4
 du ye chong ji	m/474
 du ye chong xi	m/474
 du ye xian jing	m/599
@@ -1366,8 +1394,12 @@ e shi da wang	p/799
 e shi da yu	p/799
 e shi dai wang	p/799
 e shi dai yu	p/799
+e shu	t/17
+e shu xing	t/17
 e tang cao	p/753
 e tang zao	p/753
+e xi	t/17
+e xi shu xing	t/17
 e xiu	a/1
 e yi dui ji	m/372
 e yi dui xi	m/372
@@ -1473,6 +1505,10 @@ fei xie kuai diao	m/75
 fei xing	t/3
 fei xing pi fu	a/184
 fei xing pi lu	a/184
+fei xing shu	t/3
+fei xing shu xing	t/3
+fei xing xi	t/3
+fei xing xi shu xing	t/3
 fei ye feng bao	m/437
 fei ye feng pu	m/437
 fei ye kuai dao	m/75
@@ -1625,7 +1661,11 @@ gang pao bi ha	p/693
 gang pao bi xia	p/693
 gang quan shuang ji	m/742
 gang quan shuang xi	m/742
+gang shu	t/9
+gang shu xing	t/9
 gang tai li zhe	a/200
+gang xi	t/9
+gang xi shu xing	t/9
 gang yi	m/211
 gang zhi yi zhi	a/252
 gang zhu yi zhi	a/252
@@ -1659,6 +1699,10 @@ ge de xiao zhong	p/575
 ge dou	t/2
 ge dou bao chong	m/899
 ge dou pu chong	m/899
+ge dou shu	t/2
+ge dou shu xing	t/2
+ge dou xi	t/2
+ge dou xi shu xing	t/2
 ge duo la	p/305
 ge ge duo la	p/304
 ge ke duo la	p/304
@@ -2123,9 +2167,13 @@ huo shen e	p/637
 huo shen yi	p/637
 huo shi kui	p/140
 huo shi yi long	p/142
+huo shu	t/10
+huo shu xing	t/10
 huo tan shi	p/668
 huo wei ji yong	m/289
 huo wei qi yong	m/289
+huo xi	t/10
+huo xi shu xing	t/10
 huo xue zhi li	a/223
 huo xue zhu li	a/223
 huo yan bian	m/680
@@ -3087,12 +3135,16 @@ long qing gu wu	m/913
 long quan feng	m/239
 long quan yun	p/641
 long sheng gu wu	m/913
+long shu	t/16
+long shu xing	t/16
 long tou de shu	p/530
 long tou di shu	p/530
 long wang he	p/452
 long wang xie	p/452
 long wei	m/525
 long xi	m/225
+long xi	t/16
+long xi shu xing	t/16
 long xia xiao bing	p/341
 long yan guai	p/526
 long yi	m/525
@@ -4501,9 +4553,13 @@ shui mu	a/41
 shui pao	a/199
 shui pao	m/56
 shui qiang	m/55
+shui shu	t/11
+shui shu xing	t/11
 shui shui gu	p/755
 shui shui ta	p/501
 shui ti yu	p/258
+shui xi	t/11
+shui xi shu xing	t/11
 shui yi bu	p/134
 shui yue yu	p/258
 shui zheng qi	m/876
@@ -5324,6 +5380,10 @@ yan shi lei	p/933
 yan shi lv	p/933
 yan shi pao	m/439
 yan shi qu ling	p/934
+yan shi shu	t/6
+yan shi shu xing	t/6
+yan shi xi	t/6
+yan shi xi shu xing	t/6
 yan shui	m/362
 yan tu er	p/813
 yan tu ni	p/813
@@ -5353,8 +5413,12 @@ yao jing pi fu	a/182
 yao jing pi lu	a/182
 yao jing qi chang	a/187
 yao jing qi shang	a/187
+yao jing shu	t/18
+yao jing shu xing	t/18
+yao jing xi	t/18
 yao jing xi chang	a/187
 yao jing xi shang	a/187
+yao jing xi shu xing	t/18
 yao jing zhi feng	m/584
 yao jing zhi suo	m/587
 yao jing zhu feng	m/584
@@ -5404,6 +5468,10 @@ ye zi fang shou	a/102
 yi ban	t/1
 yi ban pi fu	a/96
 yi ban pi lu	a/96
+yi ban shu	t/1
+yi ban shu xing	t/1
+yi ban xi	t/1
+yi ban xi shu xing	t/1
 yi bu	p/133
 yi ci yuan dong	m/593
 yi ci yuan meng gong	m/621
@@ -5517,6 +5585,10 @@ you ji la shi	p/246
 you ji la si	p/246
 you ke xi	p/480
 you ling	t/8
+you ling shu	t/8
+you ling shu xing	t/8
+you ling xi	t/8
+you ling xi shu xing	t/8
 you liu zi ru	a/33
 you mian mian	p/829
 you qing fang shou	a/132

@@ -442,6 +442,14 @@ for name_tables, prefix in ((((sp_zh, sp_hans)), 'p'), ((mv_zh, mv_hans), 'm'),
             for combo in dict.fromkeys(c for c in combos if len(c) == len(chars)):
                 py_lines.add(f"{' '.join(combo)}\t{ref}")
 
+# Type keys with suffixes (毒屬性, 毒系) so a misheard "獨屬性" still finds 毒.
+for key, refs in index.items():
+    if all(is_cjk(c) for c in key) and any(r.startswith('t/') for r in refs):
+        syl = ' '.join(lazy_pinyin(c, errors='ignore')[0] for c in key)
+        for r in refs:
+            if r.startswith('t/'):
+                py_lines.add(f"{syl}\t{r}")
+
 with open(os.path.join(OUT, 'pinyin.txt'), 'w', encoding='utf-8') as f:
     f.write('\n'.join(sorted(py_lines)) + '\n')
 
