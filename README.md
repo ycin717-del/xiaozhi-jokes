@@ -11,3 +11,15 @@ https://raw.githubusercontent.com/ycin717-del/xiaozhi-jokes/main/jokes.json
 - `id`：唯一、不可重複使用（裝置用它記住講過哪些）
 - `age`：小＝6 歲、大＝10 歲、都＝都適合
 - 新增笑話：往 `jokes` 陣列尾端加，`id` 接著編號，並更新 `version`
+
+## 寶可夢圖鑑（pokedex/）
+
+小智的 `self.pokemon.lookup` 工具會讀這裡的資料。全部是官方繁體中文名稱與說明，來源是 [PokeAPI](https://github.com/PokeAPI/pokeapi) 的資料表，用 `tools/gen_pokedex.py` 產生。
+
+- `pokedex/index.txt`：每行「名字<TAB>種類/編號」，名字包含繁體、簡體和英文（小寫、去掉空白符號）
+- `pokedex/p/<全國圖鑑編號>.json`：寶可夢（屬性、特性、種族值、弱點、進化、圖鑑說明、升級招式）
+- `pokedex/m/<編號>.json`：招式
+- `pokedex/a/<編號>.json`：特性
+- `pokedex/t/<編號>.json`：屬性相剋
+
+重新產生：下載 PokeAPI 的 `data/v2/csv` 後執行 `python tools/gen_pokedex.py <csv資料夾> pokedex`。
