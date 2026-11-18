@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/ycin717-del/xiaozhi-jokes/main/jokes.json
 - `pokedex/m/<編號>.json`：招式
 - `pokedex/a/<編號>.json`：特性
 - `pokedex/t/<編號>.json`：屬性相剋
-- `pokedex/names.txt`：每行「編號<TAB>名字<TAB>屬性編號<TAB>圖片可見範圍 x,y,w,h」，給小智的圖鑑翻頁用（範圍用 tools/add_sprite_boxes.py 產生，讓每隻寶可夢顯示一樣大）
+- `pokedex/names.txt`：每行「編號<TAB>名字<TAB>屬性編號<TAB>圖片可見範圍 x,y,w,h<TAB>進化階段（>分隔階段、逗號分隔同階段）」，給小智的圖鑑翻頁用（範圍用 tools/add_sprite_boxes.py 產生，讓每隻寶可夢顯示一樣大）
 - `pokedex/pinyin.txt`、`pokedex/pinyin_chars.txt`：讀音對照（只在小智內部用來比對語音辨識聽錯的同音字，例如「耿貴」→耿鬼，不會唸出來或顯示）
 
 重新產生：下載 PokeAPI 的 `data/v2/csv` 後執行 `python tools/gen_pokedex.py <csv資料夾> pokedex`。

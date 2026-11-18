@@ -466,10 +466,28 @@ print('pinyin keys', len(py_lines), 'bytes', os.path.getsize(os.path.join(OUT, '
       'char table bytes', os.path.getsize(os.path.join(OUT, 'pinyin_chars.txt')),
       'syllables', len(by_syllable))
 
-# ---------- names.txt: number, name and type ids for the on-device browser ----------
+# ---------- names.txt: number, name, type ids, sprite box, evolution stages ----------
+# Stages: "1>2>3"; several Pokémon in one stage are separated by commas ("133>134,135,...").
+def chain_stages(sid):
+    members = chains[int(species[sid]['evolution_chain_id'])]
+    parent = {m: int(species[m]['evolves_from_species_id']) for m in members
+              if species[m]['evolves_from_species_id'] and int(species[m]['evolves_from_species_id']) in members}
+    stage = {}
+    def depth(m):
+        if m not in stage:
+            stage[m] = 0 if m not in parent else depth(parent[m]) + 1
+        return stage[m]
+    for m in members:
+        depth(m)
+    out = []
+    for level in range(max(stage.values()) + 1):
+        out.append(','.join(str(m) for m in sorted(members) if stage[m] == level))
+    return '>'.join(out)
+
+
 with open(os.path.join(OUT, 'names.txt'), 'w', encoding='utf-8') as f:
     for sid in sorted(species):
         pid = int(default_pokemon[sid]['id'])
         types = ','.join(str(t) for _, t in sorted(ptypes[pid]))
-        f.write(f"{sid}\t{sp_zh[sid]}\t{types}\n")
+        f.write(f"{sid}\t{sp_zh[sid]}\t{types}\t0,0,96,96\t{chain_stages(sid)}\n")
 print('names.txt bytes', os.path.getsize(os.path.join(OUT, 'names.txt')))
